@@ -4,8 +4,10 @@ title: Views on Future of a Data Scientist
 subtitle: Roles and Responsibilities
 categories: Data Science
 tags: [DataScience, DataScientist, Ethics]
+featured_image: 'images/demo/future_data_science.jpg'
 ---
 
+![](images/demo/future_data_science.jpg)
 ## Views on Future of a Data Scientist: Roles and Responsibilities
 
 After critically reading the contributions of my colleagues in the "Collaborative Discussion 1", several of us (including myself) emphasize that Saxena (2021) begins his writing in a superficial and pessimistic way and I even consider that he tries a little to discourage the reader from delving, into this wonderful world.
