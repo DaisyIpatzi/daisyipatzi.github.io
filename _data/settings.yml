@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Personal
+  site_title: Daisy's E-Portfolio
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -18,7 +18,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: A sleek, modern Jekyll theme for personal websites.
+  footer_tagline: Data Enthusiastic and MsC Data Science Student!
 
 hero_settings:
   overlay_opacity: 0.8
