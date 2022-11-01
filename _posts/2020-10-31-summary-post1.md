@@ -1,11 +1,11 @@
 ---
 title: 'Views on Future of a Data Scientist'
-date: 2020-10-31 00:00:00
+date: 2020-10-31 17:00:00 -0700
 description: Views on Future of a Data Scientist: Roles and Responsibilities
 featured_image: 'images/demo/future_data_science.jpg'
 ---
 
-![](images/demo/future_data_science.jpg)
+![](images/demo/images/demo/future_data_science.jpg)
 
 ## Views on Future of a Data Scientist: Roles and Responsibilities
 
