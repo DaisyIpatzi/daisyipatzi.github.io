@@ -1,11 +1,11 @@
 ---
-title: 'Views on Future of a Data Scientist'
-date: 2020-10-31 17:00:00 -0700
-description: Views on Future of a Data Scientist: Roles and Responsibilities
-featured_image: 'images/demo/future_data_science.jpg'
+title: 'Demo Post'
+date: 2018-06-30 00:00:00
+description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+featured_image: '/images/demo/demo-square.jpg'
 ---
 
-![](images/demo/images/demo/future_data_science.jpg)
+![](/images/demo/demo-landscape.jpg)
 
 ## Views on Future of a Data Scientist: Roles and Responsibilities
 
