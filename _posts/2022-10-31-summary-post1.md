@@ -1,11 +1,11 @@
 ---
-title: 'Demo Post'
+title: 'Views on Future of a Data Scientist: Roles and Responsibilities'
 date: 2022-10-31 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
-featured_image: '/images/demo/demo-square.jpg'
+description: 'Essay: Summary Post 1'
+featured_image: '/images/demo/future_data_science.jpg'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/demo/future_data_science.jpg)
 
 ## Views on Future of a Data Scientist: Roles and Responsibilities
 
