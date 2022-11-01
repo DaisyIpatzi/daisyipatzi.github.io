@@ -2,7 +2,7 @@
  👀 I’m interested in Analytics and Data Science
  🌱 I’m currently learning Python and Data Science
  💞️ I’m looking to collaborate on Data Science projects, NLP
- 📫 How to reach me daisy.ipatzi.bello@gmail.co,
+ 📫 How to reach me daisyta152@gmail.com
 
 ## Portfolio HTML Template Reference
 
