@@ -36,9 +36,9 @@ The theme also supports markdown tables:
 
 | Item                 | Author        | Supports tables? | Price |
 |----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $49   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $49   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $49   |
+| Duet Jekyll Theme    | Jekyll Themes | Yes              | xxx   |
+| Index Jekyll Theme   | Jekyll Themes | Yes              | xxx   |
+| Journal Jekyll Theme | Jekyll Themes | Yes              | xxx   |
 
 And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
 
