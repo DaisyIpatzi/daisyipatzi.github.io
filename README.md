@@ -4,4 +4,4 @@
 
 💞️ I’m looking to collaborate on Data Science projects, NLP 
 
-📫 How to reach me daisyta152@gmail.com
+📫 How to reach me: daisyta152@gmail.com
