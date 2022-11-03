@@ -1,7 +1,7 @@
 ---
-title: About me
-subtitle: Personal is the perfect theme for developers, designers and other creatives.
-description: Personal is the perfect theme for developers, designers and other creatives.
+title: About me!
+subtitle: “It’s easy to lie with statistics It’s hard to tell the truth without statistics.” - Andrejs Dunkels
+description: Here, you will find information about myself!
 featured_image: /images/demo/about.jpg
 ---
 
