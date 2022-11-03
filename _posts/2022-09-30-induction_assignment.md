@@ -1,5 +1,5 @@
 ---
-title: 'Importance of a Postgraduate degree in the Computer Science Field (Data Science)'
+title: 'Importance of a Postgraduate Degree in the Computer Science Field (Data Science)'
 date: 2022-09-30 00:00:00
 description: 'Essay: Induction Assignment'
 featured_image: '/images/demo/data_science.jpg'
@@ -7,7 +7,7 @@ featured_image: '/images/demo/data_science.jpg'
 
 ![](/images/demo/data_science.jpg)
 
-## Importance of a Postgraduate degree in the Computer Science Field (Data Science)
+## Importance of a Postgraduate Degree in the Computer Science Field (Data Science)
 
 More than 17 years ago, when I was starting my undergraduate studies in Mexico, I would never have imagined the revolution of the digital age. 
 The digital age brought with it a massive explosion of data coupled with new technologies and products developed with Artificial Intelligence and Big Data. 
