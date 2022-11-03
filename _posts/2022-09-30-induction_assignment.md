@@ -2,10 +2,10 @@
 title: 'Importance of a Postgraduate degree in the Computer Science Field (Data Science)'
 date: 2022-09-30 00:00:00
 description: 'Essay: Induction Assignment'
-featured_image: '/images/demo/future_data_science.jpg'
+featured_image: '/images/demo/data_science.jpg'
 ---
 
-![](/images/demo/future_data_science.jpg)
+![](/images/demo/data_science.jpg)
 
 ## Importance of a Postgraduate degree in the Computer Science Field (Data Science)
 
