@@ -13,7 +13,7 @@ It is extremely enriching to read the contributions made in the Collaborative Le
 
 **Few benefits:**
 
-* The European Union considers that privacy is a fundamental right of citizens that must be protected.
+* The European Union considers that privacy is a fundamental right of citizens that must be protected
 * With the GDPR, the rights and freedoms of citizens are extended, paying special attention to minors
 * The principle of proactive responsibility establishes that companies must apply technical and organisational measures to assure citizens that we respect those rights and freedoms
 * The risk approach allows us to adjust these measures to our circumstances
@@ -24,7 +24,7 @@ Complying with the GDPR means that companies act ethically in an aspect that is 
 * Understand the GDPR legal framework
 * Create a data registry: Each country has a Data Protection Association (DPA), which will be responsible for enforcing the GDPR
 * Classify data: Find personally identifiable information (PII)
-* Start with the top priority: With any data or application, the first priority should be to protect the privacy of the user.
+* Start with the top priority: With any data or application, the first priority should be to protect the privacy of the user
 * Assess and document additional risks and processes
 * Review and repeat
 
