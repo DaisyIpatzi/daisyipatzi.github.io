@@ -30,7 +30,7 @@ Complying with the GDPR means that companies act ethically in an aspect that is 
 
 **References:**
 
-United Nations Conference on Trade and Development (2021). _Data Protection and Privacy Legislation Worldwide | UNCTAD_. [online] unctad.org. Available at: https://unctad.org/page/data-protection-and-privacy-legislation-worldwide  [Accessed 14 Nov. 2022].
+United Nations Conference on Trade and Development (2021). _Data Protection and Privacy Legislation Worldwide | UNCTAD. [online] unctad.org_. Available at: https://unctad.org/page/data-protection-and-privacy-legislation-worldwide  [Accessed 14 Nov. 2022].
 
 Raso, F.A. (2018). _Innovating in Uncertainty: Effective Compliance and the GDPR. [online] Harvard Journal of Law & Technology_. Available at: https://jolt.law.harvard.edu/digest/innovating-in-uncertainty-effective-compliance-and-the-gdpr [Accessed 23 Oct. 2022].
  
