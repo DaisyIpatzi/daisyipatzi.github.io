@@ -35,6 +35,7 @@ Raso, F.A. (2018). _Innovating in Uncertainty: Effective Compliance and the GDPR
 European Parliament and of the Council (2016). _GDPR Regulation at: Regulation (EU) 2016/679_. Available at: https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1532348683434&uri=CELEX:02016R0679-20160504  [Accessed 22 Oct. 2022].
  
 Commission to The European Parliament and of the Council (2019). _Communication: Data protection rules as a trust-enabler in the EU and beyond – taking stock (COM/2019/374)_. Available at: https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=COM:2019:374:FIN  [Accessed 22 Oct. 2022].
+ 
+United Nations Conference on Trade and Development (2021). _Data Protection and Privacy Legislation Worldwide | UNCTAD__. Available at: https://unctad.org/page/data-protection-and-privacy-legislation-worldwide [Accessed 14 Nov. 2022].
 
-United Nations Conference on Trade and Development (2021). _Data Protection and Privacy Legislation Worldwide | UNCTAD_. Available at: https://unctad.org/page/data-protection-and-privacy-legislation-worldwide  [Accessed 14 Nov. 2022].
 
