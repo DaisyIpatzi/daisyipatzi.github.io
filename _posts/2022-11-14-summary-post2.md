@@ -1,11 +1,11 @@
 ---
 title: 'GDPR Regulation and Data Protection rules as a Trust-Enabler in the EU and Beyond'
 date: 2022-11-14 00:00:00
-description: 'Essay: Summary Post 2'
+description: 'Essay: Summary Post 2 | Module 1'
 featured_image: '/images/demo/UNCTAD_2021.png'
 ---
 
-## GDPR Regulation and Data Protection rules as a Trust-Enabler in the EU and Beyond
+## GDPR Regulation and Data Protection Rules as a Trust-Enabler in the EU and Beyond
 
 It is extremely enriching to read the contributions made in the Collaborative Learning Discussion (of Essex Online), especially since we all have different backgrounds, nationalities, and most of us have been working for different industries. First, I would like to keep pointing out that amid the era of globalization, the rapid technological evolution poses new challenges for the protection of personal data; we are faced with powerful technological tools for data protection in the digital ecosystem and plus, data is the gold of the 21st century for many companies. My research has found that 71% countries have legislation around the world, (United Nations Conference on Trade and Development, 2021).
 
