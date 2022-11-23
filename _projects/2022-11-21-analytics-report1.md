@@ -1,8 +1,8 @@
 ---
 title: 'Data Analytics Report: “National Survey for Wales: Transport”'
-subtitle: 'This is a demo'
+subtitle: 'Data Handling Process & Evaluation'
 date: 2022-11-21 00:00:00
-description: Initiation of an Implementation of a Data Analytics Report
+description: First Stepts For a Data Analytics Report Implementation
 featured_image: '/images/demo/analytics.png'
 ---
 
