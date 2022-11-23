@@ -1,106 +1,118 @@
 ---
-title: 'Demo Project'
+title: 'Data Analytics Report: “National Survey for Wales: Transport”'
 subtitle: 'This is a demo'
-date: 2018-06-30 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
-featured_image: '/images/demo/demo-square.jpg'
+date: 2022-11-21 00:00:00
+description: Initiation of an Implementation of a Data Analytics Report
+featured_image: 'daisyipatzi.github.io/images/demo/analytics.png'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+## 1. Objective
 
-## Demo content
+Transport is a main sector for the global development of the economy in any single corner of this world, one of them and a very imperative one is it guarantees the mobility of citizens, it also constitutes a basic tool to increase the performance of the productive sectors. The purpose of this document is to propose a strategy that helps to initiate a data analytics implementation of the “National Survey for Wales, 2013-2014: Transport”. 
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+## 2. General Overview About Wales and Its Transport System
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
+Wales is located on the Island of Great Britain, west of England and its area is about half the size of the Netherlands, density averages are 150 people per square kilometre; most of the Welsh landscape is protected, there are not many straight roads in Wales, due to the mountains. 
+“The dominant mode of travel in Wales is currently provided by the private car “, (Welsh Assembly Government, 2008) and apart from that, the transport key is a railway network, cycling, walking, road transport, motorcycling and air transport.
 
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+##3. Data Handling Process
+To work with data, we must consider the different stages of data processing and it refers to the entire process followed by a researcher from the collection of data, until the presentation of the same, in a summary form. 
+Have basically three stages: collection and entry, processing, and presentation; for the scope of this project, we will use the steps proposed by Kazil & Jarmul (2016)
 
-You can create lists:
+![](/images/demo/handling_process.png)
 
-* Simple bulleted lists
-* Like this one
-* Are cool
+### 3.1 Identifying the story
 
-And:
+Since, we will be analysing the results provided by the National Survey of Wales, we will explore, understand, describe, and identify areas of opportunity in the transport system of Wales. for the results extracted from the Department of Statistics, National Survey Team, 2013-14 and via the University of Essex Online. 
+We will start describing the current scenario through the overall results and then we will deep-dive in the bivariate analysis to identify any inflection points, we will finalize our data implementation with few recommendations.
 
-1. Numbered lists
-2. Like this other one
-3. Are great too
+### 3.2 Identifying the data
 
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
+Data set provided by the University of Essex Online is not the latest release; newest version available was updated in July 2022. National Survey was conducted by TNS-BMRB and Beaufort Research on behalf of the Welsh Government (Welsh Government, 2014). Results by year are available on the website of the Government of Wales from 2012, containing relevant information about active travel, internet access and use, personal finances, trust in people and institutions, local authority services, experience of GP (general practitioners) and hospital services, satisfaction with health services, transport and so on. According to the technical background provided on the website of the Government, for this survey, “just over 24,000 addresses were chosen randomly from the Royal Mail’s Small User Postcode Address File. Interviewers visited each address, randomly selected one adult (aged 16+) in the household and carried out a 25-minute face-to-face interview with them. A total of 14,771 interviews were achieved. This equates to a response rate of 70%.”, (Welsh Government, 2014).
 
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
+#### 3.2.1. Data set review
 
-The theme also supports markdown tables:
+* 42 summarized tables with the results of the survey. Overall satisfaction is 5.9
+* About 15 unique indicators such as: Household type, have use of a car, gender, urban or rural area, local authority, public services footprint, etc., with overall results (average of the overall satisfaction with state of transport, average of satisfaction with life and percentages), see Figure 1.
+* 4 groups of tables with a certain variable combined with some others such as: have use of a car split by gender, have use of a car split by urban/rural area, have use of a car split by WIMD deprivation score, etc. See Figure 2 to Figure 5.
+* The sample size variates because, the results are based on only surveyed only who answered the questions.
 
-| Item                 | Author        | Supports tables? | Price |
-|----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | xxx   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | xxx   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | xxx   |
+#### 3.2.2. Variables understanding
 
-And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
+As a person who has been working as a data analyst for over than 10 years, understand every single variable is a key, it will help us to comprehend behaviours, paths and so on:
+          
+|	                        Variable Name                         |                               Variable Type / Remarks                                  |
+|---------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| Household                                                           | Qualitative, ordinal; single pensioner (no children), married couple (no children), etc| 
+| Have use of car                                                     | Qualitative, nominal; yes or no                                                        |
+| Urban/rural area                                                    | Qualitative, nominal                                                                   |
+| Local authority                                                     | Qualitative, nominal                                                                   |
+| Public services footprint                                           | Qualitative, nominal                                                                   |
+| WIMD deprivation score                                              | Quantitative, continues, ratio; WIMD is used as the official measure of deprivation    |
+| WIMD access to services score                                       | Quantitative, continues, ratio                                                         |
+| Satisfaction with life (low or high)                                | Quantitative, discrete                                                                 |
+| Age                                                                 | Quantitative, discrete                                                                 |
+| Employment status                                                   | Qualitative, nominal                                                                   |
+| Local area is free from heavy traffic                               | Qualitative, ordinal                                                                   |
+| Feeling of safety of travelling by public transportation after dark | Qualitative, ordinal                                                                   |
+| General health                                                      | Qualitative, nominal; very good, good, fair, bad, very bad, etc                        |
+| ACORN classification                                                | Qualitative, nominal; wealthy achievers, urban prosperity, comfortably off, etc        |
+| Ease of getting to and from GP surgery                              | Qualitative, nominal; very easy, fairly easy, fairly difficult, etc.                   |
+| Ease of getting to and from hospital| Qualitative, nominal          | Qualitative, nominal; very easy, fairly easy, fairly difficult, etc                    |
 
-[^1]: Beautiful modern, minimal theme design.
-[^2]: Powerful features to show off your work.
-[^3]: Maintained and supported by the theme developer.
+![](/images/demo/f1_p1.png)
 
-You can throw in some horizontal rules too:
+*Figure 1: Overall metrics, univariate analysis*
 
----
+![](/images/demo/f2_p1.png)
 
-### Image galleries
+*Figure 2: Have use of a car, bivariate analysis*
 
-Here's a really neat custom feature we added – galleries:
+![](/images/demo/f3_p1.png)
 
-<div class="gallery" data-columns="3">
-	<img src="/images/demo/demo-portrait.jpg">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-square.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
+*Figure 3: Easy of Getting "To" and "From" GP Surgery, bivariate analysis*
 
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
+![](/images/demo/f4_p1.png)
 
-```html
-<div class="gallery" data-columns="3">
-    <img src="/images/demo/demo-portrait.jpg">
-    <img src="/images/demo/demo-landscape.jpg">
-    <img src="/images/demo/demo-square.jpg">
-    <img src="/images/demo/demo-landscape-2.jpg">
-</div>
-```
+*Figure 4: Easy of Getting "To" and "From" GP Surgery, bivariate analysis*
 
-*See what we did there? Code and syntax highlighting is built-in too!*
+![](/images/demo/f5_p1.png)
 
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
+*Figure 5: Feeling of Safety Travelling by Public Transport After Dark, bivariate analysis*
 
----
+#### 3.2.3. UML Survey System
 
-### Image carousels
+UML diagrams help to specify and visualize models of software systems, including its structure and design, in the Appendix A, there is a proposal of the UML survey system, which includes question type examples, and it assumes the current model of the National Survey for Wales (interviewers visiting each address).
 
-Here's another gallery with only one column, which creates a carousel slide-show instead.
+![](/images/demo/UML_Survey_System.png)
 
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
+### 3.3 Parsing and cleaning the data (acquiring, storing, and exploring the data)
 
-<div class="gallery" data-columns="1">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
+It is, as its name implies, the debugging of bad data in a table or database. This action will permit us to identify incorrect, incomplete, or irrelevant data; after cleaning, the unusable data is replaced, modified, or completely deleted. 
 
-### What about videos?
+At this point, this data is already parsed, cleaned up and even digested. Essentially, we have been provided with measures of central tendency, such as the mean of the overall satisfaction with state of transport in Wales; measures of frequency distribution, such as the occurrence of the datasets; measures of variability describe the dispersion of the data set, such as the coefficient of variation and so on; statistically talking, we have been provided with univariate analysis and bivariate analysis (which describes the relationship between pairs of variables), an example of bivariate analysis is the table 17: have use of a car, by gender.
 
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
+Due to the nature of this dataset, variable types and the information revised, for the exploration part I will be focused on the interpretation and visualization of the information provided and thus, I will grant a friendly and condensed description of the tables and observations that have been made, availing of descriptive statistics and some of its graphic representation.
+Just a gentil reminder, “descriptive statistics are brief informational coefficients that summarize a given data set, which can be either a representation of the entire population or a sample of a population”, (Hayes, 2022).
 
-<iframe src="https://player.vimeo.com/video/148003889" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+Ideally, we should be exploring the latest survey release to generate insights, anyhow this is a good educational example to understand the data handling process and evaluation that we will be actively applying during the next modules. 
+Data exploration help companies or institutions quickly explore large amounts of data to better understand the next steps in terms of further analysis. This gives us a more manageable starting point and a way to target areas of interest. In most cases, data exploration involves using data visualizations to examine data at a high level. 
+By taking this high-level approach, we will be able to determine which data is most important and which will distort the analysis and therefore need to be removed. Data exploration can also be helpful in reducing time spent on less valuable analysis by choosing the right path from the very beginning.
 
----
 
-## Pretty cool, huh?
+### 3.4	Present/share the data
 
-We've packed this theme with powerful features to show off your work.
+Implementation will be shared in another post, very soon! :)
 
-Why not put them to use on your new portfolio?
 
-<!--<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>-->
+## References
+
+Welsh Government (2014). National Survey for Wales headline results: April 2013 to March 2014. [online] GOV.WALES. Available at: https://gov.wales/national-survey-wales-headline-results-april-2013-march-2014 [Accessed 15 Nov. 2022].
+
+Welsh Government (2022). Transport & Travel | Wales. [online] www.wales.com. Available at: https://www.wales.com/transport-travel [Accessed 14 Nov. 2022].
+
+Welsh Government (2022). Transport & Travel | Wales. [online] www.wales.com. Available at: https://www.wales.com/transport-travel [Accessed 14 Nov. 2022].
+Kazil, J. and Jarmul, K. (2016). Data wrangling with Python. Sebastopol, Ca: O’reilly Media.
+
+Hayes, A. (2022). Descriptive Statistics. [online] Investopedia. Available at: https://www.investopedia.com/terms/d/descriptive_statistics.asp [Accessed 20 Nov. 2022].
+
