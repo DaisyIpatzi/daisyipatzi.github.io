@@ -41,7 +41,7 @@ Data set provided by the University of Essex Online is not the latest release; n
 
 As a person who has been working as a data analyst for over than 10 years, understand every single variable is a key, it will help us to comprehend behaviours, paths and so on:
           
-|	                        Variable Name                       |                               Variable Type / Remarks                                |
+|	                        Variable Name                         |                               Variable Type / Remarks                                  |
 |---------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | Household                                                           | Qualitative, ordinal; single pensioner (no children), married couple (no children), etc| 
 | Have use of car                                                     | Qualitative, nominal; yes or no                                                        |
