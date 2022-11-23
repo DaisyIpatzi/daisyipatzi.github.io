@@ -41,7 +41,7 @@ Data set provided by the University of Essex Online is not the latest release; n
 
 As a person who has been working as a data analyst for over than 10 years, understand every single variable is a key, it will help us to comprehend behaviours, paths and so on:
           
-|	                        Variable Name                         |                               Variable Type / Remarks                                  |
+|	                        Variable Name                       |                               Variable Type / Remarks                                |
 |---------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | Household                                                           | Qualitative, ordinal; single pensioner (no children), married couple (no children), etc| 
 | Have use of car                                                     | Qualitative, nominal; yes or no                                                        |
@@ -86,6 +86,53 @@ UML diagrams help to specify and visualize models of software systems, including
 
 ![](/images/demo/UML_Survey_System.png)
 
+*Figure 6: Highlevel Survey System*
+
+**Question Classification Examples**
+
+1. Multiple Choice Question
+2. Rating Scale Question								
+3. Ranking Question									
+4. Open-ended Question, etc	
+
+**Question Type Examples**	
+							
+1. Address Check:
+- Serial Number
+- Address Confirmation
+- Name of Police Station Registered at
+- Sexual Orientation								
+- Religion								
+- Household Type (Table 1, Table 27 and Table 35)			
+
+2. General Demographic Question:						
+- Country of birth								
+- Nationality							
+- Ethnicity		
+- Religion
+- Qualifications								
+- Gender Confirmation (Table 3, Table 17 and Table 41)		
+- Marital Status								
+- Respondent Relationships							
+- Car use (Table 2, Table 15 to Table 22 and Table 34)			
+- Employment Situation						
+- Employment Situation (Table 11, Table 21, Table 29, Table 37)		
+- Others	
+
+3. Health Questions:								
+- Questions about health conditions, illness, or impairments (Table 12, Table 22, Table 25, Table 33)					
+- Opinions on local health services						
+- GP Services: such as accessibility from to GP surgery (Table 23 to Table 30)
+- Hospital Services: such as accessibility from to Hospital Services (Table 31 to 38)
+- Others								
+
+4. Satisfaction With									
+- Education System 								
+- Health Services								
+- Transport System								
+- Life								
+- Others								
+
 ### 3.3 Parsing and cleaning the data (acquiring, storing, and exploring the data)
 
 It is, as its name implies, the debugging of bad data in a table or database. This action will permit us to identify incorrect, incomplete, or irrelevant data; after cleaning, the unusable data is replaced, modified, or completely deleted. 
@@ -116,3 +163,4 @@ Kazil, J. and Jarmul, K. (2016). Data wrangling with Python. Sebastopol, Ca: Oâ€
 
 Hayes, A. (2022). Descriptive Statistics. [online] Investopedia. Available at: https://www.investopedia.com/terms/d/descriptive_statistics.asp [Accessed 20 Nov. 2022].
 
+Dataset used is here
