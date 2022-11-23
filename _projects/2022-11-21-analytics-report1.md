@@ -3,7 +3,7 @@ title: 'Data Analytics Report: “National Survey for Wales: Transport”'
 subtitle: 'This is a demo'
 date: 2022-11-21 00:00:00
 description: Initiation of an Implementation of a Data Analytics Report
-featured_image: 'daisyipatzi.github.io/images/demo/analytics.png'
+featured_image: '/images/demo/analytics.png'
 ---
 
 ## 1. Objective
@@ -163,4 +163,4 @@ Kazil, J. and Jarmul, K. (2016). Data wrangling with Python. Sebastopol, Ca: O�
 
 Hayes, A. (2022). Descriptive Statistics. [online] Investopedia. Available at: https://www.investopedia.com/terms/d/descriptive_statistics.asp [Accessed 20 Nov. 2022].
 
-Dataset used is here
+Dataset [available here](https://github.com/DaisyIpatzi/daisyipatzi.github.io/tree/main/assets).
