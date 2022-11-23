@@ -15,7 +15,7 @@ Transport is a main sector for the global development of the economy in any sing
 Wales is located on the Island of Great Britain, west of England and its area is about half the size of the Netherlands, density averages are 150 people per square kilometre; most of the Welsh landscape is protected, there are not many straight roads in Wales, due to the mountains. 
 “The dominant mode of travel in Wales is currently provided by the private car “, (Welsh Assembly Government, 2008) and apart from that, the transport key is a railway network, cycling, walking, road transport, motorcycling and air transport.
 
-##3. Data Handling Process
+## 3. Data Handling Process
 To work with data, we must consider the different stages of data processing and it refers to the entire process followed by a researcher from the collection of data, until the presentation of the same, in a summary form. 
 Have basically three stages: collection and entry, processing, and presentation; for the scope of this project, we will use the steps proposed by Kazil & Jarmul (2016)
 
@@ -61,23 +61,18 @@ As a person who has been working as a data analyst for over than 10 years, under
 | Ease of getting to and from hospital| Qualitative, nominal          | Qualitative, nominal; very easy, fairly easy, fairly difficult, etc                    |
 
 ![](/images/demo/f1_p1.png)
-
 *Figure 1: Overall metrics, univariate analysis*
 
 ![](/images/demo/f2_p1.png)
-
 *Figure 2: Have use of a car, bivariate analysis*
 
 ![](/images/demo/f3_p1.png)
-
 *Figure 3: Easy of Getting "To" and "From" GP Surgery, bivariate analysis*
 
 ![](/images/demo/f4_p1.png)
-
 *Figure 4: Easy of Getting "To" and "From" GP Surgery, bivariate analysis*
 
 ![](/images/demo/f5_p1.png)
-
 *Figure 5: Feeling of Safety Travelling by Public Transport After Dark, bivariate analysis*
 
 #### 3.2.3. UML Survey System
@@ -85,7 +80,6 @@ As a person who has been working as a data analyst for over than 10 years, under
 UML diagrams help to specify and visualize models of software systems, including its structure and design, in the Appendix A, there is a proposal of the UML survey system, which includes question type examples, and it assumes the current model of the National Survey for Wales (interviewers visiting each address).
 
 ![](/images/demo/UML_Survey_System.png)
-
 *Figure 6: Highlevel Survey System*
 
 **Question Classification Examples**
@@ -156,11 +150,10 @@ Implementation will be shared in another post, very soon! :)
 
 Welsh Government (2014). National Survey for Wales headline results: April 2013 to March 2014. [online] GOV.WALES. Available at: https://gov.wales/national-survey-wales-headline-results-april-2013-march-2014 [Accessed 15 Nov. 2022].
 
-Welsh Government (2022). Transport & Travel | Wales. [online] www.wales.com. Available at: https://www.wales.com/transport-travel [Accessed 14 Nov. 2022].
+Welsh Government (2022). Transport & Travel / Wales. [online] www.wales.com. Available at: https://www.wales.com/transport-travel [Accessed 14 Nov. 2022].
 
-Welsh Government (2022). Transport & Travel | Wales. [online] www.wales.com. Available at: https://www.wales.com/transport-travel [Accessed 14 Nov. 2022].
 Kazil, J. and Jarmul, K. (2016). Data wrangling with Python. Sebastopol, Ca: O’reilly Media.
 
 Hayes, A. (2022). Descriptive Statistics. [online] Investopedia. Available at: https://www.investopedia.com/terms/d/descriptive_statistics.asp [Accessed 20 Nov. 2022].
 
-Dataset [is available here! ](https://github.com/DaisyIpatzi/daisyipatzi.github.io/tree/main/assets).
+Dataset [is available here! ] (https://github.com/DaisyIpatzi/daisyipatzi.github.io/tree/main/assets).
