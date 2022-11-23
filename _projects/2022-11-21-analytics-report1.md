@@ -61,18 +61,23 @@ As a person who has been working as a data analyst for over than 10 years, under
 | Ease of getting to and from hospital| Qualitative, nominal          | Qualitative, nominal; very easy, fairly easy, fairly difficult, etc                    |
 
 ![](/images/demo/f1_p1.png)
+
 *Figure 1: Overall metrics, univariate analysis*
 
 ![](/images/demo/f2_p1.png)
+
 *Figure 2: Have use of a car, bivariate analysis*
 
 ![](/images/demo/f3_p1.png)
+
 *Figure 3: Easy of Getting "To" and "From" GP Surgery, bivariate analysis*
 
 ![](/images/demo/f4_p1.png)
+
 *Figure 4: Easy of Getting "To" and "From" GP Surgery, bivariate analysis*
 
 ![](/images/demo/f5_p1.png)
+
 *Figure 5: Feeling of Safety Travelling by Public Transport After Dark, bivariate analysis*
 
 #### 3.2.3. UML Survey System
@@ -80,6 +85,7 @@ As a person who has been working as a data analyst for over than 10 years, under
 UML diagrams help to specify and visualize models of software systems, including its structure and design, in the Appendix A, there is a proposal of the UML survey system, which includes question type examples, and it assumes the current model of the National Survey for Wales (interviewers visiting each address).
 
 ![](/images/demo/UML_Survey_System.png)
+
 *Figure 6: Highlevel Survey System*
 
 **Question Classification Examples**
@@ -143,7 +149,7 @@ By taking this high-level approach, we will be able to determine which data is m
 
 ### 3.4	Present/share the data
 
-Implementation will be shared in another post, very soon! :)
+Implementation will be shared in another post, very soon!
 
 
 ## References
