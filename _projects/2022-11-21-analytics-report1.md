@@ -156,4 +156,4 @@ Kazil, J. and Jarmul, K. (2016). Data wrangling with Python. Sebastopol, Ca: Oâ€
 
 Hayes, A. (2022). Descriptive Statistics. [online] Investopedia. Available at: https://www.investopedia.com/terms/d/descriptive_statistics.asp [Accessed 20 Nov. 2022].
 
-Dataset [is available here! ] (https://github.com/DaisyIpatzi/daisyipatzi.github.io/tree/main/assets).
+Dataset [is available here!](https://github.com/DaisyIpatzi/daisyipatzi.github.io/tree/main/assets)
