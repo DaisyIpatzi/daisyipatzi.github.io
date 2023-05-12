@@ -11,3 +11,4 @@ This is Daisy! A Data enthusiastic, with more than 10 years of experience across
 
 I just love the whole process of leading, gathering, interpreting data and generating insightful recommendations from a variety of sources to help the organization improve the quality of the business necessities.
 
+I am curently working as a Senior Data Analyst @ [Sourceability](https://sourceability.com/)
