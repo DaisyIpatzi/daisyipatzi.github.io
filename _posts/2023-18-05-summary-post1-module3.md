@@ -2,7 +2,7 @@
 title: 'Opportunities, Limitations, Risks and Challenges in IoT Systems'
 date: 2023-18-05 00:00:00
 description: 'Essay: Summary Post 1 | Module 3'
-featured_image: '/images/demo/future_data_science.jpg'
+featured_image: '/images/demo/lot.png'
 ---
 
 ## Opportunities, Limitations, Risks and Challenges in IoT Systems
