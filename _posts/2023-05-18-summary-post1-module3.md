@@ -1,7 +1,7 @@
 ---
 title: 'Opportunities, Limitations, Risks and Challenges in IoT Systems'
 date: 2023-05-18 00:00:00
-description: 'Essay: Summary Post 1 | Module 3'
+description: 'Essay: Summary Post 1 | Module 3: Deciphering Big Data'
 featured_image: '/images/demo/lot.jpg'
 ---
 
