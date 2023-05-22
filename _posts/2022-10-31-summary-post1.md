@@ -1,7 +1,7 @@
 ---
 title: 'Views on Future of a Data Scientist: Roles and Responsibilities'
 date: 2022-10-31 00:00:00
-description: 'Essay: Summary Post 1 | Module 1'
+description: 'Essay: Summary Post 1 | Module 1: The Data Professional'
 featured_image: '/images/demo/future_data_science.jpg'
 ---
 
