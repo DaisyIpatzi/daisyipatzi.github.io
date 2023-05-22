@@ -1,7 +1,7 @@
 ---
 title: 'GDPR Regulation and Data Protection rules as a Trust-Enabler in the EU and Beyond'
 date: 2022-11-14 00:00:00
-description: 'Essay: Summary Post 2 | Module 1'
+description: 'Essay: Summary Post 2 | Module 1: The Data Professional'
 featured_image: '/images/demo/UNCTAD_2021.png'
 ---
 
