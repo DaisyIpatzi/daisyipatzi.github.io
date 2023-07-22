@@ -6,11 +6,65 @@ description: Deciphering Big Data at Essex.
 featured_image: '/images/demo/DBD_1.jpg'
 ---
 
-## Demo content
+## Introduction
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+In the digital era, data has emerged as one of the most valuable assets for individuals, businesses, and governments. The sheer volume, velocity, and variety of data generated from diverse sources have given rise to the concept of "Big Data." Big Data refers to large and complex datasets that traditional data management methods struggle to handle efficiently. To manage this explosion of data, specialized technologies and approaches have been developed, conducting a new era of data management. McAfee, A. and Brynjolfsson, E. (2012) mention that the big data movement, like analytics before it, seeks to glean intelligence from data and translate that into business advantage.
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
+In this paper, we will explore the fundamental aspects of big data technologies and data management and understand how they have transformed the way we interact with data, learned during the “Deciphering Big Data” module.
+
+**1. Big Data Technologies and Data Management:**
+
+The term "Big Data" is characterized by the three Vs: Volume, Velocity, and Variety. Volume refers to the massive amount of data being generated every second, from digital devices, social media interactions, IoT sensors, and more. Velocity refers to the high speed at which data is generated and needs to be processed to extract meaningful insights. Variety denotes the diverse types and formats of data, including structured, semi-structured, and unstructured data. Managing such large and varied datasets requires advanced tools and technologies that can efficiently capture, store, process, and analyze data. In this unit, we have gained familiarity with security data requirements. We have acquired an understanding of the issues and challenges related to managing tools and strategies in this context. Lastly, we have comprehended the skills needed for developing a data management system through a “lecture cast” and an insightful required reading.
+
+**2. Introduction to Data Types and Formats:**
+
+Data comes in various types and formats, each presenting unique challenges and opportunities for data management. Structured data follows a predefined format and is organized into rows and columns, making it easy to store in relational databases. Semi-structured data, like XML and JSON, possesses some structure but allows flexibility in the data schema. Unstructured data, on the other hand, lacks a predefined structure and includes text, images, audio, and video. Handling these diverse data types requires data management systems capable of accommodating and extracting insights from each format. During the unit two, we were able to differentiate among data formats and representations, we explored and examined data types and formats following the sections in Chapter 3 of the Kazil textbook.
+
+**_Figure 1: Python code that imports XML data_**
+
+![](/images/demo/Figure1_DBD.jpg)
+
+**3. Beautiful modern, minimal theme design.**
+
+Data collection forms the foundation of the big data journey. The sources of data are vast and diverse, including social media platforms, online transactions, healthcare records, and more. In addition to traditional databases, big data storage technologies like data warehouses and data lakes have emerged to cater to the enormous volume of data. Data warehouses provide a structured environment for storing historical data, whereas data lakes store raw and unprocessed data in its native format, enabling data scientists to explore and analyze the data flexibly. Through the literature and “lecture cast” provided, we explored various sources of data, data collection methods, and we evaluated the issues and challenges that come with collection process. Furthermore, using BeautifulSoup Python library, we wrote a web scraping script using the keyword ‘Data Scientist’ and parsed the data into XML or JSON (see Figure 2).
+
+
+Additional to that, during this week, we summarized our findings during the [Collaborative Discussion 1](https://daisyipatzi.github.io/blog/summary-post1-module3).
+
+**4. Beautiful modern, minimal theme design.**
+
+**5. Beautiful modern, minimal theme design.**
+
+**6. Beautiful modern, minimal theme design.**
+
+**7. Beautiful modern, minimal theme design.**
+
+**8. Beautiful modern, minimal theme design.**
+
+**9. Beautiful modern, minimal theme design.**
+
+**10. Beautiful modern, minimal theme design.**
+
+**11. Beautiful modern, minimal theme design.**
+
+**12. Beautiful modern, minimal theme design.**
+
+---
+
+## Reflection
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown]([https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/DaisyIpatzi/daisyipatzi.github.io/tree/main/assets/Transport_Wales).
 
