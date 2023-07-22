@@ -1,5 +1,6 @@
 ---
-title: 'Dechiphering Big Data'
+title: 'Dechiphering Big Data Module'
+subtitle: 'Data Handling Process & Evaluation'
 date: 2023-07-21 00:00:00
 description: Deciphering Big Data at Essex.
 featured_image: '/images/demo/DBD_1.jpg'
