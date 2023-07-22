@@ -79,10 +79,10 @@ During the last week, we explored the role of machine learning and how that woul
 
 Big Data Technologies have brought about a paradigm shift in the way we manage and analyze data. From data collection to storage, cleaning, and analysis, each step in the data management process is crucial for extracting meaningful insights. Organizations that effectively harness Big Data's potential will gain a competitive advantage, making data-driven decision-making an indispensable aspect of various industries. As we look to the future, the ongoing advancements in Big Data Analytics will shape the way we interact with data, propelling us into an era of unparalleled innovation and transformative discoveries.
 
-
 ---
 
 ## Reflection
+
 
 
 ---
