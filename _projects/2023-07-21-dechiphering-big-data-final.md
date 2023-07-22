@@ -24,47 +24,90 @@ Data comes in various types and formats, each presenting unique challenges and o
 
 ![](/images/demo/Figure1_DBD.jpg)
 
-**3. Beautiful modern, minimal theme design.**
+**3. Data Collection and Storage:**
 
 Data collection forms the foundation of the big data journey. The sources of data are vast and diverse, including social media platforms, online transactions, healthcare records, and more. In addition to traditional databases, big data storage technologies like data warehouses and data lakes have emerged to cater to the enormous volume of data. Data warehouses provide a structured environment for storing historical data, whereas data lakes store raw and unprocessed data in its native format, enabling data scientists to explore and analyze the data flexibly. Through the literature and “lecture cast” provided, we explored various sources of data, data collection methods, and we evaluated the issues and challenges that come with collection process. Furthermore, using BeautifulSoup Python library, we wrote a web scraping script using the keyword ‘Data Scientist’ and parsed the data into XML or JSON (see Figure 2).
 
+**_Figure 2: Web Scraping script_**
+
+![](/images/demo/Figure2_DBD.jpg)
 
 Additional to that, during this week, we summarized our findings during the [Collaborative Discussion 1](https://daisyipatzi.github.io/blog/summary-post1-module3).
 
-**4. Beautiful modern, minimal theme design.**
+**4. Data Cleaning and Transformation:**
 
-**5. Beautiful modern, minimal theme design.**
+Like the previous units, during this week, we reviewed the “lecture cast” and the reading provided by Essex, and we could have an introduction to concepts, techniques, and methods of data cleaning and transformation. Overall, the quality of data directly impacts the accuracy of insights gained from big data analytics. Data cleaning involves identifying and correcting errors, inconsistencies, and inaccuracies in the data. Data transformation, on the other hand, involves converting data from one format to another to facilitate better analysis. Preprocessing steps, such as outlier removal, missing value imputation, and normalization, are essential to ensure reliable and consistent results. 
 
-**6. Beautiful modern, minimal theme design.**
+**5. Automating Data Collection:**
 
-**7. Beautiful modern, minimal theme design.**
+The reading during that week centered on data cleaning and transformation with emphasis on data scraping, pre-processing, data imputation and handling of outliers and automation and, and we continued with the Data Cleaning activities in Lecture Cast (Unit 4). In conclusion, the volume and velocity of data make manual data collection and entry impractical. Automation plays a significant role in streamlining data collection processes. Extract, Transform, Load (ETL) pipelines are commonly used to automate the process of extracting data from various sources, transforming it into a consistent format, and loading it into a data warehouse or data lake. Automation not only improves efficiency but also reduces the likelihood of human errors in the data collection process. 
 
-**8. Beautiful modern, minimal theme design.**
+**6. Database Design and Normalization:**
 
-**9. Beautiful modern, minimal theme design.**
+“Lecture cast” and reading of that unit helped me to understand that design is a crucial aspect of data management. An efficient database design ensures data is organized logically, reduces data redundancy, and enhances data integrity. Normalization is a key technique used in relational database design to eliminate data anomalies and ensure that data is stored in a structured and efficient manner. Proper database design and normalization lead to better performance and easier maintenance of the data.
 
-**10. Beautiful modern, minimal theme design.**
+**7. Constructing Normalised Tables and Database Build**
 
-**11. Beautiful modern, minimal theme design.**
+Normalization reduces redundancy, ensures data integrity, and facilitates streamlined query processing. It divides data into smaller, manageable units, following normalization rules like 1NF, 2NF, and 3NF. This organization minimizes duplication and avoids anomalies. A well-structured database enhances data retrieval, scalability, and maintainability while optimizing performance. However, striking a balance between normalization and denormalization is essential to prevent over-complexity. Ultimately, normalized tables lay the foundation for reliable, adaptable, and efficient data-driven applications. Throughout this unit, we completed a normalization and data-built tasks (see Figure 3)
 
-**12. Beautiful modern, minimal theme design.**
+**_Figure 3: Input for normalization task_**
+
+![](/images/demo/Figure3_DBD.jpg)
+
+**8. Compliance and Regulatory Framework for Managing Data:**
+
+In that unit, we examined compliance frameworks with regards to data management in respect of rights of individuals and obligations of organisation to stakeholders. In summary, with the increasing reliance on data, data privacy and security have become significant concerns. Governments and regulatory bodies have enacted laws to protect individuals' data privacy and ensure ethical data management practices. One of the most notable regulations is the General Data Protection Regulation (GDPR) in the European Union, which aims to safeguard the privacy and rights of individuals in the digital age. Additionally, organizations must adhere to industry-specific compliance requirements when handling sensitive data, such as healthcare or financial data.
+
+**9. Database Management Systems (DBMS) and Models:**
+
+“Lecture cast” and reading helped me to concluded that a Database Management System (DBMS) is a software system that enables the storage, retrieval, and manipulation of data in a database. Different types of DBMS exist to cater to varying data management needs. Relational databases, based on the relational model, use tables and key relationships to store and manage data. NoSQL databases, on the other hand, offer greater flexibility and scalability for handling unstructured and semi-structured data. NewSQL databases combine the best of both worlds, offering the advantages of both relational and NoSQL databases.
+
+**10. APIs (Application Programming Interfaces) for Data Parsing:**
+
+At the end of this week, we summarized our findings in the [Collaborative Discussion 2](https://daisyipatzi.github.io/blog/summary-post2-module3) that happened during the last 3 weeks and, it was about the differences between GDPR and the data privacy laws within our countries of residence.
+Additional to that, we analysed and evaluated APIs (Application Programming Interface). APIs play a crucial role in data parsing and integration, allowing applications to interact and communicate with each other seamlessly. They provide a standardized way for applications to request and exchange data, enabling data-driven functionalities and interoperability between different systems. APIs have become integral in enabling data-driven applications and services that leverage big data.
+
+**11. DBMS Transaction and Recovery:**
+
+In that unit, we looked at how database systems can fail and what systems are in place to guarantee system failures do not lose data or interfere with the integrity of the data within the system, we looked at achieving a database in a “consistent state” where transactions are either fully committed or do not commit at all, alleviating errors within the database. Overall, in a multi-user database environment, concurrent transactions may occur simultaneously, potentially leading to data inconsistencies. DBMS ensures data integrity through the concept of transactions, which group related operations into a single logical unit. If a transaction fails due to errors or system crashes, DBMS provides recovery mechanisms to bring the database back to a consistent state.
+
+**12. The Future of Big Data Analytics:**
+
+During the last week, we explored the role of machine learning and how that would drive the advances of big data analysis and found that as technology advances, the future of big data analytics holds numerous exciting possibilities. Machine learning and artificial intelligence are expected to play a more significant role in automating data analysis and extracting insights from vast datasets. Additionally, the development of quantum computing could revolutionize big data processing and lead to even more powerful data management and analysis capabilities.
+
+## Conclusion
+
+Big Data Technologies have brought about a paradigm shift in the way we manage and analyze data. From data collection to storage, cleaning, and analysis, each step in the data management process is crucial for extracting meaningful insights. Organizations that effectively harness Big Data's potential will gain a competitive advantage, making data-driven decision-making an indispensable aspect of various industries. As we look to the future, the ongoing advancements in Big Data Analytics will shape the way we interact with data, propelling us into an era of unparalleled innovation and transformative discoveries.
+
 
 ---
 
 ## Reflection
 
 
+---
 
+## References
 
+Datanami. (2019) Data Pipeline Automation: The Next Step Forward in DataOps.
 
+GDPR. “General Data Protection Regulation (GDPR).” General Data Protection Regulation (GDPR), Intersoft Consulting, 25 May 2018, gdpr-info.eu/. Accessed 30 June 2023.
 
+IBM Intellas. (2016) Qradar and KAIF Integration Report.
 
+Kazil, J & Jarmul, K. (2016) Data Wrangling with Python. O'Reilly. Media Inc.
 
+Letkowski, J. (2015) Doing Database Design with MySQL. Journal of Technology Research.
 
+McAfee, A. and Brynjolfsson, E. (2012). Big Data: The Management Revolution. [online] Harvard Business Review. Available at: https://hbr.org/2012/10/big-data-the-management-revolution [Accessed 21 Jul. 2023].
 
+Sarkar, T. & Roychowdhury, S. (2019) Data Wrangling with Python. 1st ed. Packt.
 
+Williams, G. (2017) The Cybercitizen and Homeland Security. Freedom versus Fears. AICE Foundation.
 
+Zapier (2014). An introduction to APIs | Zapier guides. [online] zapier.com. Available at: https://zapier.com/resources/guides/apis [Accessed 21 Jul. 2023].
 
+--- Demo
 
 **Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown]([https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/DaisyIpatzi/daisyipatzi.github.io/tree/main/assets/Transport_Wales).
 
