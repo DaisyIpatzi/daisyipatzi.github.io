@@ -1,9 +1,8 @@
 ---
-title: 'Demo Project'
-subtitle: 'This is a demo'
-date: 2018-06-30 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
-featured_image: '/images/demo/demo-square.jpg'
+title: 'Dechiphering Big Data'
+date: 2023-07-21 00:00:00
+description: Deciphering Big Data at Essex.
+featured_image: '/images/demo/DBD_1.jpg'
 ---
 
 ![](/images/demo/demo-landscape.jpg)
