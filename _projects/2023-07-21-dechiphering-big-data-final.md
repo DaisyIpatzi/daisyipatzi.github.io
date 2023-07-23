@@ -81,9 +81,34 @@ Big Data Technologies have brought about a paradigm shift in the way we manage a
 
 ---
 
-## Reflection
+## Individual Reflection
 
+The duration of this module has been a transformative voyage for me, delving into the complexities of data wrangling through the exploration of data extraction, exploration, cleaning, and modelling techniques using Python and SQL. This essay showcases my development through artifacts, including discussions, wiki submissions, team meeting notes, and peer and tutor feedback. Additionally, I will explain my individual contributions to the projects, evaluate the final project compared to the initial proposal, and provide insights into the impact of this experience on both my professional and personal development.
 
+The "Deciphering Big Data" module provided a comprehensive overview of various data processing techniques, leading to a deeper understanding of working with data. I discovered the significance of data extraction, which involves acquiring data from various sources, such as web scraping and API integration. I realized that data cleaning was a crucial step, as messy data could significantly impact the results of any analysis. Understanding the importance of data integrity, I learned how to identify and manage missing values, outliers, and inconsistencies to ensure reliable results.
+
+As a member of a team during this module, I had the opportunity to collaborate with my peers on a project. In addition, the complexities arising from diverse backgrounds, nationalities, and time zones necessitate a mindful approach to team management. By acknowledging the challenges and capitalizing on the advantages, we leveraged the power of our differences in business, IT, and analytics. My strengths in data analysis proved to be particularly beneficial during the exploratory phase. Furthermore, we conducted work sessions at least twice a week, where we all actively supported the project, and I actively participated in brainstorming sessions, contributed to the formulation of project ideas, and engaged in meaningful discussions to refine our approaches. By fostering a collaborative and supportive team environment, I aimed to encourage diverse perspectives and ensure everyone's ideas were valued.
+
+As we decided to develop a database system for a recruitment consulting firm based in the UK, I took the initiative to create the first draft of the DBMS (see Figure 4 and Fifure 5). Our proposed database design for the recruitment system reflects a comprehensive approach to optimize the client's talent acquisition process. The logical design encompasses critical data entities and attributes, facilitating seamless management of candidate profiles, job openings, companies, and recruiters. The data management pipeline and data cleaning techniques ensure data reliability and accuracy throughout the recruitment process.
+
+**_Figure 4: DBMS Recruitment System Design_**
+
+![](/images/demo/Figure4_DBD.jpg)
+
+**_Figure 5: SQL Tables of Recruitment System Design_**
+
+![](/images/demo/Figure5_DBD.jpg)
+
+As a data analyst, I proposed use cases of the DBMS to optimize their hiring process, improve recruitment efficiency, and make data-driven decisions. By harnessing recruitment analytics, organizations can identify strengths, weaknesses, and areas for improvement in their talent acquisition strategies, building a skilled and diverse workforce that drives the organization's success. I investigated GDPR regulations focused on our recruitment system. By adhering to GDPR principles, our DBMS-powered recruitment system ensures transparency, informed consent, and data subject rights for candidates throughout the hiring process. We are confident that our GDPR-compliant recruitment system will not only optimize talent acquisition but also foster trust and confidence among candidates, enhancing the organization's reputation as a responsible data steward.
+
+The final project closely aligned with the initial proposal, encompassing all the essential functionalities outlined in the project scope. By analysing adherence to the project scope, timeline, and milestones, and understanding user feedback, the evaluation helps provide a well-rounded understanding of the final project's achievements and areas for growth. Ultimately, the evaluation serves as a foundation for continuous improvement and future project developments. The DBMS recruitment system efficiently managed candidate profiles, job postings, and recruitment-related data, meeting the project's objectives effectively. Being part of a development team exposed me to the intricacies of collaborative work. I learned to leverage the diverse skills and expertise of my team members to address complex challenges in the recruitment system project. The experience fostered a sense of teamwork, enhancing my ability to work effectively in a dynamic project environment. Tutor feedback was fundamental and contributed to the project's success.
+
+Professionally, this module has elevated my data wrangling skills and equipped me with hands-on experience in building a DBMS recruitment system. I gained insights into data privacy regulations, such as GDPR, and their significance in managing sensitive candidate data responsibly. The project also improved my project management skills, as I learned to balance individual and work tasks while contributing to team objectives.
+
+Personally, this journey has instilled a greater sense of resilience and adaptability. Working in a team with diverse backgrounds and time zones taught me the importance of effective communication and collaboration. The experience has translated into improved interpersonal skills, making me a more adept team player. According to Rock and Grant (2016), working with people who are different from you may challenge your brain to overcome its stale ways of thinking and sharpen its performance.
+
+In summary, the "Deciphering Big Data" module has been instrumental in my professional and personal development. From understanding the intricacies of data extraction and cleaning techniques to collaborating in a diverse team, I have expanded my skill set and knowledge. The project's successful implementation, adherence to GDPR, and positive feedback from peers and tutors have been affirmations of my growth as a data practitioner and a team contributor. I look forward to applying my learnings and experiences from this module to future projects and real-world data challenges. This module has been an invaluable learning experience that has shaped my understanding of data wrangling and analysis. The hands-on approach and team collaboration have enriched my skills and allowed me to grow both professionally and personally. 
+I am grateful for the opportunity to be a part of this transformative journey, and I am confident that the knowledge and experiences gained here will continue to be assets in my future endeavours. As I move forward, I will carry the lessons learned and apply them to tackle complex data challenges, contributing positively to the field of data analytics and making meaningful contributions to the organizations I work with. The journey may have ended, but the impact it has left on me will last a lifetime.
 
 ---
 
@@ -100,6 +125,8 @@ Kazil, J & Jarmul, K. (2016) Data Wrangling with Python. O'Reilly. Media Inc.
 Letkowski, J. (2015) Doing Database Design with MySQL. Journal of Technology Research.
 
 McAfee, A. and Brynjolfsson, E. (2012). Big Data: The Management Revolution. [online] Harvard Business Review. Available at: https://hbr.org/2012/10/big-data-the-management-revolution [Accessed 21 Jul. 2023].
+
+Rock, D. and Grant, H. (2016). Why Diverse Teams Are Smarter. [online] Harvard Business Review. Available at: https://hbr.org/2016/11/why-diverse-teams-are-smarter [Accessed 22 Jul. 2023].
 
 Sarkar, T. & Roychowdhury, S. (2019) Data Wrangling with Python. 1st ed. Packt.
 
