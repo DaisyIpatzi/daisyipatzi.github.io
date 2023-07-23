@@ -1,5 +1,5 @@
 ---
-title: 'Deciphering Big Data Module'
+title: '"Deciphering Big Data" Module'
 subtitle: 'An In-Depth Exploration of Big Data Technologies and the Future of Big Data Analytics'
 date: 2023-07-21 00:00:00
 description: Deciphering Big Data at Essex.
