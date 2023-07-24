@@ -40,7 +40,7 @@ Like the previous units, during this week, we reviewed the “lecture cast” an
 
 **5. Automating Data Collection:**
 
-The reading during that week centered on data cleaning and transformation with emphasis on data scraping, pre-processing, data imputation and handling of outliers and automation and, and we continued with the Data Cleaning activities in Lecture Cast (Unit 4). In conclusion, the volume and velocity of data make manual data collection and entry impractical. Automation plays a significant role in streamlining data collection processes. Extract, Transform, Load (ETL) pipelines are commonly used to automate the process of extracting data from various sources, transforming it into a consistent format, and loading it into a data warehouse or data lake. Automation not only improves efficiency but also reduces the likelihood of human errors in the data collection process. 
+The reading during that week centred on data cleaning and transformation with an emphasis on data scraping, pre-processing, data imputation and handling of outliers and automation and, and we continued with the Data Cleaning activities in Lecture Cast (Unit 4). In conclusion, the volume and velocity of data make manual data collection and entry impractical. Automation plays a significant role in streamlining data collection processes. Extract, Transform, Load (ETL) pipelines are commonly used to automate the process of extracting data from various sources, transforming it into a consistent format, and loading it into a data warehouse or data lake. Automation not only improves efficiency but also reduces the likelihood of human errors in the data collection process. 
 
 **6. Database Design and Normalization:**
 
