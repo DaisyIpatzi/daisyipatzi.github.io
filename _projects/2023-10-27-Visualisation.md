@@ -1,8 +1,8 @@
 ---
 title: '"Visualisation" Module'
-subtitle: 'An In-Depth Exploration of Big Data Technologies and the Future of Big Data Analytics'
+subtitle: 'Google Merchandise Store's Demo Dashboard'
 date: 2023-10-27 00:00:00
-description: Learning Outcomes of "Visualisation" Module at University of Essex.
+description: Google Merchandise Store's Demo Dashboard | Stream URL: http://shop.googlemerchandisestore.com.
 featured_image: '/images/demo/dash2.jpg'
 ---
 
