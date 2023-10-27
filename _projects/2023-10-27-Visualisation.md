@@ -2,9 +2,11 @@
 title: '"Visualisation" Module'
 subtitle: 'Google Merchandise Store's Demo Dashboard'
 date: 2023-10-27 00:00:00
-description: 'Google Merchandise Store's Demo Dashboard | Stream URL: http://shop.googlemerchandisestore.com '
+description: Google Merchandise Store's Demo Dashboard | Stream URL: http://shop.googlemerchandisestore.com
 featured_image: '/images/demo/dash2.jpg'
 ---
+
+## Building an Interactive Dashboard
 
 ![Dash](/images/demo/dash.jpg)
 
