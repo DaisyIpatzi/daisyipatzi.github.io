@@ -1,10 +1,11 @@
 ---
-title: '"Visualization" Module'
+title: '"Visualisation" Module'
 subtitle: 'An In-Depth Exploration of Big Data Technologies and the Future of Big Data Analytics'
 date: 2023-10-27 00:00:00
 description: Learning Outcomes of "Deciphering Big Data" Module at University of Essex.
-featured_image: '/images/demo/DBD_1.jpg'
+featured_image: '/images/demo/Dash.jpg'
 ---
 
+![Snapshot of my Data Studio Dashboard](/images/demo/Dash.jpg)
 
-<iframe width="600" height="600" src="https://lookerstudio.google.com/embed/reporting/8561a9e2-7ee2-483b-b50f-74d73d2124a8/page/p_etpq85l6ad" frameborder="0" style="border:0" allowfullscreen></iframe> 
+[View the interactive Data Studio Dashboard](https://lookerstudio.google.com/u/0/reporting/8561a9e2-7ee2-483b-b50f-74d73d2124a8/page/DDUMC/edit?utm_source=portfolio&utm_medium=banner&utm_campaign=visualization)
