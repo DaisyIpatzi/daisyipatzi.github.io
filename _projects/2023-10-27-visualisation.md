@@ -7,3 +7,5 @@ featured_image: 'images/demo/dash2.jpg'
 ---
 
 ## Introduction
+
+[View here the interactive Looker Dashboard](https://lookerstudio.google.com/u/0/reporting/8561a9e2-7ee2-483b-b50f-74d73d2124a8/page/DDUMC?utm_source=portfolio&utm_medium=banner&utm_campaign=visualization)
