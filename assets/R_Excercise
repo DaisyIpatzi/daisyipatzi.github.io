@@ -1,0 +1,278 @@
+####################    Programming Exercise - Visualizing Data Module    ####################
+
+    
+##### Step 1: EDA    
+        
+library(tidyverse)
+library(dplyr)
+library(DataExplorer)  
+library(visdat)
+library(ggplot2)
+library(corrplot) 
+library(reshape2)
+library(pastecs)
+# Load necessary libraries for Decision Three 
+library(rpart)
+library(rpart.plot)  
+# Load necessary libraries for Logistic Regression
+library(caret)
+library(coefplot)
+    
+######   Load and Inspect Dataset   ######
+marketing_dataset_2 <- read_csv("/cloud/project/MMA marketing_data_sample.csv")
+view(marketing_dataset_2)   
+
+    # Inspect the first few rows of the dataset
+    head(marketing_dataset_2)    
+    
+    
+    # Check the Structure of the dataset
+    str(marketing_dataset_2)
+
+    #Renaming Variables
+    marketing_dataset_2 <- marketing_dataset_2 %>%
+      rename(
+        education = k
+      )
+    #Summary Pdays
+    pdays_dataset <- marketing_dataset_2 %>% 
+      filter(pdays < 999) %>% 
+      select(pdays) %>%
+      arrange(pdays)
+    summary(pdays_dataset)
+    
+    # Summarize the dataset
+    summary(marketing_dataset_2)
+    
+    view(marketing_dataset_2)
+    
+######   Visualize Variable Distributions   ######
+# For numerical variables, create visualizations like histograms or density plots to explore their distributions. 
+# Explain why understanding these distributions is relevant to your analysis:
+    
+    # Visualize the distribution of a numerical variable
+    ggplot(marketing_dataset_2, aes(x = age)) +
+      geom_histogram(binwidth = 5, fill = "blue") +
+      labs(title = "Distribution of Age", x = "Age", y = "Frequency")
+    
+    ggplot(marketing_dataset_2, aes(x = duration)) +
+      geom_histogram(binwidth = 5, fill = "blue") +
+      labs(title = "Distribution of Duration", x = "Duration", y = "Frequency")
+    
+    ggplot(marketing_dataset_2, aes(x = campaign)) +
+      geom_histogram(binwidth = 5, fill = "blue") +
+      labs(title = "Distribution of Campaign", x = "Campaign", y = "Frequency")
+    
+    ggplot(marketing_dataset_2, aes(x = pdays)) +
+      geom_histogram(binwidth = 5, fill = "blue") +
+      labs(title = "Distribution of Pdays", x = "Pdays", y = "Frequency")
+    
+    ggplot(marketing_dataset_2, aes(x = previous)) +
+      geom_histogram(binwidth = 5, fill = "blue") +
+      labs(title = "Distribution of Previous", x = "Previous", y = "Frequency")
+    
+    ggplot(marketing_dataset_2, aes(x = emp.var.rate)) +
+      geom_histogram(binwidth = 5, fill = "blue") +
+      labs(title = "Distribution of Employment Variation Rate", x = "Employment Variation Rate", y = "Frequency")
+    
+        ggplot(marketing_dataset_2, aes(x = cons.price.idx)) +
+      geom_histogram(binwidth = 5, fill = "blue") +
+      labs(title = "Distribution of Consumer Confidence Index", x = "Consumer Confidence Index", y = "Frequency")
+    
+    ggplot(marketing_dataset_2, aes(x = cons.conf.idx)) +
+      geom_histogram(binwidth = 5, fill = "blue") +
+      labs(title = "Distribution of Consumer Confidence Index", x = "Consumer Confidence Index", y = "Frequency")
+    
+    ggplot(marketing_dataset_2, aes(x = euribor3m)) +
+      geom_histogram(binwidth = 5, fill = "blue") +
+      labs(title = "Distribution of Euribor 3-month rate", x = "Euribor 3-month rate", y = "Frequency")
+    
+    ggplot(marketing_dataset_2, aes(x = nr.employed)) +
+      geom_histogram(binwidth = 5, fill = "blue") +
+      labs(title = "Distribution of Number of employees", x = "Number of Employees", y = "Frequency")
+    
+    
+    
+    ######   Visualize Categorical Variables   ######
+    
+    ggplot(marketing_dataset_2, aes(x = job, fill = job)) +
+      geom_bar() + geom_text(stat = "count", aes(label = ..count..), vjust = -0.5) +
+      labs(title = "Distribution of Job", x = "Job", y = "Count")
+    
+    
+    ggplot(marketing_dataset_2, aes(x = marital, fill = marital)) +
+      geom_bar() + geom_text(stat = "count", aes(label = ..count..), vjust = -0.5) +
+      labs(title = "Distribution of Marital Status", x = "Marital Status", y = "Count")
+    
+    ggplot(marketing_dataset_2, aes(x = education, fill = education)) +
+      geom_bar() + geom_text(stat = "count", aes(label = ..count..), vjust = -0.5) +
+      labs(title = "Distribution of Education", x = "Education", y = "Count")
+    
+    ggplot(marketing_dataset_2, aes(x = default, fill = default)) +
+      geom_bar() + geom_text(stat = "count", aes(label = ..count..), vjust = -0.5) +
+      labs(title = "Distribution of Default", x = "Default", y = "Count")
+    
+    ggplot(marketing_dataset_2, aes(x = housing, fill = housing)) +
+      geom_bar() + geom_text(stat = "count", aes(label = ..count..), vjust = -0.5) +
+      labs(title = "Distribution of Housing", x = "Housing", y = "Count")
+    
+    ggplot(marketing_dataset_2, aes(x = loan, fill = loan)) +
+      geom_bar() + geom_text(stat = "count", aes(label = ..count..), vjust = -0.5) +
+      labs(title = "Distribution of Loan", x = "Loan", y = "Count")
+    
+    ggplot(marketing_dataset_2, aes(x = contact, fill = contact)) +
+      geom_bar() + geom_text(stat = "count", aes(label = ..count..), vjust = -0.5) +
+      labs(title = "Distribution of Contact", x = "Contact", y = "Count")
+    
+    ggplot(marketing_dataset_2, aes(x = month, fill = month)) +
+      geom_bar() + geom_text(stat = "count", aes(label = ..count..), vjust = -0.5) +
+      labs(title = "Distribution of Month", x = "Month", y = "Count")
+    
+    ggplot(marketing_dataset_2, aes(x = day_of_week, fill = day_of_week)) +
+      geom_bar() + geom_text(stat = "count", aes(label = ..count..), vjust = -0.5) +
+      labs(title = "Distribution of Day of Week", x = "Day of Week", y = "Count")
+    
+    ggplot(marketing_dataset_2, aes(x = poutcome, fill = poutcome)) +
+      geom_bar() + geom_text(stat = "count", aes(label = ..count..), vjust = -0.5) +
+      labs(title = "Distribution of P Outcome", x = "P Outcome", y = "Count")
+    
+    ggplot(marketing_dataset_2, aes(x = y, fill = y)) +
+      geom_bar() + geom_text(stat = "count", aes(label = ..count..), vjust = -0.5) +
+      labs(title = "Distribution of 'Y'", x = "'Y'", y = "Count")
+    
+    #Boxplot
+    boxplot(marketing_dataset_2, names = c("euribor3m", "nr.employed"))
+    
+    
+    ######   Explore Missing Data   ######
+    
+    vis_miss(marketing_dataset_2) #No missind data observed
+    
+    #Exploratory Data Analysis for Numerical Variables
+    create_report(marketing_dataset_2, output_format = html_document(toc = TRUE, toc_depth = 4, theme = "yeti"))
+    
+    ######   Analyze Covariation    ######
+    marketing_dataset_2 <- marketing_dataset_2 %>%
+      mutate(y_v2 = ifelse(y == "yes", 1, 0))
+    
+    # Create a correlation matrix
+    correlation_matrix <- cor(marketing_dataset_2[, c("age", "duration", "campaign", "pdays", "previous", "emp.var.rate", "cons.price.idx", "cons.conf.idx", "euribor3m", "nr.employed", "y_v2")], method = c("pearson"))
+    
+    # Visualize the correlation matrix as a heat map with correlation values
+    corrplot(
+      correlation_matrix,
+      method = "color",  # You can use different color methods if preferred
+      type = "upper",    # Only display the upper triangle of the matrix
+      tl.cex = 0.7,     # Adjust the font size of the text labels
+      tl.col = "black",  # Text label color
+      addCoef.col = "black"  # Add correlation values in black
+    )
+
+# Create the pie chart for poutcome
+pie_chart <- ggplot(marketing_dataset_2, aes(x = "", y = ..count.., fill = factor(poutcome))) +
+  geom_bar(width = 1) +
+  coord_polar(theta = "y") +
+  theme_void() +
+  labs(title = "Outcome of the Previous Marketing Campaign")
+
+# Add labels to the chart
+pie_chart + geom_text(stat = "count", aes(label = after_stat(count)), position = position_stack(vjust = 0.5))
+
+# Create the pie chart for Y
+pie_chart <- ggplot(marketing_dataset_2, aes(x = "", y = ..count.., fill = factor(y))) +
+  geom_bar(width = 1) +
+  coord_polar(theta = "y") +
+  theme_void() +
+  labs(title = "Output variable (Response/Target)")
+
+# Add labels to the chart
+pie_chart + geom_text(stat = "count", aes(label = after_stat(count)), position = position_stack(vjust = 0.5))
+
+sum(duplicated(marketing_dataset_2))
+
+
+################################### Step 2: Statistical Modelling ###################################
+
+
+# Exclude specific columns
+marketing_dataset_3 <- read_csv("/cloud/project/marketing_data_sample_recoded.csv")
+
+columns_to_exclude <- c("job","marital","education","default","housing","loan","contact","month","day_of_week","pdays","poutcome","contact_v2")
+marketing_dataset <- marketing_dataset_3 %>%
+  select(-one_of(columns_to_exclude))
+view(marketing_dataset)
+
+########### Decision tree
+
+set.seed(123)
+trainIndex <- createDataPartition(marketing_dataset$y, p = 0.7, list = FALSE)
+train_data <- marketing_dataset[trainIndex, ]
+test_data <- marketing_dataset[-trainIndex, ]
+
+# Build a decision tree model
+model <- rpart(y ~ ., data = train_data, method = "class")
+
+# Model Evaluation
+# Predict on the test dataset
+predictions <- predict(model, newdata = test_data, type = "prob")
+
+# Increase the threshold to adjust precision
+new_threshold <- 0.25  # Adjust as needed
+predicted_classes <- ifelse(predictions[, "1"] > new_threshold, 1, 0)
+
+# Evaluate the model using confusion matrix and other metrics
+confusion_matrix <- table(predicted_classes, test_data$y)
+print(confusion_matrix)
+
+# Calculate accuracy, precision, recall, and F1-score
+accuracy <- sum(diag(confusion_matrix)) / sum(confusion_matrix)
+precision <- confusion_matrix[2, 2] / sum(confusion_matrix[, 2])
+recall <- confusion_matrix[2, 2] / sum(confusion_matrix[2, ])
+f1_score <- 2 * (precision * recall) / (precision + recall)
+
+cat("Accuracy:", accuracy, "\n")
+cat("Precision:", precision, "\n")
+cat("Recall:", recall, "\n")
+cat("F1 Score:", f1_score, "\n")
+
+
+########### Logistic Regression
+
+# Split the data into training and testing sets
+# Assuming your dataset is loaded as 'marketing_dataset'
+
+set.seed(123)
+trainIndex <- createDataPartition(marketing_dataset$y, p = 0.7, list = FALSE)
+train_data <- marketing_dataset[trainIndex, ]
+test_data <- marketing_dataset[-trainIndex, ]
+
+# Build a logistic regression model
+model <- glm(y ~ ., data = train_data, family = binomial)
+
+# Get coefficients
+coefficients <- coef(model)
+
+# Predict on the test dataset using "response" type
+predictions <- predict(model, newdata = test_data, type = "response")
+
+# Convert probabilities to binary outcomes using a threshold of 0.5
+predicted_classes <- ifelse(predictions > 0.5, 1, 0)
+
+# Evaluate the model using confusion matrix and other metrics
+confusion_matrix <- table(predicted_classes, test_data$y)
+print(confusion_matrix)
+
+# Calculate accuracy, precision, recall, and F1-score
+accuracy <- sum(diag(confusion_matrix)) / sum(confusion_matrix)
+precision <- confusion_matrix[1, 1] / sum(confusion_matrix[, 1])
+recall <- confusion_matrix[1, 1] / sum(confusion_matrix[1, ])
+f1_score <- 2 * (precision * recall) / (precision + recall)
+
+cat("Accuracy:", accuracy, "\n")
+cat("Precision:", precision, "\n")
+cat("Recall:", recall, "\n")
+cat("F1 Score:", f1_score, "\n")
+
+###Coefficientes
+coefficients <- coef(model)
+print(coefficients)
