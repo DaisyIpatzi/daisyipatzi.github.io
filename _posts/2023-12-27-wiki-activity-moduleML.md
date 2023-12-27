@@ -10,7 +10,7 @@ featured_image: '/images/demo/bottom.gif'
 K-means clustering is classified as an unsupervised machine learning technique due to its fundamental characteristic: it does not require labelled data for training. Unlike supervised learning algorithms that rely on labelled examples to learn patterns and make predictions, unsupervised learning algorithms, such as K-means, work on unlabelled data. The primary objective of K-means is to identify clusters of similar data points based solely on the patterns and relationships within the data itself (Vattani, 2011).
 
 Figure 1: K-means clustering animation, starting with 4 left-most points.
- 
+![](/images/demo/bottom.gif) 
 Source: Shabalin (2007)
 
 Figure 1 shows an animation by Shabalin (2007), in this animation, the process begins with the placement of the first cluster centroids, suggesting that four first centroids are chosen. These first centroids are crucial as they define the starting points for the clustering process. The animation would then prove how the algorithm continues in two alternating steps:
@@ -22,7 +22,7 @@ The animation would iterate between these two steps until convergence, which occ
 In a second animation (see Figure 2), author suggests the convergence properties of K-means, its dependence on first centroid positions, and the potential for multiple solutions based on different initializations.
 
 Figure 2: Visualising K-means clustering for uniform points.
-
+![](/images/demo/bottom2.png) 
 Source: Harris (2014)
 
 Additionally, the text (Harris, 2014) explores various initialization strategies, including random selection, the "farthest" heuristic, and the k-means++ method. K-means clustering, faces challenges in scenarios such as "Uniform Points" where data points are evenly distributed, lacking distinct clusters. K-means may struggle to identify meaningful groupings in such situations, potentially leading to the creation of artificial clusters or failing to uncover genuine patterns. Its inherent assumption of spherical and equally sized clusters can limit its performance in scenarios with non-uniform data distributions.
