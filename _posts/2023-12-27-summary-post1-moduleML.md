@@ -2,7 +2,7 @@
 title: 'Lessons Learned from the 2017 Equifax Data Breach in the Fourth Industrial Revolution'
 date: 2023-12-27 00:00:00
 description: 'Essay: Summary Post 1 | Machine Learning Module'
-featured_image: '/images/demo/equifax.jpg'
+featured_image: 'images/demo/equifax.jpg'
 ---
 
 ## Lessons Learned from the 2017 Equifax Data Breach in the Fourth Industrial Revolution
