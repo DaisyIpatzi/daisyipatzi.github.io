@@ -1,6 +1,6 @@
 ---
-title: 'Importance of comparing the rules of the GDPR with similar compliance laws from other countries'
-date: 2023-12-27 00:00:00
+title: 'K-Means Clustering'
+date: 2023-12-27 12:00:00
 description: 'Wiki Activity | Machine Learning Module'
 featured_image: '/images/demo/bottom.gif'
 ---
