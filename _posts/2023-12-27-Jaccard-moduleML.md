@@ -22,9 +22,9 @@ Calculate Jaccard coefficient for the following pairs:
 - (Jim, Mary)
 
 **Solution**: The Jaccard coefficient, also known as the Jaccard index or Jaccard similarity coefficient, is a statistic used in clustering and other forms of data analysis to measure the similarity and diversity of sample sets and it is given by:
-```math
+
 Jaccard = (f01 + f10) / (f01 + f10 + f11)
-``` 
+
 -To calculate the Jaccard coefficient, we first convert the asymmetric variables to binary values and re-write the table. Since Gender is a symmetric variable (that is, male, female have the same weight), it is not converted.
 
 -So, let **Y** & **P** = 1; **N** & **A** = 0 Let's recalculate it using the binary values:
