@@ -1,17 +1,27 @@
 ---
-title: 'Importance of comparing the rules of the GDPR with similar compliance laws from other countries'
-date: 2023-07-19 00:00:00
-description: 'Essay: Summary Post 2 | Module 3: Deciphering Big Data'
-featured_image: '/images/demo/gdpr_world.jpg'
+title: 'Jaccard Coefficient Calculations'
+date: 2023-12-27 21:00:00
+description: 'Activity: Jaccard Coefficients | Machine Learning Module'
+featured_image: '/images/demo/Jaccard.png'
 ---
 
-## Importance of comparing the rules of the GDPR with similar compliance laws from other countries
+## Jaccard Coefficient Calculations
 
-The General Data Protection Regulation (GDPR) is an EU regulation that applies to all EU member states and governs the processing of personal data within the EU/EEA and its transfer outside these regions. For instance, Germany, the United Kingdom, Italy, and Switzerland have implemented the GDPR through their respective national laws (BDSG, Data Protection Act 2018, Codice Privacy, and FADP) with specific provisions aligned with the GDPR. Nigeria has its own data protection law called the Nigeria Data Protection Regulation (NDPR), while Canada's data protection law is the Personal Information Protection and Electronic Documents Act (PIPEDA). Mexico has the Federal Law on Protection of Personal Data Held by Private Parties (LFPDPPP).
+**Activity**: The table shows the pathological test results for three individuals.
 
-Involving Data Protection Officers (DPOs), the GDPR mandates their appointment for certain organizations, and Germany specifies the requirement for companies with over 20 employees involved in automated data processing. Other countries may have their own DPO requirements or not. Regarding legal bases for data processing, the GDPR and most data privacy laws provide various lawful bases, including consent, contractual necessity, legitimate interests, compliance with legal obligations, vital interests, and tasks in the public interest. Penalties for non-compliance with data privacy laws vary among countries. The GDPR imposes substantial fines, while other countries may have their own enforcement measures, including fines, sanctions, or other regulatory actions.
+|   Name  | Gender | Fever | Cough | Test-1 | Test-2 | Test-3 | Test-4 |
+| ------- | ------ | ----- | ----- | ------ | ------ | ------ | ------ |
+|   Jack  |   M    |   Y   |   N   |   P    |   N    |   N    |   A    |
+|   Mary  |   F    |   Y   |   N   |   P    |   A    |   P    |   N    |
+|   Jim   |   M    |   Y   |   P   |   N    |   N    |   N    |   A    |
 
-It is relevant to differentiate GDPR regulations from the data protection laws of different countries because each legal framework may have unique requirements, definitions, and enforcement mechanisms. Understanding the differences is essential for several reasons such as legal compliance of each jurisdiction, data processing practices, data transfer regulations, consent requirements, cultural and ethical considerations and so on, to maintain legal compliance, protect individuals' privacy rights, and conduct responsible data processing practices in a global and interconnected world. Data protection requires a holistic approach to system design that incorporates a combination of legal, administrative, and technical safeguards (The World Bank, 2023).
+Calculate Jaccard coefficient for the following pairs:
+
+- (Jack, Mary)
+- (Jack, Jim)
+- (Jim, Mary)
+
+**Solution**: fffvdzsxvfsd
 
 **References:**
 
