@@ -25,11 +25,11 @@ Calculate Jaccard coefficient for the following pairs:
 
 Jaccard = (f01 + f10) / (f01 + f10 + f11)
 
--To calculate the Jaccard coefficient, we first convert the asymmetric variables to binary values and re-write the table. Since Gender is a symmetric variable (that is, male, female have the same weight), it is not converted.
+- To calculate the Jaccard coefficient, we first convert the asymmetric variables to binary values and re-write the table. Since Gender is a symmetric variable (that is, male, female have the same weight), it is not converted.
 
--So, let **Y** & **P** = 1; **N** & **A** = 0 Let's recalculate it using the binary values:
+- So, let **Y** & **P** = 1; **N** & **A** = 0 Let's recalculate it using the binary values:
 
--Now, we'll rewrite the table with these binary values:
+- Now, we'll rewrite the table with these binary values:
 
   |   Name  | Gender | Fever | Cough | Test-1 | Test-2 | Test-3 | Test-4 |
   | ------- | ------ | ----- | ----- | ------ | ------ | ------ | ------ |
@@ -37,7 +37,7 @@ Jaccard = (f01 + f10) / (f01 + f10 + f11)
   |   Mary  |   F    |   1   |   0   |   1    |   0    |   1    |   0    |
   |   Jim   |   M    |   1   |   1   |   0    |   0    |   0    |   0    |
 
-**-For (Jack, Mary)**
+**- For (Jack, Mary)**
   
   Jack: (1, 0, 1, 0, 0, 0)
   
@@ -45,7 +45,7 @@ Jaccard = (f01 + f10) / (f01 + f10 + f11)
   
   **Jaccar**d = (1+0)/(1+0+2)= **0.33**
 
-**-For (Jack, Jim)**
+**- For (Jack, Jim)**
   
   Jack: (1, 0, 1, 0, 0, 0)
   
@@ -53,7 +53,7 @@ Jaccard = (f01 + f10) / (f01 + f10 + f11)
   
   **Jaccard** = (1+1)/(1+1+1)= **0.67**
 
-  **-For (Jim, Mary)**
+  **- For (Jim, Mary)**
   
   Jim:  (1, 1, 0, 0, 0, 0)
   
@@ -64,10 +64,10 @@ Jaccard = (f01 + f10) / (f01 + f10 + f11)
 
 **Conclusions**
 
--Jack and Mary have a Jaccard coefficient of 0.33, which means that they have a relatively low degree of similarity in their test results. Only 33% of the binary attributes are the same between them.
+- Jack and Mary have a Jaccard coefficient of 0.33, which means that they have a relatively low degree of similarity in their test results. Only 33% of the binary attributes are the same between them.
 
--Jack and Jim have a Jaccard coefficient of 0.67, indicating a higher degree of similarity compared to Jack and Mary. 67% of their binary attributes match, suggesting a moderate level of similarity.
+- Jack and Jim have a Jaccard coefficient of 0.67, indicating a higher degree of similarity compared to Jack and Mary. 67% of their binary attributes match, suggesting a moderate level of similarity.
 
--Jim and Mary have the highest Jaccard coefficient among the pairs, with a value of 0.75. This suggests a relatively high degree of similarity in their test results, with 75% of their binary attributes being the same.
+- Jim and Mary have the highest Jaccard coefficient among the pairs, with a value of 0.75. This suggests a relatively high degree of similarity in their test results, with 75% of their binary attributes being the same.
 
 Note that, in practical applications, a Jaccard coefficient of 1 is often used to represent complete similarity or a perfect match between two sets.
