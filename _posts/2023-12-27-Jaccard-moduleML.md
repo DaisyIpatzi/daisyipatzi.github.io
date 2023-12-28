@@ -1,6 +1,6 @@
 ---
 title: 'Jaccard Coefficient Calculations'
-date: 2023-12-27 21:00:00
+date: 2023-12-27 13:00:00
 description: 'Activity: Jaccard Coefficients | Machine Learning Module'
 featured_image: '/images/demo/Jaccard.png'
 ---
