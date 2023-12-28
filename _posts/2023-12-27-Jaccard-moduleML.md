@@ -37,15 +37,15 @@ Jaccard = (f01 + f10) / (f01 + f10 + f11)
   |   Mary  |   F    |   1   |   0   |   1    |   0    |   1    |   0    |
   |   Jim   |   M    |   1   |   1   |   0    |   0    |   0    |   0    |
 
-**- For (Jack, Mary)**
+- **For (Jack, Mary)**
   
   Jack: (1, 0, 1, 0, 0, 0)
   
   Mary: (1, 0, 1, 0, 1, 0)
   
-  **Jaccar**d = (1+0)/(1+0+2)= **0.33**
+  **Jaccard** = (1+0)/(1+0+2)= **0.33**
 
-**- For (Jack, Jim)**
+ - **For (Jack, Jim)**
   
   Jack: (1, 0, 1, 0, 0, 0)
   
@@ -53,7 +53,7 @@ Jaccard = (f01 + f10) / (f01 + f10 + f11)
   
   **Jaccard** = (1+1)/(1+1+1)= **0.67**
 
-  **- For (Jim, Mary)**
+  - **For (Jim, Mary)**
   
   Jim:  (1, 1, 0, 0, 0, 0)
   
