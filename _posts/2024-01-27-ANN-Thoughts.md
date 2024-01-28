@@ -15,6 +15,6 @@ In summary, Artificial Neural Networks (ANN) have emerged as transformative forc
 
 **References:**
 
-Mach, P. (2021). _10 Business Applications of Neural Network (With Examples!)_. [online] www.ideamotive.co. Available at: https://www.ideamotive.co/blog/business-applications-of-neural-network [Accessed 27 Jan. 2024].
+Mach, P. (2021). _10 Business Applications of Neural Network (With Examples!)_. [online] www.ideamotive.co. Available at: https://www.ideamotive.co/blog/business-applications-of-neural-network [Accessed 27 Jan 2024].
 
-UK Government (2019). _Snapshot Paper - AI and Personal Insurance_. [online] GOV.UK. Available at: https://www.gov.uk/government/publications/cdei-publishes-its-first-series-of-three-snapshot-papers-ethical-issues-in-ai/snapshot-paper-ai-and-personal-insurance [Accessed 27 Jan. 2024].
+UK Government (2019). _Snapshot Paper - AI and Personal Insurance_. [online] GOV.UK. Available at: https://www.gov.uk/government/publications/cdei-publishes-its-first-series-of-three-snapshot-papers-ethical-issues-in-ai/snapshot-paper-ai-and-personal-insurance [Accessed 27 Jan 2024].
