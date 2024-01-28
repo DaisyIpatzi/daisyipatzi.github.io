@@ -2,7 +2,7 @@
 title: 'Revolutionizing E-commerce and Personal Insurance: The Impact of Artificial Neural Networks (ANN)'
 date: 2024-01-27 12:00:00
 description: 'ANN Thoughts'
-featured_image: '/images/demo/bottom.gif'
+featured_image: '/images/demo/ecom.jpg'
 ---
 
 ## Revolutionizing E-commerce and Personal Insurance: The Impact of Artificial Neural Networks (ANN)
