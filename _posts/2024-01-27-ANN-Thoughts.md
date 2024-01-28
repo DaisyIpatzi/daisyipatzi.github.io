@@ -18,6 +18,3 @@ In summary, Artificial Neural Networks (ANN) have emerged as transformative forc
 Mach, P. (2021). _10 Business Applications of Neural Network (With Examples!)_. [online] www.ideamotive.co. Available at: https://www.ideamotive.co/blog/business-applications-of-neural-network [Accessed 27 Jan. 2024].
 
 UK Government (2019). _Snapshot Paper - AI and Personal Insurance_. [online] GOV.UK. Available at: https://www.gov.uk/government/publications/cdei-publishes-its-first-series-of-three-snapshot-papers-ethical-issues-in-ai/snapshot-paper-ai-and-personal-insurance [Accessed 27 Jan. 2024].
-
-
-Vattani, A. (2011). k-means Requires Exponentially Many Iterations Even in the Plane. _Discrete & Computational Geometry_, 45(4), pp.596–616. doi:https://doi.org/10.1007/s00454-011-9340-1.
