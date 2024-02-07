@@ -28,6 +28,7 @@ Currie, G.M. (2023). Academic integrity and artificial intelligence: is ChatGPT 
 Hohenstein, J., Kizilcec, R.F., DiFranzo, D., Aghajari, Z., Mieczkowski, H., Levy, K., Naaman, M., Hancock, J. and Jung, M.F. (2023). Artificial intelligence in communication impacts language and social relationships. _Scientific Reports_, [online] 13(1), p.5487. doi:https://doi.org/10.1038/s41598-023-30938-9.
 
 Hutson, M. (2021). Robo-writers: the rise and risks of language-generating AI. _Nature_, [online] 591(7848), pp.22–25. doi:https://doi.org/10.1038/d41586-021-00530-0.
+
 McClelland, C. (2023). _The Impact of Artificial Intelligence - Widespread Job Losses_. [online] IoT For All. Available at: https://www.iotforall.com/impact-of-artificial-intelligence-job-losses [Accessed 28 Jan. 2024].
 
 Miller, A. (2019). The intrinsically linked future for human and Artificial Intelligence interaction. _Journal of Big Data_, 6(1). doi:https://doi.org/10.1186/s40537-019-0202-7.
