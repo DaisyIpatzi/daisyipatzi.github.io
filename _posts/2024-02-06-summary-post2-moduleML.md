@@ -2,7 +2,7 @@
 title: 'Exploring the Rise of AI Writers: Advantages, Challenges, and Ethical Considerations'
 date: 2024-02-06 00:00:00
 description: 'Essay: Summary Post 2 | Machine Learning Module'
-featured_image: 'images/demo/equifax.jpg'
+featured_image: 'images/demo/AI-Writters.jpg'
 ---
 
 ## Exploring the Rise of AI Writers: Advantages, Challenges, and Ethical Considerations
