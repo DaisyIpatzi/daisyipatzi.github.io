@@ -1,10 +1,11 @@
 ---
-title: 'Object Recognition with Convolutional Neural Networks'
-subtitle: 'A CIFAR-10 Dataset Case Study'
+title: "Object Recognition with Convolutional Neural Networks"
+subtitle: "A CIFAR-10 Dataset Case Study"
 date: 2024-02-08 00:00:00
-description: Object Recognition with Convolutional Neural Networks: A CIFAR-10 Dataset Case Study.
-featured_image: 'images/demo/neuron.jpg'
+description: "Object Recognition with Convolutional Neural Networks: A CIFAR-10 Dataset Case Study."
+featured_image: "images/demo/neuron.jpg"
 ---
+
 
 ## 1. Introduction
 
