@@ -183,9 +183,9 @@ Luo, T., Jiang, G., Yu, M., Zhong, C., Xu, H. and Pan, Z. (2019). Convolutional 
 
 Md Shahid (2019). Convolutional Neural Network. _Medium_. Available at: https://towardsdatascience.com/covolutional-neural-network-cb0883dd6529 [Accessed 7 Feb. 2024].
 
-Sharma, D. (2021). _Image Classification Using CNN | Step-wise Tutorial_. [online] Analytics Vidhya. Available at: https://www.analyticsvidhya.com/blog/2021/01/image-classification-using-convolutional-neural-networks-a-step-by-step-guide/#:~:text=CNN%20classifier%20for%20image%20classification [Accessed 6 Feb. 2024].
+Sharma, D. (2021). _Image Classification Using CNN - Step-wise Tutorial_. [online] Analytics Vidhya. Available at: https://www.analyticsvidhya.com/blog/2021/01/image-classification-using-convolutional-neural-networks-a-step-by-step-guide/#:~:text=CNN%20classifier%20for%20image%20classification [Accessed 6 Feb. 2024].
 
-Sultanov, J. (2019). _Magic behind Activation Function!_ [online] AI3 | Theory, Practice, Business. Available at: https://medium.com/ai%C2%B3-theory-practice-business/magic-behind-activation-function-c6fbc5e36a92 [Accessed 8 Feb. 2024].
+Sultanov, J. (2019). _Magic behind Activation Function!_ [online] AI3 - Theory, Practice, Business. Available at: https://medium.com/ai%C2%B3-theory-practice-business/magic-behind-activation-function-c6fbc5e36a92 [Accessed 8 Feb. 2024].
 
 Team, K. (2023). _Keras documentation: CIFAR10 small images classification dataset_. [online] keras.io. Available at: https://keras.io/api/datasets/cifar10/ [Accessed 6 Feb. 2024].
 
