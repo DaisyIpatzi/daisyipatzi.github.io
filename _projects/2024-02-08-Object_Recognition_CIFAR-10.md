@@ -169,7 +169,7 @@ Chollet, F. (2015). _Keras documentation: About Keras_. [online] keras.io. Avail
 
 Huang, Z., Sang, Y., Sun, Y. and Jiancheng Lv (2022). A neural network learning algorithm for highly imbalanced data classification. _Information Sciences_, 612(0020-0255), pp.496–513. doi:https://doi.org/10.1016/j.ins.2022.08.074.
 
-Ipatzi Bello, D. (2024). _Neural Network Model for Object Recognition_. [online] GitHub. Available at: https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/ML_Artifacts/Individual_Project_Presentation/NNM_For_Object_Recognition.ipynb [Accessed 8 Feb. 2024].
+Ipatzi Bello, D. (2024). _Neural Network Model for Object Recognition_. [online] GitHub. Available at: https://shorturl.at/jNRZ7 [Accessed 8 Feb. 2024].
 
 Jmour, N., Zayen, S. and Abdelkrim, A. (2018). Convolutional neural networks for image classification. _2018 International Conference on Advanced Systems and Electric Technologies (IC_ASET)_, (978-1-5386-4449-2). doi:https://doi.org/10.1109/aset.2018.8379889.
 
