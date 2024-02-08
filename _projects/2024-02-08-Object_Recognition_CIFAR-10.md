@@ -159,7 +159,7 @@ As a beginner in visual computing, the mathematics behind the models made sense,
 
 While challenging, these experiences provided valuable lessons, improving my skills in data manipulation, model tuning, and result interpretation. 
 
-## 6. Model Evaluation and Results
+## References
 
 Aretz, K., Bartram, S.M. and Pope, P.F. (2011). _Asymmetric Loss Functions and the Rationality of Expected Stock Returns_. [online] mpra.ub.uni-muenchen.de. Available at: https://mpra.ub.uni-muenchen.de/47343/ [Accessed 8 Feb. 2024].
 
