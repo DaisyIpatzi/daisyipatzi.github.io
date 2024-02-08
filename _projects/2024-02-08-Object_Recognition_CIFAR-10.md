@@ -67,7 +67,8 @@ At the end, the network concludes with fully connected layers, which translate t
 
 Activation functions basically take the input signal of a node in a neural network and change it into an output signal, which then gets sent to the next layer. I have selected the Rectified Linear Unit (ReLU) as the activation function. ReLU is frequently used due to its efficiency in handling non-linear data (Chen, 2021), a critical aspect for processing and classifying complex image datasets like CIFAR-10. 
 
-The ReLU function is defined mathematically as f(x) = max⁡(0, x) and the derivative is: f^' (x)= {█(0 if x<0 @1 if x>0)┤ and thus, undefined if x=0
+The ReLU function is defined mathematically as \( f(x) = \max(0, x) \) and the derivative is: \( f'(x) = \begin{cases} 0 & \text{if } x < 0 \\ 1 & \text{if } x > 0 \end{cases} \) and thus, undefined if \(x = 0\) .
+
 By employing the provided equation, it is evident that ReLU outputs the value x when x is positive and returns 0 otherwise. In other words, is linear for all positive values, and zero for all negative values. See please, the Exhibit 6.
 
 ![](/images/demo/E6_CNN.jpg)
