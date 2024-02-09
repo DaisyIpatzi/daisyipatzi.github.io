@@ -1,15 +1,15 @@
 ---
-title: "Object Recognition with Convolutional Neural Networks"
-subtitle: "A CIFAR-10 Dataset Case Study"
-date: 2024-02-17 00:00:00
-description: "Object Recognition with Convolutional Neural Networks: A CIFAR-10 Dataset Case Study."
+title: "Machine Learning Module Reflection: February 2024"
+subtitle: "Reflecting on Learning Outcomes and Achievements during the Module"
+date: 2022-01-01 00:00:00
+description: " Documenting Achievements and Insights from the ML Module, at the University of Essex."
 featured_image: "images/demo/ML-EP.jpg"
 ---
 
 
 ## Objective
 
-This submission serves as a comprehensive record of my work and the learning outcomes achieved throughout the Machine Learning module completed in February 2024 at the University of Essex. To facilitate navigation and provide an overview, the following table presents a list of all the required activities:
+This submission serves as a comprehensive record of my work and the learning outcomes achieved throughout the Machine Learning module completed in February 2024 at the University of Essex. To facilitate navigation and provide an overview, the following table presents a list of all the contents covered. Each module contains links to the artifacts and activities completed:
 
 # Table of Contents
 
