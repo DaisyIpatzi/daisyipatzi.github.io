@@ -11,7 +11,7 @@ featured_image: "images/demo/ML-EP.jpg"
 
 This submission serves as a comprehensive record of my work and the learning outcomes achieved throughout the Machine Learning module completed in February 2024 at the University of Essex. To facilitate navigation and provide an overview, the following table presents a list of all the contents covered. Each module contains links to the artifacts and activities completed:
 
-# Table of Contents
+## Table of Contents
 
 - [Unit 1: Introduction to Machine Learning (ML)](#unit-1-introduction-to-machine-learning-ml)
 - [Unit 2: Exploratory Data Analysis](#unit-2-exploratory-data-analysis)
