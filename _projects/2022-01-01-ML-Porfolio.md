@@ -67,8 +67,7 @@ This submission serves as a comprehensive record of my work and the learning out
 
 **Learning Outcomes**: Through this unit, I acquired a robust understanding of clustering techniques and their practical applications, enhancing my ability to extract meaningful insights from unstructured data.
 
-**Artifacts**:  
-[Jaccard Coefficient Calculations](https://daisyipatzi.github.io/blog/jaccard-moduleml)
+**Artifacts**: [Jaccard Coefficient Calculations](https://daisyipatzi.github.io/blog/jaccard-moduleml)
 
 ## Unit 6: Clustering with Python
 
@@ -106,8 +105,7 @@ This submission serves as a comprehensive record of my work and the learning out
 
 **Learning Outcomes**: By the conclusion of this unit, I developed understanding of CNNs and their potential applications, particularly in image processing and computer vision.
 
-**Artifacts**:  
-[Convolutional Neural Networks (CNN) - Object Recognition Activity](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/ML_Artifacts/CNN/Convolutional_Neural_Networks_(CNN)_Object_Recognition.ipynb)
+**Artifacts**: [Convolutional Neural Networks (CNN) - Object Recognition Activity](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/ML_Artifacts/CNN/Convolutional_Neural_Networks_(CNN)_Object_Recognition.ipynb)
 
 ## Unit 10: CNN Interactive Learning
 
@@ -123,8 +121,7 @@ This submission serves as a comprehensive record of my work and the learning out
 
 **Learning Outcomes**: Through this unit, I gained proficiency in evaluating model performance and selecting appropriate models based on established criteria, facilitating informed decision-making in machine learning projects.
 
-**Artifacts**:  
-[Model Performance Measurement Activity](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/ML_Artifacts/Model_Performance_Evaluation/Model_Performance_Measurement.ipynb)
+**Artifacts**: [Model Performance Measurement Activity](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/ML_Artifacts/Model_Performance_Evaluation/Model_Performance_Measurement.ipynb)
 
 ## Unit 12: Industry 4.0 and Machine Learning
 
