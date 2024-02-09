@@ -24,48 +24,134 @@ This submission serves as a comprehensive record of my work and the learning out
 - [Unit 9: Introduction to Convolutional Neural Networks (CNNs)](#unit-9-introduction-to-convolutional-neural-networks-cnns)
 - [Unit 10: CNN Interactive Learning](#unit-10-cnn-interactive-learning)
 - [Unit 11: Model Selection and Evaluation](#unit-11-model-selection-and-evaluation)
-- [Unit 12: Industry 4.0 and Machine Learning](#unit-12-industry-40-and-machine-learning)
+- [Development Team Project: Project Report](#development-team-project-project-report)
+- [Development Individual Project: Presentation](#development-individual-project-presentation)
 - [Final Reflection](#final-reflection)
 
 ## Unit 1: Introduction to Machine Learning (ML)
-Content for Introduction to Machine Learning (ML) unit.
+
+**Summary**: This module began with an insightful exploration of the foundations of machine learning (ML). We dived into its historical evolution and contemplated its potential future impact. Ethical considerations in AI development were also a focal point of our discussions.
+
+**Learning Outcomes**: By the conclusion of this unit, I gained a comprehensive understanding of the historical context and potential ethical implications of ML. It fostered a more nuanced perspective on the role of AI in our society.
+
+**Artifacts**: [Collaborative Discussion 1 (Summary Post)](https://daisyipatzi.github.io/blog/summary-post1-moduleml)
 
 ## Unit 2: Exploratory Data Analysis
-Content for Exploratory Data Analysis unit.
+
+**Summary**: In this unit, we boarded on a journey into the realm of exploratory data analysis. We learned various techniques for deciphering raw data, identifying anomalies, and preparing it for further analysis. The hands-on exercises provided invaluable practical experience.
+
+**Learning Outcomes**: Through this unit, I honed my skills in data wrangling and visualization, equipping me with essential tools for extracting insights from complex datasets.
+
+**Artifacts**: [EDA Tutorial](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/ML_Artifacts/EDA_Tutorial/A_Tutorial_on_Exploratory_Data_Analysis.ipynb)
 
 ## Unit 3: Correlation and Regression
-Content for Correlation and Regression unit.
+
+**Summary**: This unit searched into the realm of correlation and regression analysis. We explored techniques for uncovering relationships within data and building predictive models. Despite its complexity, the material was presented in an accessible manner.
+
+**Learning Outcomes**: By the end of this unit, I developed proficiency in conducting correlation analyses and constructing regression models. These skills are invaluable for making data-driven decisions in various domains.
+
+**Artifacts**: [Correlation and Regression Activity](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/ML_Artifacts/Correlation_And_Regression/Correlation_and_Regression.ipynb)
 
 ## Unit 4: Linear Regression with Scikit-Learn
-Content for Linear Regression with Scikit-Learn unit.
+
+**Summary**: Building upon our regression knowledge, we transitioned to implementing linear regression models using Scikit-Learn. Real-world examples aided in solidifying our understanding of the concepts covered.
+
+**Learning Outcomes**: This unit equipped me with practical skills in building and fine-tuning regression models, enabling me to apply them confidently in real-world scenarios.
+
+**Artifacts**:
+[Linear Regression with Scikit-Learn Activity]([https://daisyipatzi.github.io/blog/summary-post1-moduleml](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/ML_Artifacts/Linear_Regression_with_Scikit_Learn/Demo_Correlation_Regression_Fuel_Consumption_ipynb.ipynb))
 
 ## Unit 5: Clustering
-Content for Clustering unit.
+
+**Summary**: Clustering algorithms were the focus of this unit, offering insights into unsupervised learning techniques. We explored different clustering methods and their applications in uncovering hidden patterns within data.
+
+**Learning Outcomes**: Through this unit, I acquired a robust understanding of clustering techniques and their practical applications, enhancing my ability to extract meaningful insights from unstructured data.
+
+**Artifacts**:  
+[Jaccard Coefficient Calculations](https://daisyipatzi.github.io/blog/jaccard-moduleml)
 
 ## Unit 6: Clustering with Python
-Content for Clustering with Python unit.
+
+**Summary**: Leveraging Python, we applied clustering algorithms to real-world datasets in this unit. Hands-on experience facilitated a deeper comprehension of the concepts covered.
+
+**Learning Outcomes**: By the conclusion of this unit, I felt proficient in implementing clustering algorithms using Python, empowering me to analyze and interpret complex datasets effectively.
+
+**Artifacts**:  
+[K-Means Clustering Tutorial](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/ML_Artifacts/K-Means_Clustering_Tutorial/K_Means_Clustering_Tutorial.ipynb)
 
 ## Unit 7: Introduction to Artificial Neural Networks (ANNs)
-Content for Introduction to Artificial Neural Networks (ANNs) unit.
 
+**Summary**: Neural networks were demystified in this unit, where we explored their fundamental principles and architectures. The discussions shed light on the inner workings of ANNs and their applications.
+
+**Learning Outcomes**: This unit provided me with a solid foundation in understanding neural networks, covering the way for further exploration into advanced machine learning techniques.
+
+**Artifacts**:  
+- ["Simple Perceptron" and "Percepton and Operator" Examples](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/ML_Artifacts/Perceptron/ANN_(Excercise_1_and_2).ipynb)
+- ["Multi Layer Perceptron" Example](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/ML_Artifacts/Perceptron/ANN_(Excercise_3).ipynb)
+ 
 ## Unit 8: Training an Artificial Neural Network
-Content for Training an Artificial Neural Network unit.
+
+**Summary**: Training neural networks was the focal point of this unit, requiring a deep dive into backpropagation and gradient descent algorithms. Despite its technical complexity, the material was presented in a digestible manner.
+
+**Learning Outcomes**: Through this unit, I gained proficiency in training neural networks, enabling me to fine-tune model parameters and optimize performance effectively.
+
+**Artifacts**:  
+- [Collaborative Discussion 2 (Summary Post)](https://daisyipatzi.github.io/blog/summary-post2-moduleml)
+- [Gradient Descendent Cost Function Activity](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/ML_Artifacts/Gradient_Descent_Cost/Gradient_Descent_Cost_Function.ipynb)
+- [Collaborative Discussion 2 (Summary Post)](https://daisyipatzi.github.io/blog/summary-post2-moduleml)
 
 ## Unit 9: Introduction to Convolutional Neural Networks (CNNs)
-Content for Introduction to Convolutional Neural Networks (CNNs) unit.
+
+**Summary**: This unit introduced Convolutional Neural Networks (CNNs) and their applications in image recognition tasks. We explored the architecture of CNNs and their role in various real-world scenarios.
+
+**Learning Outcomes**: By the conclusion of this unit, I developed understanding of CNNs and their potential applications, particularly in image processing and computer vision.
+
+**Artifacts**:  
+[Convolutional Neural Networks (CNN) - Object Recognition Activity](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/ML_Artifacts/CNN/Convolutional_Neural_Networks_(CNN)_Object_Recognition.ipynb)
 
 ## Unit 10: CNN Interactive Learning
-Content for CNN Interactive Learning unit.
+
+**Summary**: Hands-on experimentation with CNNs was the highlight of this unit, where we explored different configurations and observed their impact on model performance.
+
+**Learning Outcomes**: This unit boosted my practical skills in working with CNNs, equipping me with the ability to iteratively refine model architectures for optimal performance.
+
+**Artifacts**:  CNN Tutorial
 
 ## Unit 11: Model Selection and Evaluation
-Content for Model Selection and Evaluation unit.
+
+**Summary**:  Model selection and evaluation methodologies were the focus of this unit, emphasizing the importance of rigorously assessing model performance and selecting the most suitable models for specific tasks.
+
+**Learning Outcomes**: Through this unit, I gained proficiency in evaluating model performance and selecting appropriate models based on established criteria, facilitating informed decision-making in machine learning projects.
+
+**Artifacts**:  
+[Model Performance Measurement Activity](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/ML_Artifacts/Model_Performance_Evaluation/Model_Performance_Measurement.ipynb)
 
 ## Unit 12: Industry 4.0 and Machine Learning
-Content for Industry 4.0 and Machine Learning unit.
+
+**Summary**: The module concluded with an exploration of the intersection between machine learning and Industry 4.0, highlighting the transformative potential of AI technologies in various industries.
+
+**Learning Outcomes**: This unit broadened my perspective on the applications of machine learning in industry, fostering an appreciation for its role in driving innovation and shaping the future of work.
+
+**Artifacts**: Future of Machine Learning
+
+## Development Team Project: Project Report
+
+**Summary**: Content
+
+**Learning Outcomes**: Content
+
+**Artifacts**: Content
+
+## Development Individual Project: Presentation
+
+**Summary**: Content
+
+**Learning Outcomes**: Content
+
+**Artifacts**: Content
 
 ## Final Reflection
 Content for Final Reflection.
-
 
 ## References
 
