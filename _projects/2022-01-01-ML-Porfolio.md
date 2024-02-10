@@ -132,9 +132,9 @@ This submission serves as a comprehensive record of my work and the learning out
 
 ## Development Team Project: Project Report
 
-**Summary**: This assignment required the analysis of the Airbnb dataset using data science techniques, culminating in the preparation of an analytical report addressing a substantive business question. The tasks included formulating relevant questions, performing data analysis, and presenting findings effectively within a concise report format.
+**Summary**: This assignment required the analysis of the Airbnb dataset using data science techniques, culminating in the preparation of an analytical report addressing a substantive business question. The tasks included formulating relevant questions, performing data analysis, and presenting findings effectively within a concise report format.In this team project, I took on the role of team leader, setting deadlines, establishing the project timeline, interpreting code, and initiating the drafting of the analytical report.
 
-**Learning Outcomes**: Through this assignment, I developed an understanding of the challenges and applicability of machine learning algorithms in real-world datasets. Additionally, collaborating within a virtual team environment provided practical insights into teamwork dynamics and communication skills, mirroring professional scenarios.
+**Learning Outcomes**: Through this assignment, I developed an understanding of the challenges and applicability of machine learning algorithms in real-world datasets. Additionally, collaborating within a virtual team environment provided practical insights into teamwork dynamics and communication skills, mirroring professional scenarios. As the team leader, I systematically developed and implemented the skills required to effectively collaborate in a virtual professional environment, gaining insights into team roles and organizational dynamics. Additionally, I honed my ability to express ideas succinctly and concisely, meeting the requirement for clear and concise reporting in analytical projects.
 
 **Artifacts**: 
 
