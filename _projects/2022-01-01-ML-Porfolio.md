@@ -139,7 +139,7 @@ This submission serves as a comprehensive record of my work and the learning out
 **Artifacts**: 
 
 - [Python Notebook](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/ML_Artifacts/Airbnb_Project/Essex_group_project_01_airbnb.ipynb)
-- [Analytical Report](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/ML_Artifacts/Airbnb_Project/Airbnb%20Report%20(Group%201).docx)
+- [Download Analytical Report](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/main/assets/ML_Artifacts/Airbnb_Project/Airbnb%20Report%20(Group%201).docx)
 
 ## Development Individual Project: Presentation
 
