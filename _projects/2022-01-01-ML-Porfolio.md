@@ -58,8 +58,7 @@ This submission serves as a comprehensive record of my work and the learning out
 
 **Learning Outcomes**: This unit equipped me with practical skills in building and fine-tuning regression models, enabling me to apply them confidently in real-world scenarios.
 
-**Artifacts**:
-[Linear Regression with Scikit-Learn Activity]([https://daisyipatzi.github.io/blog/summary-post1-moduleml](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/ML_Artifacts/Linear_Regression_with_Scikit_Learn/Demo_Correlation_Regression_Fuel_Consumption_ipynb.ipynb))
+**Artifacts**: [Linear Regression with Scikit-Learn Activity](https://github.com/DaisyIpatzi/daisyipatzi.github.io/tree/main/assets/ML_Artifacts/Linear_Regression_with_Scikit_Learn)
 
 ## Unit 5: Clustering
 
@@ -67,7 +66,9 @@ This submission serves as a comprehensive record of my work and the learning out
 
 **Learning Outcomes**: Through this unit, I acquired a robust understanding of clustering techniques and their practical applications, enhancing my ability to extract meaningful insights from unstructured data.
 
-**Artifacts**: [Jaccard Coefficient Calculations](https://daisyipatzi.github.io/blog/jaccard-moduleml)
+**Artifacts**: 
+- [Jaccard Coefficient Calculations](https://daisyipatzi.github.io/blog/jaccard-moduleml)
+- [Wiki Activity](https://daisyipatzi.github.io/blog/wiki-activity-moduleml)
 
 ## Unit 6: Clustering with Python
 
@@ -75,8 +76,7 @@ This submission serves as a comprehensive record of my work and the learning out
 
 **Learning Outcomes**: By the conclusion of this unit, I felt proficient in implementing clustering algorithms using Python, empowering me to analyze and interpret complex datasets effectively.
 
-**Artifacts**:  
-[K-Means Clustering Tutorial](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/ML_Artifacts/K-Means_Clustering_Tutorial/K_Means_Clustering_Tutorial.ipynb)
+**Artifacts**: [K-Means Clustering Tutorial](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/ML_Artifacts/K-Means_Clustering_Tutorial/K_Means_Clustering_Tutorial.ipynb)
 
 ## Unit 7: Introduction to Artificial Neural Networks (ANNs)
 
@@ -97,7 +97,6 @@ This submission serves as a comprehensive record of my work and the learning out
 **Artifacts**:  
 - [Collaborative Discussion 2 (Summary Post)](https://daisyipatzi.github.io/blog/summary-post2-moduleml)
 - [Gradient Descendent Cost Function Activity](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/ML_Artifacts/Gradient_Descent_Cost/Gradient_Descent_Cost_Function.ipynb)
-- [Collaborative Discussion 2 (Summary Post)](https://daisyipatzi.github.io/blog/summary-post2-moduleml)
 
 ## Unit 9: Introduction to Convolutional Neural Networks (CNNs)
 
