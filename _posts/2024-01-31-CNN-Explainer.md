@@ -19,11 +19,11 @@ The Softmax function's utility in scaling model outputs into probabilities is al
 
 Overall, the explanation offers a comprehensive understanding of CNNs, their architectural components, and operational mechanisms, providing valuable insights into their applicability in image recognition tasks.
 
-The CNN Explainer can we found in [this link](https://poloclub.github.io/cnn-explainer/).  
+The CNN Explainer can be found in [this link](https://poloclub.github.io/cnn-explainer/).  
 
 
 ## References
 
-Wang, J., Turko, R., Shaikh, O., Park, H., Das, N., Hohman, F., Kahng, M. and Chau, P. (2020a). CNN Explainer. [online] poloclub.github.io. Available at: https://poloclub.github.io/cnn-explainer/ [Accessed 31 Jan. 2024].
+Wang, J., Turko, R., Shaikh, O., Park, H., Das, N., Hohman, F., Kahng, M. and Chau, P. (2020a). _CNN Explainer_. [online] poloclub.github.io. Available at: https://poloclub.github.io/cnn-explainer/ [Accessed 31 Jan. 2024].
 
-Wang, Z.J., Turko, R., Shaikh, O., Park, H., Das, N., Hohman, F., Kahng, M. and Chau, D.H. (2020b). CNN Explainer: Learning Convolutional Neural Networks with Interactive Visualization. arXiv:2004.15004 [cs]. [online] Available at: https://arxiv.org/abs/2004.15004 [Accessed 31 Jan. 2024].
+Wang, Z.J., Turko, R., Shaikh, O., Park, H., Das, N., Hohman, F., Kahng, M. and Chau, D.H. (2020b). _CNN Explainer: Learning Convolutional Neural Networks with Interactive Visualization_. arXiv:2004.15004 [cs]. [online] Available at: https://arxiv.org/abs/2004.15004 [Accessed 31 Jan. 2024].
