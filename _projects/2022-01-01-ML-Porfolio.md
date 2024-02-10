@@ -112,7 +112,7 @@ This submission serves as a comprehensive record of my work and the learning out
 
 **Learning Outcomes**: This unit boosted my practical skills in working with CNNs, equipping me with the ability to iteratively refine model architectures for optimal performance.
 
-**Artifacts**:  CNN Tutorial
+**Artifacts**:  [CNN Explainer Insights](https://daisyipatzi.github.io/blog/cnn-explainer)
 
 ## Unit 11: Model Selection and Evaluation
 
