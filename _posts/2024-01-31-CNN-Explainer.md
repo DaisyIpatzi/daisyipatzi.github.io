@@ -1,8 +1,8 @@
 ---
 title: "Understanding CNNs with CNN Explainer"
-subtitle: "Understanding CNNs with CNN Explainer: An In-Depth Analysis of Convolutional Neural Networks Architecture and Operations"
+subtitle: "An In-Depth Analysis of Convolutional Neural Networks Architecture and Operations"
 date: 2024-01-31 00:00:00
-description: "An In-Depth Analysis of Convolutional Neural Networks Architecture and Operations."
+description: "Understanding CNNs with CNN Explainer."
 featured_image: "images/demo/cnn-explainer-image.jpg"
 ---
 
