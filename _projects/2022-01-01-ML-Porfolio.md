@@ -132,11 +132,14 @@ This submission serves as a comprehensive record of my work and the learning out
 
 ## Development Team Project: Project Report
 
-**Summary**: Content
+**Summary**: This assignment required the analysis of the Airbnb dataset using data science techniques, culminating in the preparation of an analytical report addressing a substantive business question. The tasks included formulating relevant questions, performing data analysis, and presenting findings effectively within a concise report format.
 
-**Learning Outcomes**: Content
+**Learning Outcomes**: Through this assignment, I developed an understanding of the challenges and applicability of machine learning algorithms in real-world datasets. Additionally, collaborating within a virtual team environment provided practical insights into teamwork dynamics and communication skills, mirroring professional scenarios.
 
-**Artifacts**: Content
+**Artifacts**: 
+- [Python Notebook](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/ML_Artifacts/Airbnb_Project/Essex_group_project_01_airbnb.ipynb)
+- [Analytical Report](https://daisyipatzi.github.io/blog/wiki-activity-moduleml)
+- [Download Word Document](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/ML_Artifacts/Airbnb_Project/Airbnb%20Report%20(Group%201).docx)
 
 ## Development Individual Project: Presentation
 
