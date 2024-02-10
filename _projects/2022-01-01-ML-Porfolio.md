@@ -137,17 +137,19 @@ This submission serves as a comprehensive record of my work and the learning out
 **Learning Outcomes**: Through this assignment, I developed an understanding of the challenges and applicability of machine learning algorithms in real-world datasets. Additionally, collaborating within a virtual team environment provided practical insights into teamwork dynamics and communication skills, mirroring professional scenarios.
 
 **Artifacts**: 
+
 - [Python Notebook](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/ML_Artifacts/Airbnb_Project/Essex_group_project_01_airbnb.ipynb)
-- [Analytical Report](https://daisyipatzi.github.io/blog/wiki-activity-moduleml)
-- [Download Word Document](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/ML_Artifacts/Airbnb_Project/Airbnb%20Report%20(Group%201).docx)
+- [Analytical Report](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/ML_Artifacts/Airbnb_Project/Airbnb%20Report%20(Group%201).docx)
 
 ## Development Individual Project: Presentation
 
-**Summary**: Content
+**Summary**:  In this individual assignment, I developed a 20-minute presentation to demonstrate the activities involved in designing and evaluating a Neural Network model for object recognition using the CIFAR-10 image dataset. The presentation covered crucial aspects such as partitioning the validation set, explaining the neural network architecture, activation functions, loss functions, epochs utilized, and strategy insights. The focus was on ensuring clarity, conciseness, and engagement in both the oral and visual components of the presentation.
 
-**Learning Outcomes**: Content
+**Learning Outcomes**: Through this assignment, I applied and critically evaluated machine learning techniques in real-world scenarios, particularly in addressing technical risks and uncertainties inherent in object recognition tasks. Additionally, the presentation exercise enhanced my communication and presentation skills, ensuring effective articulation of complex concepts and findings to an audience.
 
-**Artifacts**: Content
+**Artifacts**:
+- [Python Notebook](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/ML_Artifacts/Individual_Project_Presentation/NNM_For_Object_Recognition.ipynb)
+- [Report](https://daisyipatzi.github.io/project/object-recognition-cifar-10)
 
 ## Final Reflection
 Content for Final Reflection.
