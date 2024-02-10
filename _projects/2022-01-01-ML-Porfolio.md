@@ -58,7 +58,7 @@ This submission serves as a comprehensive record of my work and the learning out
 
 **Learning Outcomes**: This unit equipped me with practical skills in building and fine-tuning regression models, enabling me to apply them confidently in real-world scenarios.
 
-**Artifacts**: [Linear Regression with Scikit-Learn Activity](https://github.com/DaisyIpatzi/daisyipatzi.github.io/tree/main/assets/ML_Artifacts/Linear_Regression_with_Scikit_Learn)
+**Artifacts**: [Linear Regression with Scikit-Learn Activity](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/ML_Artifacts/Linear_Regression_with_Scikit_Learn/Demo_Correlation_Regression_Fuel_Consumption_ipynb.ipynb)
 
 ## Unit 5: Clustering
 
