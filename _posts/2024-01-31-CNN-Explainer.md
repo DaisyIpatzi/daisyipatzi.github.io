@@ -3,11 +3,11 @@ title: "Understanding CNNs with CNN Explainer"
 subtitle: "Understanding CNNs with CNN Explainer: An In-Depth Analysis of Convolutional Neural Networks Architecture and Operations"
 date: 2024-01-31 00:00:00
 description: "An In-Depth Analysis of Convolutional Neural Networks Architecture and Operations."
-featured_image: "images/demo/neuron.jpg"
+featured_image: "images/demo/cnn-explainer-image.jpg"
 ---
 
 
-## 1. Understanding CNNs with CNN Explainer
+## Understanding CNNs with CNN Explainer
 
 CNNs are specialized classifiers designed for image recognition tasks, leveraging the concept of neural networks to recognize patterns within data. The narrative explains the structure of CNNs, detailing essential elements such as tensors, neurons, layers, and kernel weights, which collectively contribute to the network's ability to learn and classify images effectively. 
 
