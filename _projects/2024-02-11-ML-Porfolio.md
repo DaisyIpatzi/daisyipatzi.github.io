@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning Module Reflection: February 2024"
 subtitle: "Reflecting on Learning Outcomes and Achievements during the Module"
-date: 2022-01-01 00:00:00
+date: 2024-02-11 00:00:00
 description: " Documenting Achievements and Insights from the ML Module, at the University of Essex."
 featured_image: "images/demo/ML-EP.jpg"
 ---
