@@ -9,7 +9,7 @@ featured_image: "images/demo/ML-EP.jpg"
 
 ## Objective
 
-The objective of this comprehensive record of work and learning outcomes achieved throughout the Machine Learning module at the University of Essex is to document my journey through the course, facilitate easy navigation and understanding of covered content, demonstrate proficiency and understanding of key concepts and skills, showcase hands-on experience through provided artifacts, and create a valuable resource for personal reflection and potential stakeholders interested in the curriculum and outcomes of the module, which concluded in February 2024
+The objective of this comprehensive record of work and learning outcomes achieved throughout the Machine Learning module at the University of Essex is to document my journey through the course, facilitate easy navigation and understanding of covered content, demonstrate proficiency and understanding of key concepts and skills, showcase hands-on experience through provided artifacts, outline overall learning outcomes, and create a valuable resource for personal reflection and potential stakeholders interested in the curriculum and outcomes of the module, which concluded in February 2024.
 
 ## Table of Contents
 
@@ -129,6 +129,7 @@ The objective of this comprehensive record of work and learning outcomes achieve
 **Learning Outcomes**: This unit broadened my perspective on the applications of machine learning in industry, fostering an appreciation for its role in driving innovation and shaping the future of work.
 
 **Artifacts**: [Future of Machine Learning](https://daisyipatzi.github.io/blog/data-fusion)
+
 
 ## Development Team Project: Project Report
 
