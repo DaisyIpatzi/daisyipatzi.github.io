@@ -7,7 +7,7 @@ featured_image: "images/demo/crystal-ball.jpg"
 ---
 
 
-## Leveraging Predictive Machine Learning Models in Industry 4.0"
+## Leveraging Predictive Machine Learning Models in Industry 4.0
 
 Introduction: Welcome to the exciting world of Industry 4.0, where front-line technologies are revolutionizing the manufacturing environment! At the heart of this revolution are predictive machine learning models, which are like the crystal balls of modern manufacturing. 
 
