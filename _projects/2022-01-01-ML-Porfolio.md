@@ -152,8 +152,51 @@ This submission serves as a comprehensive record of my work and the learning out
 - [Report](https://daisyipatzi.github.io/project/object-recognition-cifar-10)
 
 ## Final Reflection
-Content for Final Reflection.
+
+**What**:
+
+My journey through the Machine Learning module at the University of Essex has been truly transformative. Over the course of the module, I explored a variety of topics ranging from the historical evolution of machine learning to the intricate workings of advanced algorithms like convolutional neural networks (CNNs). 
+Each unit provided a comprehensive investigation of the complexities of data science and artificial intelligence, training me with a deeper understanding of key concepts and practical applications.
+
+**So, What**:
+
+One of the most enriching aspects of this experience was digging into the legal, social, ethical, and professional issues faced by machine learning professionals. Engaging in discussions and contributing to wiki submissions allowed me to explore topics such as algorithmic bias and data privacy concerns, raising a greater awareness of the expansive impact of machine learning on society.
+
+Additionally, collaborating with peers from diverse backgrounds, time zones, and ideologies presented both challenges and opportunities. While it required effective communication and understanding, the diversity of perspectives ultimately enhanced our team dynamics and enriched the quality of our work.
+
+My individual contributions to the projects, particularly in Units 6 and 11, highlighted my ability to apply knowledge and collaborate effectively. In Unit 6, I actively supported the implementation of clustering algorithms using Python, while in Unit 11, I developed my first Neural Network. Peer and tutor feedback provided invaluable insights, guiding me to refining our approaches and achieving project success.
+
+**Knowledge of Machine Learning Algorithms**:
+
+Throughout the duration of the Machine Learning module, I fascinated myself in a complete exploration of various machine learning algorithms, ranging from fundamental techniques like linear regression to more sophisticated models such as convolutional neural networks (CNNs). One of the key strengths of the module was its emphasis on hands-on activities and interactive learning experiences. These activities supplied me with the opportunity to not only understand theoretical concepts but also to apply them in practical settings. For instance, in Unit 4, I delved into linear regression models using Scikit-Learn, where I gained practical skills in building and fine-tuning regression models through real-world examples. Similarly, in Unit 10, I engaged in interactive learning exercises with CNNs, where I experimented with different configurations and observed their impact on model performance.
+
+**Individual Contributions to Team Activities and My Experience as a Member of a Team**:
+
+Each team member brought a unique set of skills, experiences, and perspectives to the table, enriching our discussions and informing our decision-making process. Through open dialogue, constructive feedback, and shared brainstorming sessions, we collectively worked towards pointing our project scope.
+
+Working on the project elicited a range of emotions, from excitement and enthusiasm to moments of frustration and uncertainty. At the beginning, it was challenging and frustrating to me, but once we started listening to everyone's concerns, the dynamics improved.  In the end, my role was as a project lead, and I oversaw interpreting the code, conducting data analysis, and initiating the drafting of the report.
+Moving forward, the lessons learned from this collaborative experience will continue to inform and shape my approach to future projects and endeavours.
+
+**Professional/Personal Developmen**t:
+
+I experienced an insightful transformation not only in my professional skills but also in my personal outlook and approach. The module provided a platform for introspection and critical reflection, challenging me to think beyond the technical aspects of machine learning and consider the expansive societal implications of technology.
+
+Moreover, the module encouraged me to adopt a more holistic and interdisciplinary perspective, integrating insights from diverse disciplines such as ethics and sociology into my understanding of machine learning. This interdisciplinary approach not only broadened my intellectual horizons but also instilled in me a sense of humility and appreciation for the interconnectedness of knowledge. 
+
+On a personal level, the module served as a catalyst for growth and self-discovery. It pushed me out of my comfort zone, challenging me to confront my biases, assumptions, and preconceived notions. Through engaging in collaborative projects, peer discussions, and individual reflections, I gained a deeper understanding of myself and my role as a responsible member of society.
+
+As I reflect on this experience, I am eager to continue deepening my understanding of machine learning algorithms and their real-world applications. Henceforth, I will prioritize incorporating ethical considerations into my work, ensuring that the solutions I develop are not only technically robust but also socially responsible. In addition, I aim to further enhance my collaboration skills, embracing the diversity of perspectives and experiences that contribute to innovative problem-solving.
+
+In essence, the Machine Learning module served as a transformative journey that transcended the boundaries of academia and left a persistent impact on both my professional and personal development. It challenged me to think critically, act responsibly, and embrace the ethical dimensions of technology, instilling in me a sense of purpose and a commitment to ethical excellence in all aspects of my work. As I board on future endeavours, I carry with me the lessons learned from this module, confident in my ability to navigate the complexities of the digital age with integrity, compassion, and ethical anticipation.
+
+To conclude, the Machine Learning module has been a rewarding journey that has supplied me with the skills, conviction, and a newfound love for machine learning and its applications. As I explored deeper into the intricacies of data science and artificial intelligence, I found myself captivated by the endless possibilities and transformative potential of these technologies. 
+As I continue to apply my learnings in future accomplishments, I am confident that the experiences gained from this module will serve as a solid foundation for continued growth and success. 
+
+Moving forward, I recommend embracing continuous learning to stay updated with advancements in the field, prioritizing practical application to solidify understanding, and considering ethical implications in all projects. Additionally, I suggest grooming collaboration skills, fostering diversity and inclusion, and prioritizing documentation and reproducibility. By embracing these principles and practices, I am optimistic about the contributions I can make to the field of data science and artificial intelligence, and the positive impact I can have on society.
 
 ## References
 
-Aretz, K., Bartram, S.M. and Pope, P.F. (2011). _Asymmetric Loss Functions and the Rationality of Expected Stock Returns_. [online] mpra.ub.uni-muenchen.de. Available at: https://mpra.ub.uni-muenchen.de/47343/ [Accessed 8 Feb. 2024].
+Diez-Olivan, A., Del Ser, J., Galar, D. and Sierra, B. (2024). Data fusion and machine learning for industrial prognosis: Trends and perspectives towards Industry 4.0. _Information Fusion_, 50, pp.92–111. doi:https://doi.org/10.1016/j.inffus.2018.10.005.
+
+Galarnyk, M. (2020). _How to Build a Data Science Portfolio_. [online] Medium. Available at: https://towardsdatascience.com/how-to-build-a-data-science-portfolio-5f566517c79c [Accessed 11 Feb. 2024].
+
