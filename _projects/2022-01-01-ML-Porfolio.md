@@ -128,7 +128,7 @@ This submission serves as a comprehensive record of my work and the learning out
 
 **Learning Outcomes**: This unit broadened my perspective on the applications of machine learning in industry, fostering an appreciation for its role in driving innovation and shaping the future of work.
 
-**Artifacts**: Future of Machine Learning
+**Artifacts**: [Future of Machine Learning](https://daisyipatzi.github.io/blog/data-fusion)
 
 ## Development Team Project: Project Report
 
