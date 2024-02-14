@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning Module Reflection: February 2024"
 subtitle: "Reflecting on Learning Outcomes and Achievements during the Module"
-date: 2024-02-11 00:00:00
+date: 2024-02-14 00:00:00
 description: "Documenting Achievements and Insights from the ML Module, at the University of Essex."
 featured_image: "images/demo/ML-EP.jpg"
 ---
@@ -130,12 +130,17 @@ The objective of this comprehensive record of work and learning outcomes achieve
 
 **Artifacts**: [Future of Machine Learning](https://daisyipatzi.github.io/blog/data-fusion)
 
-
 ## Development Team Project: Project Report
 
-**Summary**: This assignment required the analysis of the Airbnb dataset using data science techniques, culminating in the preparation of an analytical report addressing a substantive business question. The tasks included formulating relevant questions, performing data analysis, and presenting findings effectively within a concise report format.In this team project, I took on the role of team leader, setting deadlines, establishing the project timeline, interpreting code, and initiating the drafting of the analytical report.
+**Summary**: This assignment entailed a comprehensive analysis of the Airbnb dataset using various data science techniques, ultimately culminating in the preparation of an analytical report aimed at addressing a substantive business question. The dataset provided a rich source of information pertaining to Airbnb listings, including factors such as location, property type, amenities, pricing, and reviews.
 
-**Learning Outcomes**: Through this assignment, I developed an understanding of the challenges and applicability of machine learning algorithms in real-world datasets. Additionally, collaborating within a virtual team environment provided practical insights into teamwork dynamics and communication skills, mirroring professional scenarios. As the team leader, I systematically developed and implemented the skills required to effectively collaborate in a virtual professional environment, gaining insights into team roles and organizational dynamics. Additionally, I honed my ability to express ideas succinctly and concisely, meeting the requirement for clear and concise reporting in analytical projects.
+The initial phase of the assignment involved formulating relevant questions to guide the analysis process. These questions aimed to uncover insights that could inform strategic decision-making for a hypothetical business or organization operating within the Airbnb ecosystem. Questions could span a wide range of topics, including but not limited to, factors influencing pricing, preferences of guests, optimal property features, and market trends.
+
+Following the formulation of questions, the next phase involved performing data analysis to extract meaningful insights from the dataset. This encompassed various data science techniques, including exploratory data analysis, statistical analysis, machine learning algorithms, and data visualization. Through rigorous analysis, patterns, trends, correlations, and outliers within the data were identified, providing valuable insights into the dynamics of the Airbnb market.
+
+Overall, this assignment provided a valuable opportunity to apply data science techniques in a real-world context, demonstrating the practical relevance and impact of data-driven decision-making. By taking on the role of team leader and actively contributing to the analysis and reporting process, I gained invaluable experience in project management, collaboration, and effective communication, further enhancing my skills as a data scientist.
+
+**Learning Outcomes**: Through this assignment, I developed an understanding of the challenges and applicability of machine learning algorithms in real-world datasets. Additionally, collaborating within a virtual team environment provided practical insights into teamwork dynamics and communication skills, mirroring professional scenarios. As the team leader, I systematically developed and implemented the skills required to effectively collaborate in a virtual professional environment, gaining insights into team roles and organizational dynamics. Furthermore, I refined my ability to express ideas succinctly and concisely, meeting the requirement for clear and concise reporting in analytical projects.
 
 **Artifacts**: 
 
@@ -195,10 +200,41 @@ As I continue to apply my learnings in future accomplishments, I am positive tha
 
 Moving forward, I recommend embracing continuous learning to stay updated with advancements in the field, prioritizing practical application to solidify understanding, and considering ethical implications in all projects. Additionally, I suggest grooming collaboration skills, fostering diversity and inclusion, and prioritizing documentation and reproducibility. By embracing these principles and practices, I am optimistic about the contributions I can make to the field of data science and artificial intelligence, and the positive impact I can have on society.
 
-
 ## References
+
+Aretz, K., Bartram, S.M. and Pope, P.F. (2011). _Asymmetric Loss Functions and the Rationality of Expected Stock Returns_. [online] mpra.ub.uni-muenchen.de. Available at: https://mpra.ub.uni-muenchen.de/47343/ [Accessed 8 Feb. 2024].
+
+Chen, B. (2021). _Why Rectified Linear Unit (ReLU) in Deep Learning and the best practice to use it with TensorFlow_. [online] Medium. Available at: https://towardsdatascience.com/why-rectified-linear-unit-relu-in-deep-learning-and-the-best-practice-to-use-it-with-tensorflow-e9880933b7ef [Accessed 7 Feb. 2024].
+
+Chollet, F. (2015). _Keras documentation: About Keras_. [online] keras.io. Available at: https://keras.io/about/ [Accessed 7 Feb. 2024].
 
 Diez-Olivan, A., Del Ser, J., Galar, D. and Sierra, B. (2024). Data fusion and machine learning for industrial prognosis: Trends and perspectives towards Industry 4.0. _Information Fusion_, 50, pp.92–111. doi:https://doi.org/10.1016/j.inffus.2018.10.005.
 
 Galarnyk, M. (2020). _How to Build a Data Science Portfolio_. [online] Medium. Available at: https://towardsdatascience.com/how-to-build-a-data-science-portfolio-5f566517c79c [Accessed 11 Feb. 2024].
+
+Huang, Z., Sang, Y., Sun, Y. and Jiancheng Lv (2022). A neural network learning algorithm for highly imbalanced data classification. _Information Sciences_, 612(0020-0255), pp.496–513. doi:https://doi.org/10.1016/j.ins.2022.08.074.
+
+Ipatzi Bello, D. (2024). _Neural Network Model for Object Recognition_. [online] GitHub. Available at: https://shorturl.at/jNRZ7 [Accessed 8 Feb. 2024].
+
+Jmour, N., Zayen, S. and Abdelkrim, A. (2018). Convolutional neural networks for image classification. _2018 International Conference on Advanced Systems and Electric Technologies (IC_ASET)_, (978-1-5386-4449-2). doi:https://doi.org/10.1109/aset.2018.8379889.
+
+Krizhevsky, A. (2009). _The CIFAR-10 Dataset_. [online] Toronto.edu. Available at: https://www.cs.toronto.edu/~kriz/cifar.html [Accessed 7 Feb. 2024].
+
+Kubat, M. (2017). _An Introduction to Machine Learning_. [online] Cham: Springer International Publishing. doi:https://doi.org/10.1007/978-3-319-63913-0.
+
+Lapin, M., Hein, M. and Schiele, B. (2018). Analysis and Optimization of Loss Functions for Multiclass, Top-k, and Multilabel Classification. _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 40(7), pp.1533–1554. doi:https://doi.org/10.1109/tpami.2017.2751607.
+
+Luo, T., Jiang, G., Yu, M., Zhong, C., Xu, H. and Pan, Z. (2019). Convolutional neural networks-based stereo image reversible data hiding method. _Journal of Visual Communication and Image Representation_, 61(1047-3203), pp.61–73. doi:https://doi.org/10.1016/j.jvcir.2019.03.017.
+
+Md Shahid (2019). Convolutional Neural Network. _Medium_. Available at: https://towardsdatascience.com/covolutional-neural-network-cb0883dd6529 [Accessed 7 Feb. 2024].
+
+Sharma, D. (2021). _Image Classification Using CNN - Step-wise Tutorial_. [online] Analytics Vidhya. Available at: https://www.analyticsvidhya.com/blog/2021/01/image-classification-using-convolutional-neural-networks-a-step-by-step-guide/#:~:text=CNN%20classifier%20for%20image%20classification [Accessed 6 Feb. 2024].
+
+Sultanov, J. (2019). _Magic behind Activation Function!_ [online] AI3 - Theory, Practice, Business. Available at: https://medium.com/ai%C2%B3-theory-practice-business/magic-behind-activation-function-c6fbc5e36a92 [Accessed 8 Feb. 2024].
+
+Team, K. (2023). _Keras documentation: CIFAR10 small images classification dataset_. [online] keras.io. Available at: https://keras.io/api/datasets/cifar10/ [Accessed 6 Feb. 2024].
+
+V Kůrková, Yannis Manolopoulos, Hammer, B., Iliadis, L.S. and Maglogiannis, I.G. (2018). _Artificial neural networks and machine learning -- ICANN 2018 : 27th International Conference on Artificial Neural Networks, Rhodes, Greece, October 4-7, 2018, Proceedings. Part I._ Cham, Switzerland: Springer.
+
+Zlateva, T. and Rossitza Goleva (2022). _Computer Science and Education in Computer Science_. Springer Nature, p.129.
 
