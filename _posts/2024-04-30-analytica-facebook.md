@@ -1,6 +1,6 @@
 ---
 title: 'Ethical, Social, and Legal Dimensions of Survey Manipulation: Examining Recent Cases and Broader Implications'
-date: 2022-09-30 00:00:00
+date: 2024-04-30 00:00:00
 description: 'Exploring the ethical, social, legal, and professional implications of survey manipulation, including high-profile cases like Cambridge Analytica and other instances of data misuse.'
 featured_image: 'images/demo/Analytica.jpg'
 ---
