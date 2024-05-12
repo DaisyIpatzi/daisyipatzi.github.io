@@ -13,10 +13,10 @@ Abi also realises that some other correlations could be performed that would cas
 
 ## Ethical Concerns
 
-•	Clearly, if Abi changed data values in this study he would be acting unethically. But is it any more ethical for him to suggest analysing correct data in a way that supports two or more different conclusions?
-•	Is Abi obligated to present both the positive and the negative analyses?
-•	Is Abi responsible for the use to which others put his program results?
-•	If Abi does put forward both sets of results to the manufacturer, he suspects that they will publicise only the positive ones. What other courses of action has he?
+* Clearly, if Abi changed data values in this study he would be acting unethically. But is it any more ethical for him to suggest analysing correct data in a way that supports two or more different conclusions?
+* Is Abi obligated to present both the positive and the negative analyses?
+* Is Abi responsible for the use to which others put his program results?
+*	If Abi does put forward both sets of results to the manufacturer, he suspects that they will publicise only the positive ones. What other courses of action has he?
 
 ## Summary: Collaborative Discussion
 
