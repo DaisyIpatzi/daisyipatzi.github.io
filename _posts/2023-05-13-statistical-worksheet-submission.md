@@ -1,6 +1,6 @@
 ---
-title: 'The Ethical Dimensions of Data Analysis: A Case Study on the Cereal "Whizzz"'
-date: 2024-05-11 00:00:00
+title: 'Statistical Worksheet Submission'
+date: 2023-05-13 00:00:00
 description: 'Exploring the ethical challenges faced by a statistical programmer analyzing the nutritional data of a new cereal, "Whizzz".'
 featured_image: '/images/demo/nutrition.jpeg'
 ---
