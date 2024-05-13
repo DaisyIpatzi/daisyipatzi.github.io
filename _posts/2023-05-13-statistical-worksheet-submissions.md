@@ -98,3 +98,32 @@ The patterns in brand preference between Area 1 and Area 2 are distinctly differ
 This indicates that marketing strategies and brand positioning might need to be tailored differently for each area, taking into account the local consumer preferences and competitive landscape.
 
 [Exa 8.3D](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/main/assets/RM_Artifacts/Exa%208.3D.xlsx)
+
+##  Hypothesis Testing
+
+### The Related Samples t-test
+
+**Example 7.1.** Consider the container design data in Data Set F. Notice that the two variables Con1 and Con 2 indeed measure the same characteristic (the number of items sold), but under two different “conditions” (the two different container designs). We conduct a two-tailed related samples t test of whether the underlying (population) mean number of items sold differs between the two container designs. 
+
+The resulting output is presented below.
+Not all this output is relevant, so it need not all be discussed. 
+The obtained related samples t = 2.875 with 9 degrees of freedom.
+The associated two-tailed p-value is p = 0.018, so the observed t is significant at the 5% level (two-tailed).
+
+|                         | Con1    | Con2    |
+|-------------------------|---------|---------|
+| Mean                    | 172.6   | 159.4   |
+| Variance                | 750.2666667 | 789.3777778 |
+| Observations            | 10      | 10      |
+| Pearson Correlation     | 0.863335004 |         |
+| Hypothesized Mean Difference | 0 |         |
+| df                      | 9       |         |
+| t Stat                  | 2.874702125 |         |
+| P(T<=t) one-tail        | 0.009167817 |         |
+| t Critical one-tail     | 1.833112933 |         |
+| P(T<=t) two-tail        | 0.018335635 |         |
+| t Critical two-tail     | 2.262157163 |         |
+| **Difference in Means** | **13.2** |         |
+
+The data therefore constitute strong evidence (on a one-tailed test) that the underlying mean number of containers sold was greater for Design 1, by an estimated 172.6 - 159.4 = 13.2 items per store. The results continue to suggest that Design 1 should be preferred. Although broadly similar conclusions were reached as before, a higher level of significance was obtained with the one-tailed test. 
+Notice that if we had sought to test the alternative pair of one-tailed hypotheses **Null Hypothesis (H0):** \( \mu_1 \geq \mu_2 \) against **Alternative Hypothesis (H1):** \( \mu_1 < \mu_2 \) we would have found the difference in sample means to be consistent with the null hypothesis that the population mean sales for Design 2 was no greater than that for Design 1. We would thus have declared the result to be not significant without even bothering to inspect the p-value.
