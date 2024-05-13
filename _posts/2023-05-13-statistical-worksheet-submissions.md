@@ -30,8 +30,7 @@ This chapter consolidates the Statistical Worksheet Submissions from Units 6, 7,
 **Conclusion**
 Diet A appears to be more effective than Diet B in terms of average weight loss achieved by the participants. The analysis suggests that individuals looking to lose more weight might prefer Diet A over Diet B, based on the data provided.
 
-[Exa 8.1B](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/RM_Artifacts/Exa%208.1B.xlsx)
-
+[Exa 8.1B](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/main/assets/RM_Artifacts/Exa%208.1B.xlsx)
 
 **Exercise 6.2.** Obtain the sample median, first and third quartiles and the sample interquartile range of the weight loss for Diet B. Place these results in the block of cells F26 to F29, using the same format as that employed for the Diet A results in the above example. Briefly interpret your findings. What do these results tell you about the relative effectiveness of the two weight-reducing diets?
 
@@ -52,8 +51,7 @@ Diet A appears to be more effective than Diet B in terms of average weight loss 
 **Conclusion**
 Diet A appears to be more effective than Diet B in terms of average weight loss achieved by the participants. The analysis suggests that individuals looking to lose more weight might prefer Diet A over Diet B, based on the data provided.
 
-[Exa 8.2B](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/RM_Artifacts/Exa%208.2B.xlsx)
-
+[Exa 8.2B](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/main/assets/RM_Artifacts/Exa%208.2B.xlsx)
 
 
 ## Summary Measures
