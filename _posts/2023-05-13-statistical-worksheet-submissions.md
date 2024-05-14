@@ -128,6 +128,53 @@ The associated two-tailed p-value is p = 0.018, so the observed t is significant
 The data therefore constitute strong evidence (on a one-tailed test) that the underlying mean number of containers sold was greater for Design 1, by an estimated 172.6 - 159.4 = 13.2 items per store. The results continue to suggest that Design 1 should be preferred. Although broadly similar conclusions were reached as before, a higher level of significance was obtained with the one-tailed test. 
 Notice that if we had sought to test the alternative pair of one-tailed hypotheses **H₀: μ₁ ≥ μ₂ against H₁: μ₁ < μ₂** we would have found the difference in sample means to be consistent with the null hypothesis that the population mean sales for Design 2 was no greater than that for Design 1. We would thus have declared the result to be not significant without even bothering to inspect the p-value.
 
-**Exercise 7.1.** Recall that in the previous unit exercises, a two-tailed test was undertaken whether the population
-mean impurity differed between the two filtration agents in Data Set G. Suppose instead a one-tailed test had been conducted to determine whether Filter Agent 1 was the more effective. What would your conclusions have been?
+**Conclusion**
+
+Since the p-value is less than 0.05, we reject the null hypothesis. This means that there is a significant difference in the mean number of items sold between the two container designs. Design 1 (Con1) has a higher mean number of items sold compared to Design 2 (Con2) by an estimated 13.2 items per store. 
+The data strongly suggest that the mean number of items sold is significantly higher for Design 1 compared to Design 2, with a mean difference of 13.2 items. This conclusion is supported by a significant t-statistic and a p-value below the 0.05 threshold, indicating that the difference observed is unlikely to be due to random chance. 
+
+[Exa 8.4F](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/main/assets/RM_Artifacts/Exa%208.4F.xlsx)
+
+**Exercise 7.1.** Recall that in the previous unit exercises, a two-tailed test was undertaken whether the population mean impurity differed between the two filtration agents in Data Set G. Suppose instead a one-tailed test had been conducted to determine whether Filter Agent 1 was the more effective. What would your conclusions have been?
+
+In order to determine whether Filter Agent 1 is more effective using a one-tailed test, we can conduct a paired samples t-test. The hypotheses for this one-tailed test would be:
+
+* Null Hypothesis (H₀): The mean impurity for Agent 1 is greater than or equal to the mean impurity for Agent 2 (μ₁ ≥ μ₂).
+* Alternative Hypothesis (H₁): The mean impurity for Agent 1 is less than the mean impurity for Agent 2 (μ₁ < μ₂).
+
+The t-statistic is calculated as: t = d / (Sd / √n); where d is the mean difference, Sd is used for standard deviation and √n represents the square root of the sample size (n).
+
+After performing the calculations:
+
+| Batch | Agent1 | Agent2 | Difference |
+|-------|--------|--------|------------|
+| 1     | 7.7    | 8.5    | -0.8       |
+| 2     | 9.2    | 9.6    | -0.4       |
+| 3     | 6.8    | 6.4    | 0.4        |
+| 4     | 9.5    | 9.8    | -0.3       |
+| 5     | 8.7    | 9.3    | -0.6       |
+| 6     | 6.9    | 7.6    | -0.7       |
+| 7     | 7.5    | 8.2    | -0.7       |
+| 8     | 7.7    | 7.7    | 0.0        |
+| 9     | 8.7    | 9.4    | -0.7       |
+| 10    | 9.4    | 8.9    | 0.5        |
+| 11    | 9.4    | 9.7    | -0.3       |
+| 12    | 8.1    | 9.1    | -1.0       |
+
+**Summary Statistics:**
+
+- Mean Difference (d): -0.433333333
+- Standard Deviation (Sd): 0.459907764
+- t-Statistic (t): -3.263938591
+- One-Tailored p-value: 0.996227003
+
+* t-Statistic: The t-statistic is -3.264, which indicates a difference in means favoring Agent 2.
+* One-tailed p-value: The p-value is 0.996, which is much greater than 0.05.
+
+**Conclusion**
+
+Given that the one-tailed p-value (0.996) is much greater than 0.05, we fail to reject the null hypothesis. This means that there is not enough statistical evidence to conclude that Filter Agent 1 is more effective than Filter Agent 2. The data does not support the claim that Agent 1 results in a lower mean impurity than Agent 2.
+
+[Exa 8.4G](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/main/assets/RM_Artifacts/Exa%208.4G.xlsx)
+
 
