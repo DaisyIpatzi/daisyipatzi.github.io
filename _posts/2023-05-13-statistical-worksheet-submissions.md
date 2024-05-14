@@ -143,6 +143,7 @@ In order to determine whether Filter Agent 1 is more effective using a one-taile
 The t-statistic is calculated as: t = d / (Sd / √n); where d is the mean difference, Sd is used for standard deviation and √n represents the square root of the sample size (n).
 
 After performing the calculations:
+
 | Batch | Agent1 | Agent2 | Difference |
 |-------|--------|--------|------------|
 | 1     | 7.7    | 8.5    | -0.8       |
@@ -160,13 +161,10 @@ After performing the calculations:
 
 * **Summary Statistics:**
 
-- Mean Difference (d): -0.433333333
-- Standard Deviation (Sd): 0.459907764
-- t-Statistic (t): -3.263938591
-- One-Tailored p-value: 0.996227003
-
-* t-Statistic: The t-statistic is -3.264, which indicates a difference in means favoring Agent 2.
-* One-tailed p-value: The p-value is 0.996, which is much greater than 0.05.
+**Mean Difference (d):** -0.433333333
+**Standard Deviation (Sd):** 0.459907764
+**t-Statistic (t):** -3.263938591
+**One-Tailored p-value:** 0.996227003
 
 * **Conclusion**
 
