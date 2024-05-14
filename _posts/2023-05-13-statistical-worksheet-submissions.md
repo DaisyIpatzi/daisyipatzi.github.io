@@ -19,15 +19,15 @@ This chapter consolidates the Statistical Worksheet Submissions from Units 6, 7,
 | Mean   | 5.341   | 3.710   |
 | SD     | 2.536   | 2.769   |
 
-**Analysis**
+* **Analysis**
 
-**Mean Weight Loss**: Diet A has a higher mean weight loss (5.341 kg) compared to Diet B (3.710 kg), indicating that, on average, individuals on Diet A lost more weight than those on Diet B.
+* **Mean Weight Loss**: Diet A has a higher mean weight loss (5.341 kg) compared to Diet B (3.710 kg), indicating that, on average, individuals on Diet A lost more weight than those on Diet B.
 
-**Standard Deviation**: The standard deviations are somewhat close, with Diet A at 2.536 kg and Diet B at 2.769 kg. This indicates that the weight loss results for both diets are spread around the mean in a similar manner, although Diet B's results are slightly more variable.
+* **Standard Deviation**: The standard deviations are somewhat close, with Diet A at 2.536 kg and Diet B at 2.769 kg. This indicates that the weight loss results for both diets are spread around the mean in a similar manner, although Diet B's results are slightly more variable.
 
-**Effectiveness of the Diets**: Given the higher average weight loss in Diet A, it can be considered more effective for weight loss compared to Diet B based on this sample. The consistency (as measured by the standard deviation) is similar for both diets, suggesting that the primary difference lies in the average effectiveness rather than in the variability of the results.
+* **Effectiveness of the Diets**: Given the higher average weight loss in Diet A, it can be considered more effective for weight loss compared to Diet B based on this sample. The consistency (as measured by the standard deviation) is similar for both diets, suggesting that the primary difference lies in the average effectiveness rather than in the variability of the results.
 
-**Conclusion**
+* **Conclusion**
 
 Diet A appears to be more effective than Diet B in terms of average weight loss achieved by the participants. The analysis suggests that individuals looking to lose more weight might prefer Diet A over Diet B, based on the data provided.
 
@@ -45,7 +45,7 @@ Diet A appears to be more effective than Diet B in terms of average weight loss 
 | Q3      | 7.033   | 5.404   |
 | IQR     | 3.285   | 2.708   |
 
-**Analysis**
+* **Analysis**
 
 **Central Tendency and Dispersion**:
 * Diet A has both a higher mean and median weight loss compared to Diet B, suggesting it is more effective on average and at the median level. The median being higher than the mean also hints at a slightly skewed distribution, possibly with a few lower outliers pulling the mean down.
@@ -58,7 +58,7 @@ Diet A appears to be more effective than Diet B in terms of average weight loss 
 **Interquartile Range (IQR)**:
 * Diet A’s IQR is wider than that of Diet B, suggesting more variability in the middle 50% of the data. This could mean that while Diet A works very well for some, it may not be as effective for others, compared to the more consistent results seen with Diet B.
 
-**Conclusion**
+* **Conclusion**
 
 Diet A seems to be more effective overall in terms of median and mean weight loss, and the top 25% of individuals on this diet experienced significantly better outcomes. However, the broader IQR indicates that the effectiveness of Diet A might vary more among its users compared to Diet B, which shows a smaller IQR suggesting a tighter grouping of results around the median.
 Overall, Diet A might be the preferable choice for those aiming for higher weight loss, whereas Diet B could be considered by those seeking more consistent, albeit slightly lower, results.
@@ -67,8 +67,7 @@ Overall, Diet A might be the preferable choice for those aiming for higher weigh
 
 **Exercise 6.3.** Obtain the frequencies and percentage frequencies of the variable Brand, but this time for the Area 2 respondents, using the same format as that employed for the Area1 results in the above example. Briefly interpret your findings. What do these results tell you about the patterns of brand preferences for each of the two demographic areas?
 
-**Frequencies**
-
+**Frequencies:**
 | Category | Area 1 | Area 2 |
 |----------|--------|--------|
 | A        | 11     | 19     |
@@ -76,8 +75,7 @@ Overall, Diet A might be the preferable choice for those aiming for higher weigh
 | Other    | 42     | 41     |
 | Total    | 70     | 90     |
 
-**Percentages**
-
+**Percentages:**
 | Category | Area 1 | Area 2 |
 |----------|--------|--------|
 | A        | 15.7   | 21.1   |
@@ -85,13 +83,13 @@ Overall, Diet A might be the preferable choice for those aiming for higher weigh
 | Other    | 60.0   | 45.6   |
 | Total    | 100.0  | 100.0  |
 
-**Analysis**
+* **Analysis**
 
-**Brand A**: More popular in Area 1 in relative terms (60.0%) compared to Area 2 (21.1%). This suggests that Brand A has a significantly stronger market presence or preference in Area 1.
-**Brand B**: More popular in Area 2, capturing a higher share of the total (33.3%) compared to Area 1 (24.3%). This indicates that Brand B is more favored in Area 2.
-Other Brands: In Area 1, 'Other' brands dominate the preferences with 60.0% of respondents choosing brands outside of A and B. This suggests a diverse market with no single brand dominating. In Area 2, while still significant, the preference for 'Other' brands is slightly less (45.6%) compared to Area 1.
+* **Brand A:** More popular in Area 1 in relative terms (60.0%) compared to Area 2 (21.1%). This suggests that Brand A has a significantly stronger market presence or preference in Area 1.
+* **Brand B:** More popular in Area 2, capturing a higher share of the total (33.3%) compared to Area 1 (24.3%). This indicates that Brand B is more favored in Area 2.
+* **Other Brands:** In Area 1, 'Other' brands dominate the preferences with 60.0% of respondents choosing brands outside of A and B. This suggests a diverse market with no single brand dominating. In Area 2, while still significant, the preference for 'Other' brands is slightly less (45.6%) compared to Area 1.
 
-**Conclusion**
+* **Conclusion**
 
 The patterns in brand preference between Area 1 and Area 2 are distinctly different. Area 1 shows a high inclination towards 'Other' brands, indicating a diverse or fragmented market. Brand A, despite a smaller overall frequency, enjoys a relatively higher preference among those who chose among A, B, and Other. In contrast, Area 2 shows a more evenly distributed preference between the major brands and 'Other' brands, with a stronger presence of Brand B.
 
@@ -128,7 +126,7 @@ The associated two-tailed p-value is p = 0.018, so the observed t is significant
 The data therefore constitute strong evidence (on a one-tailed test) that the underlying mean number of containers sold was greater for Design 1, by an estimated 172.6 - 159.4 = 13.2 items per store. The results continue to suggest that Design 1 should be preferred. Although broadly similar conclusions were reached as before, a higher level of significance was obtained with the one-tailed test. 
 Notice that if we had sought to test the alternative pair of one-tailed hypotheses **H₀: μ₁ ≥ μ₂ against H₁: μ₁ < μ₂** we would have found the difference in sample means to be consistent with the null hypothesis that the population mean sales for Design 2 was no greater than that for Design 1. We would thus have declared the result to be not significant without even bothering to inspect the p-value.
 
-**Conclusion**
+* **Conclusion**
 
 Since the p-value is less than 0.05, we reject the null hypothesis. This means that there is a significant difference in the mean number of items sold between the two container designs. Design 1 (Con1) has a higher mean number of items sold compared to Design 2 (Con2) by an estimated 13.2 items per store. 
 The data strongly suggest that the mean number of items sold is significantly higher for Design 1 compared to Design 2, with a mean difference of 13.2 items. This conclusion is supported by a significant t-statistic and a p-value below the 0.05 threshold, indicating that the difference observed is unlikely to be due to random chance. 
@@ -145,7 +143,6 @@ In order to determine whether Filter Agent 1 is more effective using a one-taile
 The t-statistic is calculated as: t = d / (Sd / √n); where d is the mean difference, Sd is used for standard deviation and √n represents the square root of the sample size (n).
 
 After performing the calculations:
-
 | Batch | Agent1 | Agent2 | Difference |
 |-------|--------|--------|------------|
 | 1     | 7.7    | 8.5    | -0.8       |
@@ -161,7 +158,7 @@ After performing the calculations:
 | 11    | 9.4    | 9.7    | -0.3       |
 | 12    | 8.1    | 9.1    | -1.0       |
 
-**Summary Statistics:**
+* **Summary Statistics:**
 
 - Mean Difference (d): -0.433333333
 - Standard Deviation (Sd): 0.459907764
@@ -171,7 +168,7 @@ After performing the calculations:
 * t-Statistic: The t-statistic is -3.264, which indicates a difference in means favoring Agent 2.
 * One-tailed p-value: The p-value is 0.996, which is much greater than 0.05.
 
-**Conclusion**
+* **Conclusion**
 
 Given that the one-tailed p-value (0.996) is much greater than 0.05, we fail to reject the null hypothesis. This means that there is not enough statistical evidence to conclude that Filter Agent 1 is more effective than Filter Agent 2. The data does not support the claim that Agent 1 results in a lower mean impurity than Agent 2.
 
