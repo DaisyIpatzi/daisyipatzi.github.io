@@ -31,7 +31,7 @@ This chapter consolidates the Statistical Worksheet Submissions from Units 6, 7,
 
 Diet A appears to be more effective than Diet B in terms of average weight loss achieved by the participants. The analysis suggests that individuals looking to lose more weight might prefer Diet A over Diet B, based on the data provided.
 
-[Exa 8.1B](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/main/assets/RM_Artifacts/Exa%208.1B.xlsx)
+**Download:** [Exa 8.1B](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/main/assets/RM_Artifacts/Exa%208.1B.xlsx)
 
 **Exercise 6.2.** Obtain the sample median, first and third quartiles and the sample interquartile range of the weight loss for Diet B. Place these results in the block of cells F26 to F29, using the same format as that employed for the Diet A results in the above example. Briefly interpret your findings. What do these results tell you about the relative effectiveness of the two weight-reducing diets?
 
@@ -63,7 +63,7 @@ Diet A appears to be more effective than Diet B in terms of average weight loss 
 Diet A seems to be more effective overall in terms of median and mean weight loss, and the top 25% of individuals on this diet experienced significantly better outcomes. However, the broader IQR indicates that the effectiveness of Diet A might vary more among its users compared to Diet B, which shows a smaller IQR suggesting a tighter grouping of results around the median.
 Overall, Diet A might be the preferable choice for those aiming for higher weight loss, whereas Diet B could be considered by those seeking more consistent, albeit slightly lower, results.
 
-[Exa 8.2B](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/main/assets/RM_Artifacts/Exa%208.2B.xlsx)
+**Download:** [Exa 8.2B](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/main/assets/RM_Artifacts/Exa%208.2B.xlsx)
 
 **Exercise 6.3.** Obtain the frequencies and percentage frequencies of the variable Brand, but this time for the Area 2 respondents, using the same format as that employed for the Area1 results in the above example. Briefly interpret your findings. What do these results tell you about the patterns of brand preferences for each of the two demographic areas?
 
@@ -95,7 +95,7 @@ The patterns in brand preference between Area 1 and Area 2 are distinctly differ
 
 This indicates that marketing strategies and brand positioning might need to be tailored differently for each area, taking into account the local consumer preferences and competitive landscape.
 
-[Exa 8.3D](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/main/assets/RM_Artifacts/Exa%208.3D.xlsx)
+**Download:** [Exa 8.3D](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/main/assets/RM_Artifacts/Exa%208.3D.xlsx)
 
 ##  Hypothesis Testing
 
@@ -131,7 +131,7 @@ Notice that if we had sought to test the alternative pair of one-tailed hypothes
 Since the p-value is less than 0.05, we reject the null hypothesis. This means that there is a significant difference in the mean number of items sold between the two container designs. Design 1 (Con1) has a higher mean number of items sold compared to Design 2 (Con2) by an estimated 13.2 items per store. 
 The data strongly suggest that the mean number of items sold is significantly higher for Design 1 compared to Design 2, with a mean difference of 13.2 items. This conclusion is supported by a significant t-statistic and a p-value below the 0.05 threshold, indicating that the difference observed is unlikely to be due to random chance. 
 
-[Exa 8.4F](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/main/assets/RM_Artifacts/Exa%208.4F.xlsx)
+**Download:** [Exa 8.4F](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/main/assets/RM_Artifacts/Exa%208.4F.xlsx)
 
 **Exercise 7.1.** Recall that in the previous unit exercises, a two-tailed test was undertaken whether the population mean impurity differed between the two filtration agents in Data Set G. Suppose instead a one-tailed test had been conducted to determine whether Filter Agent 1 was the more effective. What would your conclusions have been?
 
@@ -170,6 +170,77 @@ After performing the calculations:
 
 Given that the one-tailed p-value (0.996) is much greater than 0.05, we fail to reject the null hypothesis. This means that there is not enough statistical evidence to conclude that Filter Agent 1 is more effective than Filter Agent 2. The data does not support the claim that Agent 1 results in a lower mean impurity than Agent 2.
 
-[Exa 8.4G](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/main/assets/RM_Artifacts/Exa%208.4G.xlsx)
+**Download:** [Exa 8.4G](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/main/assets/RM_Artifacts/Exa%208.4G.xlsx)
 
+### The Independent Samples t-test
 
+**Example 7.2.** Consider again Data Set B, the dietary data. Not unreasonably, we wish to test whether the population mean weight loss differs between the two diets. Since separate samples of individuals undertook the two diets (i.e., no-one underwent both diets), the independent samples t test is appropriate here.
+
+We begin by performing **F-Test Two-Sample for Variances**:
+
+| Metric        | Variable 1 | Variable 2 |
+|---------------|------------|------------|
+| Mean          | 5.3412     | 3.70996    |
+| Variance      | 6.429280612| 7.66759359 |
+| Observations  | 50         | 50         |
+| df            | 49         | 49         |
+| F             | 0.838500442|            |
+| P(F<=f) one-tail | 0.269951478|         |
+| F Critical one-tail | 0.622165468|     |
+| p²            | 0.539902956|            |
+
+The sample variances for the two diets are, respectively s₁² = 6.429 and s₂² = 7.668. .The observed F test statistic is F = 0.839 with 49 and 49 associated degrees of freedom, giving a two tailed p-value of p = 0.5399nS.
+
+The observed F ratio is thus not significant. The data are consistent with the assumption that the population variances underlying the weight losses under the two diets do not differ, and we therefore proceed to use the equal variances form of the unrelated samples t test.
+Since we wish to test if the population mean weight losses differ between the two diets, a two-tailed t test is appropriate here.
+
+After performing **t-Test: Two-Sample Assuming Equal Variances**:
+
+**T-Test Two-Sample assuming equal variances**
+
+| Statistic                   | Variable 1  | Variable 2  |
+|-----------------------------|-------------|-------------|
+| Mean                        | 5.3412      | 3.70996     |
+| Variance                    | 6.429280612 | 7.66759359  |
+| Observations                | 50          | 50          |
+| Pooled Variance             | 7.048437101 |             |
+| Hypothesized Mean Difference| 0           |             |
+| df                          | 98          |             |
+| t Stat                      | 3.072143179 |             |
+| P(T<=t) one-tail            | 0.001375772 |             |
+| t Critical one-tail         | 1.660551217 |             |
+| P(T<=t) two-tail            | 0.002751544 |             |
+| t Critical two-tail         | 1.984467455 |             |
+| **Difference in Means**     | **1.63124** |             |
+
+The obtained independent samples t = 3.072 with 98 degrees of freedom. The associated two-tailed pvalue is p = 0.0028, so the observed t is significant at the 1% level (two-tailed). The sample mean weight losses for Diets A and B were, respectively, 5.341 kg and 3.710 kg.
+The data therefore constitute strong evidence that the underlying mean weight loss was greater for Diet A, by an estimated 5.314 – 3.710 = 1.631 kg. The results strongly suggest that Diet A is more effective in producing a weight loss.
+
+**Download:** [Exa 8.6B](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/main/assets/RM_Artifacts/Exa%208.6B.xlsx)
+
+**Exercise 7.2.** Consider the bank cardholder data of Data Set C. Assuming the data to be suitably distributed, complete an appropriate test of whether the
+population mean income for males exceeds that of females and interpret your findings. What assumptions underpin the validity of your analysis, and how could you validate them?
+
+Since the dataset men and women are two disctinct groups, the most appropiated method is the **two sample t-test**, where: 
+
+* Null Hypothesis (H₀): The mean income of males is less than or equal to the mean income of females (μ_males ≤ μ_females).
+* Alternative Hypothesis (H₁):  The mean income of males is greater than the mean income of females (μ_males > μ_females).
+
+* **Summary of Statistics:**
+
+**Males:**
+**Mean Difference (d):** 52.9
+**Standard Deviation (Sd):** 15.26856
+
+**Females:**
+
+**Mean Difference (d):** 44.2
+**Standard Deviation (Sd):** 13.79042
+
+**P-value (two-tailed test):** 0.001419
+
+* **Conclusion**
+
+Since the p-value (0.001419) is much less than 0.05, we reject the null hypothesis. We conclude that the population mean income for males is significantly different from that of females. Since the context of the test typically assumes we are interested in whether one mean is greater than the other, it further implies that the mean income for males is significantly higher than that of females.
+
+**Download:** [Exa 8.6C](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/main/assets/RM_Artifacts/Exa%208.6C.xlsx)
