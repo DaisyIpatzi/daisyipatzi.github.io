@@ -126,4 +126,8 @@ The associated two-tailed p-value is p = 0.018, so the observed t is significant
 | **Difference in Means** | **13.2** |         |
 
 The data therefore constitute strong evidence (on a one-tailed test) that the underlying mean number of containers sold was greater for Design 1, by an estimated 172.6 - 159.4 = 13.2 items per store. The results continue to suggest that Design 1 should be preferred. Although broadly similar conclusions were reached as before, a higher level of significance was obtained with the one-tailed test. 
-Notice that if we had sought to test the alternative pair of one-tailed hypotheses **Null Hypothesis (H0):** \( \mu_1 \geq \mu_2 \) against **Alternative Hypothesis (H1):** \( \mu_1 < \mu_2 \) we would have found the difference in sample means to be consistent with the null hypothesis that the population mean sales for Design 2 was no greater than that for Design 1. We would thus have declared the result to be not significant without even bothering to inspect the p-value.
+Notice that if we had sought to test the alternative pair of one-tailed hypotheses **H₀: μ₁ ≥ μ₂ against H₁: μ₁ < μ₂** we would have found the difference in sample means to be consistent with the null hypothesis that the population mean sales for Design 2 was no greater than that for Design 1. We would thus have declared the result to be not significant without even bothering to inspect the p-value.
+
+**Exercise 7.1.** Recall that in the previous unit exercises, a two-tailed test was undertaken whether the population
+mean impurity differed between the two filtration agents in Data Set G. Suppose instead a one-tailed test had been conducted to determine whether Filter Agent 1 was the more effective. What would your conclusions have been?
+
