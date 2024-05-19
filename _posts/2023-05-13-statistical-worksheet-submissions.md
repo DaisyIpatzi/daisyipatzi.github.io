@@ -68,6 +68,7 @@ Overall, Diet A might be the preferable choice for those aiming for higher weigh
 **Exercise 6.3.** Obtain the frequencies and percentage frequencies of the variable Brand, but this time for the Area 2 respondents, using the same format as that employed for the Area1 results in the above example. Briefly interpret your findings. What do these results tell you about the patterns of brand preferences for each of the two demographic areas?
 
 **Frequencies:**
+
 | Category | Area 1 | Area 2 |
 |----------|--------|--------|
 | A        | 11     | 19     |
@@ -162,8 +163,11 @@ After performing the calculations:
 -**Summary Statistics:**
 
 **Mean Difference (d):** -0.433333333
+
 **Standard Deviation (Sd):** 0.459907764
+
 **t-Statistic (t):** -3.263938591
+
 **One-Tailored p-value:** 0.996227003
 
 -**Conclusion**
