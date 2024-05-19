@@ -77,6 +77,7 @@ Overall, Diet A might be the preferable choice for those aiming for higher weigh
 | Total    | 70     | 90     |
 
 **Percentages:**
+
 | Category | Area 1 | Area 2 |
 |----------|--------|--------|
 | A        | 15.7   | 21.1   |
@@ -261,7 +262,7 @@ preferences for each of the two demographic areas?
 * Brand A and B have a consistent but relatively lower preference across both areas, with Brand B slightly more preferred than Brand A.
 * The preference patterns are quite similar in both areas, suggesting that demographic factors influencing brand choice are consistent across these regions.
   
-**Download:** [Exa 9.1D](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/main/assets/RM_Artifacts/Exa%209.1D.xlsx)
+**Download:** [Exa 9.1D](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/RM_Artifacts/Exe%209.1D.xlsx)
 
 **Example 9.2.** Consider again Data Set D (see the Data Annexe). We produce a percentage frequency clustered column bar chart for the breakfast cereal brand preferences for the two demographic Areas 1 and 2.
 
@@ -283,4 +284,16 @@ Location A tends to have more areas with abundant Heather species compared to Lo
 We can conclude that Location A is generally more favorable for Heather species, having a higher prevalence of abundance and a lower rate of absence compared to Location B.
   
 **Download:** [Exa 9.2E](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/main/assets/RM_Artifacts/Exa%209.2E.xlsx)
+**Exercise 9.2.** Open the Excel workbook in Exa 9.2E.xlsx from the Exercises folder. This contains the frequency distributions for Data Set E (see the Data Annexe) to which has been added the corresponding percentage frequency distributions. Complete a percentage frequency clustered column bar chart showing the heather species prevalence in the two different locations. Briefly interpret your findings.
+
+![](/images/demo/Ex9.2B_Image.png)
+
+-**Conclusion**
+
+Location A tends to have more areas with abundant Heather species compared to Location B; location B has a higher percentage of areas where Heather species are absent, however both locations have a relatively similar percentage for sparse Heather species prevalence, with Location A being slightly higher.
+We can conclude that Location A is generally more favorable for Heather species, having a higher prevalence of abundance and a lower rate of absence compared to Location B.
+  
+**Download:** [Exa 9.2E](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/main/assets/RM_Artifacts/Exa%209.2E.xlsx)
+
+
 
