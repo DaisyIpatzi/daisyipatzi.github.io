@@ -285,13 +285,22 @@ We can conclude that Location A is generally more favorable for Heather species,
   
 **Download:** [Exe 9.2E](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/main/assets/RM_Artifacts/Exe%209.2E.xlsx)
 
-**Exercise 9.2.** Open the Excel workbook in Exa 9.2E.xlsx from the Exercises folder. This contains the frequency distributions for Data Set E (see the Data Annexe) to which has been added the corresponding percentage frequency distributions. Complete a percentage frequency clustered column bar chart showing the heather species prevalence in the two different locations. Briefly interpret your findings.
+**Exercise 9.3.** Open the Excel workbook in Exa 9.3B.xlsx from the Exercises folder. This contains the relative frequency histogram for the Diet A weight loss produced in Example 9.3 together with some of the Diet B weight loss summary statistics. Add a relative frequency histogram of the weight loss for Diet
+B, where possible using the same classes as those employed for the Diet A results in the above example.
+Briefly interpret your histogram. What do these results tell you about the patterns of weight loss for each of the two diets?
 
-![](/images/demo/Ex9.2B_Image.png)
+![](/images/demo/Ex9.3B_Image.png)
 
 -**Conclusion**
 
-Location A tends to have more areas with abundant Heather species compared to Location B; location B has a higher percentage of areas where Heather species are absent, however both locations have a relatively similar percentage for sparse Heather species prevalence, with Location A being slightly higher.
-We can conclude that Location A is generally more favorable for Heather species, having a higher prevalence of abundance and a lower rate of absence compared to Location B.
+**Diet A**: The weight loss ranges from -1 kg to 11 kg; most of the weight loss falls between 3 kg and 7 kg, with the highest relative frequency (~0.3) at around 5 kg and the distribution is symmetric and bell-shaped, indicating a normal distribution of weight loss results centered around 5 kg.
+**Diet B**: The weight loss ranges from -5 kg to 11 kg; the majority of weight loss values fall between 1 kg and 7 kg, with the highest relative frequency (~0.3) at around 3 kg and the distribution is less symmetric, slightly skewed to the left, with a noticeable presence of weight gain (negative values), indicating more variability in weight loss outcomes.
+
+Saying that:
+
+**Diet A**: Generally leads to a more predictable and consistent weight loss, with most individuals losing between 3 kg and 7 kg.
+**Diet B**: Shows more variability in weight loss outcomes, with some individuals experiencing significant weight loss, others minimal loss, and some even gaining weight.
+
+And thus, Diet A might be more effective for consistent weight loss, whereas Diet B has a broader range of outcomes, which could be less predictable for individuals.
   
-**Download:** 
+**Download:** [Exe 9.3B](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/main/assets/RM_Artifacts/Exe%209.3B.xlsx)
