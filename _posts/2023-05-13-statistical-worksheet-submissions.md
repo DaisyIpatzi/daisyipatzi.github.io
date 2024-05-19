@@ -294,11 +294,13 @@ Briefly interpret your histogram. What do these results tell you about the patte
 -**Conclusion**
 
 **Diet A**: The weight loss ranges from -1 kg to 11 kg; most of the weight loss falls between 3 kg and 7 kg, with the highest relative frequency (~0.3) at around 5 kg and the distribution is symmetric and bell-shaped, indicating a normal distribution of weight loss results centered around 5 kg.
+
 **Diet B**: The weight loss ranges from -5 kg to 11 kg; the majority of weight loss values fall between 1 kg and 7 kg, with the highest relative frequency (~0.3) at around 3 kg and the distribution is less symmetric, slightly skewed to the left, with a noticeable presence of weight gain (negative values), indicating more variability in weight loss outcomes.
 
 Saying that:
 
 **Diet A**: Generally leads to a more predictable and consistent weight loss, with most individuals losing between 3 kg and 7 kg.
+
 **Diet B**: Shows more variability in weight loss outcomes, with some individuals experiencing significant weight loss, others minimal loss, and some even gaining weight.
 
 And thus, Diet A might be more effective for consistent weight loss, whereas Diet B has a broader range of outcomes, which could be less predictable for individuals.
