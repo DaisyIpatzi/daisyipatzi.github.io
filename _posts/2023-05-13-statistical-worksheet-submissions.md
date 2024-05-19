@@ -2,7 +2,7 @@
 title: 'Statistical Worksheet Submissions'
 date: 2024-05-18 00:00:00
 description: 'Exploring the ethical challenges faced by a statistical programmer analyzing the nutritional data of a new cereal, "Whizzz".'
-featured_image: '/images/demo/nutrition.jpeg'
+featured_image: '/images/demo/statistics-1.png'
 ---
 
 # Statistical Worksheet Submissions
