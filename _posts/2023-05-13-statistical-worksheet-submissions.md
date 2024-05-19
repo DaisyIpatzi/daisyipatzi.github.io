@@ -262,3 +262,25 @@ preferences for each of the two demographic areas?
 * The preference patterns are quite similar in both areas, suggesting that demographic factors influencing brand choice are consistent across these regions.
   
 **Download:** [Exa 9.1D](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/main/assets/RM_Artifacts/Exa%209.1D.xlsx)
+
+**Example 9.2.** Consider again Data Set D (see the Data Annexe). We produce a percentage frequency clustered column bar chart for the breakfast cereal brand preferences for the two demographic Areas 1 and 2.
+
+![](/images/demo/Ex9.2_Image.png)
+
+-**Conclusion**
+
+It is clear from the chart that in both Areas, Brand A is least preferred, followed by Brand B, whilst even more respondents preferred some other brand. However, it is now very clear that Brand A and Brand B preferences were both higher in Area 2 than in Area 1, whilst the percentage of respondents who preferred other brands was lower in Area 2.
+  
+**Download:** [Exa 9.2D](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/main/assets/RM_Artifacts/Exa%209.2D.xlsx)
+
+**Exercise 9.2.** Open the Excel workbook in Exa 9.2E.xlsx from the Exercises folder. This contains the frequency distributions for Data Set E (see the Data Annexe) to which has been added the corresponding percentage frequency distributions. Complete a percentage frequency clustered column bar chart showing the heather species prevalence in the two different locations. Briefly interpret your findings.
+
+![](/images/demo/Ex9.2B_Image.png)
+
+-**Conclusion**
+
+Location A tends to have more areas with abundant Heather species compared to Location B; location B has a higher percentage of areas where Heather species are absent, however both locations have a relatively similar percentage for sparse Heather species prevalence, with Location A being slightly higher.
+We can conclude that Location A is generally more favorable for Heather species, having a higher prevalence of abundance and a lower rate of absence compared to Location B.
+  
+**Download:** [Exa 9.2E](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/main/assets/RM_Artifacts/Exa%209.2E.xlsx)
+
