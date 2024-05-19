@@ -257,6 +257,8 @@ preferences for each of the two demographic areas?
 
 -**Conclusion**
 
-Since the p-value (0.001419) is much less than 0.05, we reject the null hypothesis. We conclude that the population mean income for males is significantly different from that of females. Since the context of the test typically assumes we are interested in whether one mean is greater than the other, it further implies that the mean income for males is significantly higher than that of females.
-
+* Both areas show a stronger preference for brands classified under "Other," indicating that brands not specifically labeled as A or B are more popular.
+* Brand A and B have a consistent but relatively lower preference across both areas, with Brand B slightly more preferred than Brand A.
+* The preference patterns are quite similar in both areas, suggesting that demographic factors influencing brand choice are consistent across these regions.
+  
 **Download:** [Exa 9.1D](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/main/assets/RM_Artifacts/Exa%209.1D.xlsx)
