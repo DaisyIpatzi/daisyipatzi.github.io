@@ -1,6 +1,6 @@
 ---
 title: 'Statistical Worksheet Submissions'
-date: 2023-05-13 00:00:00
+date: 2024-05-18 00:00:00
 description: 'Exploring the ethical challenges faced by a statistical programmer analyzing the nutritional data of a new cereal, "Whizzz".'
 featured_image: '/images/demo/nutrition.jpeg'
 ---
@@ -294,7 +294,4 @@ We can conclude that Location A is generally more favorable for Heather species,
 Location A tends to have more areas with abundant Heather species compared to Location B; location B has a higher percentage of areas where Heather species are absent, however both locations have a relatively similar percentage for sparse Heather species prevalence, with Location A being slightly higher.
 We can conclude that Location A is generally more favorable for Heather species, having a higher prevalence of abundance and a lower rate of absence compared to Location B.
   
-**Download:** [Exa 9.2E](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/main/assets/RM_Artifacts/Exa%209.2E.xlsx)
-
-
-
+**Download:** 
