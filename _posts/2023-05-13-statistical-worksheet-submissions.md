@@ -247,4 +247,16 @@ Since the dataset men and women are two disctinct groups, the most appropiated m
 
 Since the p-value (0.001419) is much less than 0.05, we reject the null hypothesis. We conclude that the population mean income for males is significantly different from that of females. Since the context of the test typically assumes we are interested in whether one mean is greater than the other, it further implies that the mean income for males is significantly higher than that of females.
 
-**Download:** [Exa 8.6C](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/main/assets/RM_Artifacts/Exa%208.6C.xlsx)
+### Bar Charts in Excel
+
+**Exercise 9.1.** Open the Excel workbook in Exa 9.1D.xlsx from the Exercises folder. Add a percentage frequency bar chart showing the brand preferences in Area 2, using the same format as that employed for the Area1 results in the above example. Drag your new chart so that it lies
+alongside that for Area 1. Briefly interpret your findings. What do these results tell you about the patterns of brand
+preferences for each of the two demographic areas?
+
+![](/images/demo/Ex9.1_Image.png)
+
+-**Conclusion**
+
+Since the p-value (0.001419) is much less than 0.05, we reject the null hypothesis. We conclude that the population mean income for males is significantly different from that of females. Since the context of the test typically assumes we are interested in whether one mean is greater than the other, it further implies that the mean income for males is significantly higher than that of females.
+
+**Download:** [Exa 9.1D](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/main/assets/RM_Artifacts/Exa%209.1D.xlsx)
