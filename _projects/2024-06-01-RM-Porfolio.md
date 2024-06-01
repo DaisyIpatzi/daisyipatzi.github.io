@@ -9,7 +9,7 @@ featured_image: "images/demo/RM.png"
 
 ## Introduction
 
-Welcome to my e-portfolio, a comprehensive showcase of my work and learning journey throughout this module. This portfolio highlights my progress, reflections, and achievements, providing evidence of my skills and knowledge in statistical analysis and research methods within the context of MSc Data Science.
+Welcome to my e-portfolio, a comprehensive showcase of my work and learning journey throughout this module. This portfolio highlights my progress, reflections, and achievements, providing evidence of my skills and knowledge in statistical analysis and research methods within the context of Computing Science.
 
 
 ## Objective
@@ -50,21 +50,21 @@ The primary objective of this e-portfolio is to collate all the significant work
 
 **Artifacts**: [Literature Review and Research Proposal Outlines](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/c3529ca46a6425dba8fb50acf131a5a05b71366c/assets/RM_Artifacts/Literature%20Review%20Outline.docx)
 
-## Unit 3: Correlation and Regression
+## Unit 3: Methodology and Research Methods
 
-**Summary**: This unit searched into the realm of correlation and regression analysis. We explored techniques for uncovering relationships within data and building predictive models. Despite its complexity, the material was presented in an accessible manner.
+**Summary**: In Unit 3, we explored the general concept of methodology and an overview of research methods. We examined the underlying assumptions that shape research, including ontological, epistemological, and axiological perspectives. We also learned about research design, distinguishing between exploratory and conclusive research, and delved into the three main types of research methods: qualitative, quantitative, and mixed methods. Additionally, we covered primary and secondary data collection methods, providing a comprehensive understanding of how to choose and apply the appropriate research methods for our projects.
 
-**Learning Outcomes**: By the end of this unit, I developed proficiency in conducting correlation analyses and constructing regression models. These skills are invaluable for making data-driven decisions in various domains.
+**Learning Outcomes**: We gained a clear understanding of different research methods and their associated data collection techniques. We learned how to identify which methods are best suited to specific research areas and objectives. This foundational knowledge prepared us to conduct thorough and effective research, utilizing the appropriate tools and methodologies to gather, analyze, and interpret data.
 
-**Artifacts**: [Correlation and Regression Activity](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/ML_Artifacts/Correlation_And_Regression/Correlation_and_Regression.ipynb)
+**Artifacts**: [Collaborative Learning Discussion 1](https://daisyipatzi.github.io/blog/summary-post1)
 
-## Unit 4: Linear Regression with Scikit-Learn
+## Unit 4: Case Studies, Focus Groups, and Observation
 
-**Summary**: Building upon our regression knowledge, we transitioned to implementing linear regression models using Scikit-Learn. Real-world examples aided in solidifying our understanding of the concepts covered.
+**Summary**: In Unit 4, we explored various data collection methods, including case studies, focus groups, and observations. These methods are predominantly used in qualitative research but can also be applied in quantitative research. We learned that case studies involve in-depth research on individuals or groups, focus groups gather insights from a selected group of people, and observations can be either qualitative or quantitative, depending on the nature of the data collected. Each method has its advantages and drawbacks, and understanding these is crucial for selecting the appropriate method for a given research project.
 
-**Learning Outcomes**: This unit equipped me with practical skills in building and fine-tuning regression models, enabling me to apply them confidently in real-world scenarios.
+**Learning Outcomes**: We gained the skills to carry out case studies, focus groups, and observations effectively. We learned to identify the suitable method for our specific investigations and considered the types of data we would obtain from each method. This knowledge enables us to choose the most appropriate data collection techniques to answer our research questions accurately.
 
-**Artifacts**: [Linear Regression with Scikit-Learn Activity](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/ML_Artifacts/Linear_Regression_with_Scikit_Learn/Demo_Correlation_Regression_Fuel_Consumption_ipynb.ipynb)
+**Artifacts**: [Literature Review Outline](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/c5e8102996455b748e6124e49d295df6b71e3f3e/assets/RM_Artifacts/Literature%20Review%20Outline.docx)
 
 ## Unit 5: Clustering
 
