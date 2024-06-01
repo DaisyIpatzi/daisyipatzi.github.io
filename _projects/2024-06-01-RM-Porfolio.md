@@ -64,7 +64,7 @@ The primary objective of this e-portfolio is to collate all the significant work
 
 **Learning Outcomes**: We gained the skills to carry out case studies, focus groups, and observations effectively. We learned to identify the suitable method for our specific investigations and considered the types of data we would obtain from each method. This knowledge enables us to choose the most appropriate data collection techniques to answer our research questions accurately.
 
-**Artifacts**: [Literature Review Outline](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/c5e8102996455b748e6124e49d295df6b71e3f3e/assets/RM_Artifacts/Literature%20Review%20Outline.docx)
+**Artifacts**: [Literature Review Outline](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/438ea31fd233a40f815f635da93f3af7df8d42f1/assets/RM_Artifacts/DaisyIpatzi)
 
 ## Unit 5: Clustering
 
