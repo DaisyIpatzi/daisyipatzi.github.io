@@ -7,9 +7,15 @@ featured_image: "images/demo/RM.png"
 ---
 
 
+## Introduction
+
+Welcome to my e-portfolio, a comprehensive showcase of my work and learning journey throughout this module. This portfolio highlights my progress, reflections, and achievements, providing evidence of my skills and knowledge in statistical analysis and research methods within the context of MSc Data Science.
+
+
 ## Objective
 
-The objective of this comprehensive record of work and learning outcomes achieved throughout the Machine Learning module at the University of Essex is to document my journey through the course, facilitate easy navigation and understanding of covered content, demonstrate proficiency and understanding of key concepts and skills, showcase hands-on experience through provided artifacts, outline overall learning outcomes, and create a valuable resource for personal reflection and potential stakeholders interested in the curriculum and outcomes of the module, which concluded in February 2024.
+The primary objective of this e-portfolio is to collate all the significant work and reflective activities completed during the module. This includes showcasing artefacts from each unit, presenting statistical exercises, evaluating my literature review and research proposal submissions, and reflecting on my learning journey. Through this e-portfolio, I aim to demonstrate my ability to apply knowledge independently, critically analyse my learning process, and evaluate the impact of this module on my professional and personal development.
+
 
 ## Table of Contents
 
@@ -30,11 +36,11 @@ The objective of this comprehensive record of work and learning outcomes achieve
 
 ## Unit 1: Introduction to Machine Learning (ML)
 
-**Summary**: This module began with an insightful exploration of the foundations of machine learning (ML). We dived into its historical evolution and contemplated its potential future impact. Ethical considerations in AI development were also a focal point of our discussions.
+**Summary**: In Unit 1, we examined the essentials of research methods, emphasizing the scientific method and its application in computing. We discussed the purposes of research, the differences between deductive and inductive reasoning, and the significance of ethical considerations. Understanding these elements was fundamental to conducting rigorous and responsible research, ensuring both the validity of findings and the ethical treatment of participants.
 
-**Learning Outcomes**: By the conclusion of this unit, I gained a comprehensive understanding of the historical context and potential ethical implications of ML. It fostered a more nuanced perspective on the role of AI in our society.
+**Learning Outcomes**: By completing this unit, we differentiated between inductive and deductive reasoning, understood the importance of ethics in research, and recognized how these ethical principles applied to our specific areas of study and professional practice. This foundational knowledge prepared us for more advanced research methods and ethical decision-making throughout our academic and professional careers.
 
-**Artifacts**: [Collaborative Discussion 1 (Summary Post)](https://daisyipatzi.github.io/blog/summary-post1-moduleml)
+**Artifacts**: [Reflective Activity 1 – Ethics in Computing in the age of Generative AI](https://daisyipatzi.github.io/blog/ethics-in-computing)
 
 ## Unit 2: Exploratory Data Analysis
 
