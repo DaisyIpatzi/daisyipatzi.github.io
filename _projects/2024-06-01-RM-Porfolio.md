@@ -66,17 +66,15 @@ The primary objective of this e-portfolio is to collate all the significant work
 
 **Artifacts**: [Literature Review](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/438ea31fd233a40f815f635da93f3af7df8d42f1/assets/RM_Artifacts/DaisyIpatzi_LiteratureReview.docx)
 
-## Unit 5: Clustering
+## Unit 5: CInterviews, Survey Methods, and Questionnaire Design
 
-**Summary**: Clustering algorithms were the focus of this unit, offering insights into unsupervised learning techniques. We explored different clustering methods and their applications in uncovering hidden patterns within data.
+**Summary**: In Unit 5, we delved into interviews, survey methods, and questionnaire design. We explored the intricacies of conducting in-depth interviews as a qualitative research method and the importance of surveys as a quantitative data collection tool. We distinguished between surveys and questionnaires, understanding that a questionnaire is a tool used within a survey to gather data. Additionally, we discussed pre-testing and post-testing methods to provide a comprehensive “before-and-after” analysis. This unit emphasized the effective design and implementation of these methods to ensure accurate data collection and analysis.
 
-**Learning Outcomes**: Through this unit, I acquired a robust understanding of clustering techniques and their practical applications, enhancing my ability to extract meaningful insights from unstructured data.
+**Learning Outcomes**: Upon finishing this unit, we understood how to integrate interviews and surveys into research and determine their suitability for our investigations. We learned to design effective questionnaires to obtain the necessary responses and gained insight into analyzing the collected data. Furthermore, we explored the concepts of pre- and post-testing, enhancing our ability to evaluate the impact of new processes or systems within our research.
 
-**Artifacts**: 
-- [Jaccard Coefficient Calculations](https://daisyipatzi.github.io/blog/jaccard-moduleml)
-- [Wiki Activity](https://daisyipatzi.github.io/blog/wiki-activity-moduleml)
+**Artifacts**: [Reflective Activity 2: Case Study: Inappropriate Use of Surveys](https://daisyipatzi.github.io/blog/analytica-facebook)
 
-## Unit 6: Clustering with Python
+## Unit 6: Interviews, Survey Methods, and Questionnaire Design
 
 **Summary**: Leveraging Python, we applied clustering algorithms to real-world datasets in this unit. Hands-on experience facilitated a deeper comprehension of the concepts covered.
 
