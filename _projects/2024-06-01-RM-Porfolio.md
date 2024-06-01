@@ -48,7 +48,7 @@ The primary objective of this e-portfolio is to collate all the significant work
 
 **Learning Outcomes**: By completing this unit, we examined the characteristics of suitable research topics, explored rational and creative methods for formulating research ideas, and transformed these ideas into well-crafted research questions and proposals. Additionally, we conducted literature searches, critiqued the literature, and presented comprehensive literature reviews, preparing us for more in-depth research activities in subsequent units.
 
-**Artifacts**: [Literature Review and Research Proposal Outlines](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/c3529ca46a6425dba8fb50acf131a5a05b71366c/assets/RM_Artifacts/Literature%20Review%20Outline.docx)
+**Artifacts**: [Literature Review and Research Proposal Outlines](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/c3529ca46a6425dba8fb50acf131a5a05b71366c/assets/RM_Artifacts/Literature%20Review%20Outline.docx)
 
 ## Unit 3: Correlation and Regression
 
