@@ -34,7 +34,7 @@ The primary objective of this e-portfolio is to collate all the significant work
 - [Development Individual Project: Presentation](#development-individual-project-presentation)
 - [Final Reflection](#final-reflection)
 
-## Unit 1: Introduction to Machine Learning (ML)
+## Unit 1: Introduction to Research Methods, The Scientific Investigation, and Ethics in Computing
 
 **Summary**: In Unit 1, we examined the essentials of research methods, emphasizing the scientific method and its application in computing. We discussed the purposes of research, the differences between deductive and inductive reasoning, and the significance of ethical considerations. Understanding these elements was fundamental to conducting rigorous and responsible research, ensuring both the validity of findings and the ethical treatment of participants.
 
@@ -42,13 +42,13 @@ The primary objective of this e-portfolio is to collate all the significant work
 
 **Artifacts**: [Reflective Activity 1 – Ethics in Computing in the age of Generative AI](https://daisyipatzi.github.io/blog/ethics-in-computing)
 
-## Unit 2: Exploratory Data Analysis
+## Unit 2: Research Questions, the Literature Review and the Research Proposal
 
-**Summary**: In this unit, we boarded on a journey into the realm of exploratory data analysis. We learned various techniques for deciphering raw data, identifying anomalies, and preparing it for further analysis. The hands-on exercises provided invaluable practical experience.
+**Summary**: In Unit 2, we focused on the key aspects of developing a research proposal, starting with defining a research question. We explored how to formulate and revise research questions, the components of a research proposal, and the importance of a literature review. The unit provided us with the necessary skills to survey scholarly sources, identify relevant theories and methods, and recognize gaps in existing research. We learned to present our thoughts coherently and critically evaluate literature to support our proposals.
 
-**Learning Outcomes**: Through this unit, I honed my skills in data wrangling and visualization, equipping me with essential tools for extracting insights from complex datasets.
+**Learning Outcomes**: By completing this unit, we examined the characteristics of suitable research topics, explored rational and creative methods for formulating research ideas, and transformed these ideas into well-crafted research questions and proposals. Additionally, we conducted literature searches, critiqued the literature, and presented comprehensive literature reviews, preparing us for more in-depth research activities in subsequent units.
 
-**Artifacts**: [EDA Tutorial](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/ML_Artifacts/EDA_Tutorial/A_Tutorial_on_Exploratory_Data_Analysis.ipynb)
+**Artifacts**: [Literature Review and Research Proposal Outlines](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/c3529ca46a6425dba8fb50acf131a5a05b71366c/assets/RM_Artifacts/Literature%20Review%20Outline.docx)
 
 ## Unit 3: Correlation and Regression
 
