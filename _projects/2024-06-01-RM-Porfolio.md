@@ -6,17 +6,13 @@ description: "Documenting Achievements and Insights from the Research Methods an
 featured_image: "images/demo/RM.png"
 ---
 
-
 ## Introduction
 
 Welcome to my e-portfolio, a comprehensive showcase of my work and learning journey throughout this module. This portfolio highlights my progress, reflections, and achievements, providing evidence of my skills and knowledge in statistical analysis and research methods within the context of Computing Science.
 
-
 ## Objective
 
-
 The primary objective of this e-portfolio is to collate all the significant work and reflective activities completed during the module. This includes showcasing artefacts from each unit, presenting statistical exercises, evaluating my literature review and research proposal submissions, and reflecting on my learning journey. Through this e-portfolio, I aim to demonstrate my ability to apply knowledge independently, critically analyse my learning process, and evaluate the impact of this module on my professional and personal development.
-
 
 ## Table of Contents
 
@@ -35,7 +31,6 @@ The primary objective of this e-portfolio is to collate all the significant work
 - [Skill Assessment](#skill-assessment)
 - [Final Reflection](#final-reflection)
 
-
 ## Unit 1: Introduction to Research Methods, The Scientific Investigation, and Ethics in Computing
 
 **Summary**: This unit covered the essentials of research methods, focusing on the scientific method and its application in computing. We discussed the purposes of research, the differences between deductive and inductive reasoning, and the importance of ethical considerations. Understanding these elements is fundamental to conducting rigorous and responsible research, ensuring the validity of findings and the ethical treatment of participants.
@@ -44,7 +39,7 @@ The primary objective of this e-portfolio is to collate all the significant work
 
 **Artifact**: [Reflective Activity 1 – Ethics in Computing in the age of Generative AI](https://daisyipatzi.github.io/blog/ethics-in-computing)
 
-**Artifact Description**:  This piece reflects on the ethical and societal challenges of generative AI. It emphasizes the need for global consensus on AI ethics and the importance of integrating ethical considerations into AI development. The discussion includes the impact on job markets, transparency in AI systems, and the necessity for continuous professional development in AI ethics. The reflection concludes with a call to balance innovation with responsibility, aiming for a future where AI benefits society while mitigating its risks.
+**Artifact Description**: _This piece reflects on the ethical and societal challenges of generative AI. It emphasizes the need for global consensus on AI ethics and the importance of integrating ethical considerations into AI development. The reflection concludes with a call to balance innovation with responsibility, aiming for a future where AI benefits society while mitigating its risks._
 
 ## Unit 2: Research Questions, the Literature Review and the Research Proposal
 
@@ -54,16 +49,17 @@ The primary objective of this e-portfolio is to collate all the significant work
 
 **Artifact**: [Literature Review and Research Proposal Outlines](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/c3529ca46a6425dba8fb50acf131a5a05b71366c/assets/RM_Artifacts/Literature%20Review%20Outline.docx)
 
-**Artifact Description**:  This piece reflects on the ethical and societal challenges of generative AI. It emphasizes the need for global consensus on AI ethics and the importance of integrating ethical considerations into AI development. The discussion includes the impact on job markets, transparency in AI systems, and the necessity for continuous professional development in AI ethics. The reflection concludes with a call to balance innovation with responsibility, aiming for a future where AI benefits society while mitigating its risks.
-
+**Artifact Description**:  _This artifact outlines the plan approach for a literature review aimed at assessing the effectiveness of K-means clustering in segmenting B2B ecommerce customers based on purchasing behaviors and demographic characteristics. It includes the purpose, scope, and literature search strategy, search criteria, and selection of sources._
 
 ## Unit 3: Methodology and Research Methods
 
 **Summary**: In Unit 3, we explored the general concept of methodology and an overview of research methods. We examined the underlying assumptions that shape research, including ontological, epistemological, and axiological perspectives. We also learned about research design, distinguishing between exploratory and conclusive research, and delved into the three main types of research methods: qualitative, quantitative, and mixed methods. Additionally, we covered primary and secondary data collection methods, providing a comprehensive understanding of how to choose and apply the appropriate research methods for our projects.
 
-**Learning Outcomes**: We explored the concept of methodology and research methods, examining the underlying assumptions shaping research, including ontological, epistemological, and axiological perspectives. We learned about research design, distinguishing between exploratory and conclusive research, and delved into qualitative, quantitative, and mixed methods. Additionally, we covered primary and secondary data collection methods.
+**Learning Outcomes**: We learned about research design, distinguishing between exploratory and conclusive research, and delved into qualitative, quantitative, and mixed methods. Additionally, we covered primary and secondary data collection methods.
 
-**Artifacts**: [Collaborative Learning Discussion 1](https://daisyipatzi.github.io/blog/summary-post1)
+**Artifact**: [Collaborative Learning Discussion 1](https://daisyipatzi.github.io/blog/summary-post1)
+
+**Artifact Description**: _This entry delves into the ethical challenges faced by computing professionals, specifically focusing on dark UX patterns designed to mislead users for financial gain. The discussion, which took place over three weeks on the University of Essex forum, examines the ethical implications based on the ACM and BCS Codes of Conduct, emphasizing integrity and public interest._
 
 ## Unit 4: Case Studies, Focus Groups, and Observation
 
@@ -71,7 +67,9 @@ The primary objective of this e-portfolio is to collate all the significant work
 
 **Learning Outcomes**: We gained the skills to carry out case studies, focus groups, and observations effectively. We learned to identify the suitable method for specific investigations and considered the types of data obtained from each method.
 
-**Artifacts**: [Literature Review](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/438ea31fd233a40f815f635da93f3af7df8d42f1/assets/RM_Artifacts/DaisyIpatzi_LiteratureReview.docx)
+**Artifact**: [Literature Review](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/438ea31fd233a40f815f635da93f3af7df8d42f1/assets/RM_Artifacts/DaisyIpatzi_LiteratureReview.docx)
+
+**Artifact Description**: _This literature review evaluates the use of K-means clustering for customer profiling in B2B ecommerce. It analyzes various studies from academic databases to explore the algorithm’s potential and challenges in this context. The review highlights that while K-means clustering provides valuable insights for customer segmentation, its application is limited by the complexity of B2B datasets. The document calls for further research to optimize K-means clustering for B2B ecommerce, contributing both theoretically and practically to the field._
 
 ## Unit 5: Interviews, Survey Methods, and Questionnaire Design
 
@@ -79,7 +77,9 @@ The primary objective of this e-portfolio is to collate all the significant work
 
 **Learning Outcomes**: We learned to integrate interviews and surveys into research, design effective questionnaires, and analyze collected data. We also explored pre- and post-testing, enhancing our ability to evaluate the impact of new processes or systems.
 
-**Artifacts**: [Reflective Activity 2: Case Study: Inappropriate Use of Surveys](https://daisyipatzi.github.io/blog/analytica-facebook)
+**Artifact**: [Reflective Activity 2: Case Study: Inappropriate Use of Surveys](https://daisyipatzi.github.io/blog/analytica-facebook)
+
+**Artifact Description**: _This case study explores the ethical, social, legal, and professional implications of survey misuse, focusing on the Cambridge Analytica scandal. It highlights how data from Facebook users was inappropriately used to influence political outcomes and discusses other instances of survey manipulation. The study underscores the need for ethical practices in data collection to maintain trust and integrity._
 
 ## Unit 6: Quantitative Methods - Descriptive and Inferential Statistics
 
@@ -87,7 +87,7 @@ The primary objective of this e-portfolio is to collate all the significant work
 
 **Learning Outcomes**: We gained the ability to apply descriptive statistics, identify different levels of measurement, and produce measures of location and spread. This knowledge equips us to extract meaningful insights from data.
 
-**Artifacts**: The artifacts developed during this unit will be presented in Unit 9.
+**Artifact**: The artifacts developed during this unit will be presented in Unit 9.
 
 ## Unit 7: Inferential Statistics and Hypothesis Testing
 
@@ -95,15 +95,17 @@ The primary objective of this e-portfolio is to collate all the significant work
 
 **Learning Outcomes**: We applied inferential statistics to data analysis, identified the correct probability distributions, and performed appropriate hypothesis tests. These skills enable us to extract meaningful patterns and insights from our data.
 
-**Artifacts**:  [Collaborative Discussion 2: Case Study on Accuracy of Information](https://daisyipatzi.github.io/blog/summary-post2)
-  
+**Artifact**:  [Collaborative Discussion 2: Case Study on Accuracy of Information](https://daisyipatzi.github.io/blog/summary-post2)
+
+**Artifact Description**:  _This case study explores the ethical, legal, social, and professional implications of data analysis in the context of evaluating the nutritional claims of the cereal "Whizzz." The discussion revolves around the ethical dilemma faced by a researcher, Abi, who discovers that the collected data contradicts the manufacturer's claims. The study emphasizes the importance of presenting both positive and negative findings transparently, adhering to ethical guidelines, and mitigating potential misuse of data. The discussion, which occurred over a three-week forum at the University of Essex, highlights the complexities of maintaining integrity and accountability in research._
+
 ## Unit 8: Data Analysis and Visualisation
 
 **Summary**: We shifted our focus to data analysis and visualization, exploring techniques for handling and interpreting both qualitative and quantitative data. The unit highlighted the challenges of analyzing qualitative data and the process of coding to categorize such data. We also discussed the importance of data visualization and the use of dashboards in business intelligence.
 
 **Learning Outcomes**: We understood different types of data analysis and their applications. We learned about various charts and graphs for presenting data and identified key elements of dashboards, enabling us to communicate our findings clearly.
 
-**Artifacts**: The artifacts developed during this unit will be presented in Unit 9.
+**Artifact**: The artifacts developed during this unit will be presented in Unit 9.
 
 ## Unit 9: Validity and Generalisability in Research
 
@@ -111,7 +113,9 @@ The primary objective of this e-portfolio is to collate all the significant work
 
 **Learning Outcomes**: This unit explored the critical concepts of validity, generalisability, and reliability in research. We discussed the importance of these concepts before collecting data and examined the differences between qualitative and quantitative data, including data cleansing and validation processes.
 
-**Artifacts**: [Statistical Worksheet Submissions](https://daisyipatzi.github.io/blog/statistical-worksheet-submissions)
+**Artifact**: [Statistical Worksheet Submissions](https://daisyipatzi.github.io/blog/statistical-worksheet-submissions)
+
+**Artifact Description**:  _This artifact consolidates the statistical analyses conducted in Units 6, 7, 8, and 9. It includes detailed results and interpretations from various exercises, focusing on descriptive and inferential statistics, hypothesis testing, and data visualization. The worksheets provide insights into the effectiveness of different weight loss diets, brand preferences across demographics, and the significance of mean differences in various contexts. Each section presents the findings clearly, with downloadable links to the relevant Excel files for further review and validation._
 
 ## Unit 10: Research Writing
 
@@ -119,7 +123,9 @@ The primary objective of this e-portfolio is to collate all the significant work
 
 **Learning Outcomes**: We gained skills to structure a dissertation and prepare for the writing process, involving identifying a research area, conducting a literature review, and selecting appropriate research methods. This culminated in creating a project proposal for our final dissertation.
 
-**Artifacts**:  [Research Proposal Presentation](https://www.my-course.co.uk/mod/assign/view.php?id=960781)
+**Artifacts**:  [Research Proposal Presentation]()
+
+**Artifact Description**:  This piece reflects on the ethical and societal challenges of generative AI. It emphasizes the need for global consensus on AI ethics and the importance of integrating ethical considerations into AI development. The discussion includes the impact on job markets, transparency in AI systems, and the necessity for continuous professional development in AI ethics. The reflection concludes with a call to balance innovation with responsibility, aiming for a future where AI benefits society while mitigating its risks.
 
 ## Unit 11: Going Forward: Professional Development and Your e-Portfolio
 
@@ -127,7 +133,9 @@ The primary objective of this e-portfolio is to collate all the significant work
 
 **Learning Outcomes**: We gained proficiency in evaluating model performance and selecting appropriate models based on established criteria, facilitating informed decision-making in machine learning projects.
 
-**Artifacts**: xxx
+**Artifact**: xxx
+
+**Artifact Description**:  This piece reflects on the ethical and societal challenges of generative AI. It emphasizes the need for global consensus on AI ethics and the importance of integrating ethical considerations into AI development. The discussion includes the impact on job markets, transparency in AI systems, and the necessity for continuous professional development in AI ethics. The reflection concludes with a call to balance innovation with responsibility, aiming for a future where AI benefits society while mitigating its risks.
 
 ## Unit 12: Project Management and Managing Risk
 
@@ -135,7 +143,9 @@ The primary objective of this e-portfolio is to collate all the significant work
 
 **Learning Outcomes**: We gained a comprehensive understanding of project management concepts and methodologies, appreciated project life cycles, and recognized the technologies needed for remote collaboration. We learned how projects are impacted by risk and uncertainty and developed effective risk and change management plans.
 
-**Artifacts**: xxx
+**Artifact**: xxx
+
+**Artifact Description**:  This piece reflects on the ethical and societal challenges of generative AI. It emphasizes the need for global consensus on AI ethics and the importance of integrating ethical considerations into AI development. The discussion includes the impact on job markets, transparency in AI systems, and the necessity for continuous professional development in AI ethics. The reflection concludes with a call to balance innovation with responsibility, aiming for a future where AI benefits society while mitigating its risks.
 
 ## Skill assessment
 
