@@ -28,7 +28,6 @@ The primary objective of this e-portfolio is to collate all the significant work
 - [Unit 10: Research Writing](#unit-10-research-writing)
 - [Unit 11: Going Forward: Professional Development and Your e-Portfolio](#unit-11-going-forward-professional-development-and-your-e-portfolio)
 - [Unit 12: Project Management and Managing Risk](#unit-12-project-management-and-managing-risk)
-- [Skill Assessment](#skill-assessment)
 - [Final Reflection](#final-reflection)
 
 ## Unit 1: Introduction to Research Methods, The Scientific Investigation, and Ethics in Computing
@@ -135,9 +134,9 @@ The primary objective of this e-portfolio is to collate all the significant work
 
 **Learning Outcomes**: We gained proficiency in evaluating model performance and selecting appropriate models based on established criteria, facilitating informed decision-making in machine learning projects.
 
-**Artifact**: xxx
+**Artifact**: [Professional Development](https://daisyipatzi.github.io/blog/statistical-worksheet-submissions)
 
-**Artifact Description**: _xxx._
+**Artifact Description**: _This piece includes a comprehensive Professional Skills Matrix and SWOT Analysis, crucial components of my professional development plan. The Professional Skills Matrix details the competencies I have acquired and m proficiency levels. The SWOT Analysis identifies strengths, weaknesses, opportunities, and threats, informing a strategic action plan to enhance my skills and career trajectory. These tools provide a structured approach to evaluating and advancing my professional capabilities in data science and analytics._
 
 ## Unit 12: Project Management and Managing Risk
 
@@ -145,92 +144,11 @@ The primary objective of this e-portfolio is to collate all the significant work
 
 **Learning Outcomes**: We gained a comprehensive understanding of project management concepts and methodologies, appreciated project life cycles, and recognized the technologies needed for remote collaboration. We learned how projects are impacted by risk and uncertainty and developed effective risk and change management plans.
 
-**Artifact**: xxx
-
-**Artifact Description**:  This piece reflects on the ethical and societal challenges of generative AI. It emphasizes the need for global consensus on AI ethics and the importance of integrating ethical considerations into AI development. The discussion includes the impact on job markets, transparency in AI systems, and the necessity for continuous professional development in AI ethics. The reflection concludes with a call to balance innovation with responsibility, aiming for a future where AI benefits society while mitigating its risks.
-
-## Skill assessment
-
-**Summary**:  In this individual assignment, I developed a 20-minute presentation to demonstrate the activities involved in designing and evaluating a Neural Network model for object recognition using the CIFAR-10 image dataset. The presentation covered crucial aspects such as partitioning the validation set, explaining the neural network architecture, activation functions, loss functions, epochs utilized, and strategy insights. The focus was on ensuring clarity, conciseness, and engagement in both the oral and visual components of the presentation.
+**Artifact**: _NA_
 
 ## Final Reflection
 
-**What**:
-
-My journey through the Machine Learning module at the University of Essex has been truly transformative. Over the course of the module, I explored a variety of topics ranging from the historical evolution of machine learning to the intricate workings of advanced algorithms like convolutional neural networks (CNNs). 
-Each unit provided a comprehensive investigation of the complexities of data science and artificial intelligence, training me with a deeper understanding of key concepts and practical applications.
-
-**So, What**:
-
-One of the most enriching aspects of this experience was digging into the legal, social, ethical, and professional issues faced by machine learning professionals. Engaging in discussions and contributing to wiki submissions allowed me to explore topics such as algorithmic bias and data privacy concerns, raising a greater awareness of the expansive impact of machine learning on society.
-
-Additionally, collaborating with peers from diverse backgrounds, time zones, and ideologies presented both challenges and opportunities. While it required effective communication and understanding, the diversity of perspectives ultimately enhanced our team dynamics and enriched the quality of our work.
-
-My individual contributions to the projects, particularly in Units 6 and 11, highlighted my ability to apply knowledge and collaborate effectively. In Unit 6, I actively supported the implementation of clustering algorithms using Python, while in Unit 11, I developed my first Neural Network. Peer and tutor feedback provided invaluable insights, guiding me to refining our approaches and achieving project success.
-
-**Knowledge of Machine Learning Algorithms**:
-
-Throughout the duration of the Machine Learning module, I fascinated myself in a complete exploration of various machine learning algorithms, ranging from fundamental techniques like linear regression to more sophisticated models such as convolutional neural networks (CNNs). One of the key strengths of the module was its emphasis on hands-on activities and interactive learning experiences. These activities supplied me with the opportunity to not only understand theoretical concepts but also to apply them in practical settings. For instance, in Unit 4, I delved into linear regression models using Scikit-Learn, where I gained practical skills in building and fine-tuning regression models through real-world examples. Similarly, in Unit 10, I engaged in interactive learning exercises with CNNs, where I experimented with different configurations and observed their impact on model performance.
-
-**Individual Contributions to Team Activities and My Experience as a Member of a Team**:
-
-Each team member brought a unique set of skills, experiences, and perspectives to the table, enriching our discussions and informing our decision-making process. Through open dialogue, constructive feedback, and shared brainstorming sessions, we collectively worked towards pointing our project scope.
-
-Working on the project elicited a range of emotions, from excitement and enthusiasm to moments of frustration and uncertainty. At the beginning, it was challenging and frustrating to me, but once we started listening to everyone's concerns, the dynamics improved.  In the end, my role was as a project lead, and I oversaw interpreting the code, conducting data analysis, and initiating the drafting of the report.
-Moving forward, the lessons learned from this collaborative experience will continue to inform and shape my approach to future projects and endeavours.
-
-**Professional/Personal Development**:
-
-I experienced an insightful transformation not only in my professional skills but also in my personal outlook and approach. The module provided a platform for introspection and critical reflection, challenging me to think beyond the technical aspects of machine learning and consider the expansive societal implications of technology.
-
-Moreover, the module encouraged me to adopt a more holistic and interdisciplinary perspective, integrating insights from diverse disciplines such as ethics and sociology into my understanding of machine learning. This interdisciplinary approach not only broadened my intellectual horizons but also instilled in me a sense of humility and appreciation for the interconnectedness of knowledge. 
-
-On a personal level, the module served as a mechanism for growth. It pushed me out of my comfort zone, challenging me to confront my biases, assumptions, and preconceived notions. Through engaging in collaborative projects, peer discussions, and individual reflections, I gained a deeper understanding of myself and my role as a responsible member of society.
-
-As I reflect on this experience, I am eager to continue deepening my understanding of machine learning algorithms and their real-world applications. Henceforth, I will prioritize incorporating ethical considerations into my work, ensuring that the solutions I develop are not only technically robust but also socially responsible. In addition, I aim to further enhance my collaboration skills, embracing the diversity of perspectives and experiences that contribute to innovative problem-solving.
-
-In essence, the Machine Learning module served as a transformative journey that transcended the boundaries of academia and left a persistent impact on both my professional and personal development. It challenged me to think critically, act responsibly, and embrace the ethical dimensions of technology, instilling in me a sense of purpose and a commitment to ethical excellence in all aspects of my work. As I board on future endeavours, I carry with me the lessons learned from this module, confident in my ability to navigate the complexities of the digital age with integrity, compassion, and ethical anticipation.
-
-To conclude, the Machine Learning module has been a rewarding journey that has supplied me with the skills, conviction, and a newfound love for machine learning and its applications. As I explored deeper into the intricacies of data science and artificial intelligence, I found myself captivated by the endless possibilities and transformative potential of these technologies. 
-As I continue to apply my learnings in future accomplishments, I am positive that the capabilities gained from this module will serve as a solid foundation for continued growth and success. 
-
-Moving forward, I recommend embracing continuous learning to stay updated with advancements in the field, prioritizing practical application to solidify understanding, and considering ethical implications in all projects. Additionally, I suggest grooming collaboration skills, fostering diversity and inclusion, and prioritizing documentation and reproducibility. By embracing these principles and practices, I am optimistic about the contributions I can make to the field of data science and artificial intelligence, and the positive impact I can have on society.
 
 ## References
 
 Aretz, K., Bartram, S.M. and Pope, P.F. (2011). _Asymmetric Loss Functions and the Rationality of Expected Stock Returns_. [online] mpra.ub.uni-muenchen.de. Available at: https://mpra.ub.uni-muenchen.de/47343/ [Accessed 8 Feb. 2024].
-
-Chen, B. (2021). _Why Rectified Linear Unit (ReLU) in Deep Learning and the best practice to use it with TensorFlow_. [online] Medium. Available at: https://towardsdatascience.com/why-rectified-linear-unit-relu-in-deep-learning-and-the-best-practice-to-use-it-with-tensorflow-e9880933b7ef [Accessed 7 Feb. 2024].
-
-Chollet, F. (2015). _Keras documentation: About Keras_. [online] keras.io. Available at: https://keras.io/about/ [Accessed 7 Feb. 2024].
-
-Diez-Olivan, A., Del Ser, J., Galar, D. and Sierra, B. (2024). Data fusion and machine learning for industrial prognosis: Trends and perspectives towards Industry 4.0. _Information Fusion_, 50, pp.92–111. doi:https://doi.org/10.1016/j.inffus.2018.10.005.
-
-Galarnyk, M. (2020). _How to Build a Data Science Portfolio_. [online] Medium. Available at: https://towardsdatascience.com/how-to-build-a-data-science-portfolio-5f566517c79c [Accessed 11 Feb. 2024].
-
-Huang, Z., Sang, Y., Sun, Y. and Jiancheng Lv (2022). A neural network learning algorithm for highly imbalanced data classification. _Information Sciences_, 612(0020-0255), pp.496–513. doi:https://doi.org/10.1016/j.ins.2022.08.074.
-
-Ipatzi Bello, D. (2024). _Neural Network Model for Object Recognition_. [online] GitHub. Available at: https://shorturl.at/jNRZ7 [Accessed 8 Feb. 2024].
-
-Jmour, N., Zayen, S. and Abdelkrim, A. (2018). Convolutional neural networks for image classification. _2018 International Conference on Advanced Systems and Electric Technologies (IC_ASET)_, (978-1-5386-4449-2). doi:https://doi.org/10.1109/aset.2018.8379889.
-
-Krizhevsky, A. (2009). _The CIFAR-10 Dataset_. [online] Toronto.edu. Available at: https://www.cs.toronto.edu/~kriz/cifar.html [Accessed 7 Feb. 2024].
-
-Kubat, M. (2017). _An Introduction to Machine Learning_. [online] Cham: Springer International Publishing. doi:https://doi.org/10.1007/978-3-319-63913-0.
-
-Lapin, M., Hein, M. and Schiele, B. (2018). Analysis and Optimization of Loss Functions for Multiclass, Top-k, and Multilabel Classification. _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 40(7), pp.1533–1554. doi:https://doi.org/10.1109/tpami.2017.2751607.
-
-Luo, T., Jiang, G., Yu, M., Zhong, C., Xu, H. and Pan, Z. (2019). Convolutional neural networks-based stereo image reversible data hiding method. _Journal of Visual Communication and Image Representation_, 61(1047-3203), pp.61–73. doi:https://doi.org/10.1016/j.jvcir.2019.03.017.
-
-Md Shahid (2019). Convolutional Neural Network. _Medium_. Available at: https://towardsdatascience.com/covolutional-neural-network-cb0883dd6529 [Accessed 7 Feb. 2024].
-
-Sharma, D. (2021). _Image Classification Using CNN - Step-wise Tutorial_. [online] Analytics Vidhya. Available at: https://www.analyticsvidhya.com/blog/2021/01/image-classification-using-convolutional-neural-networks-a-step-by-step-guide/#:~:text=CNN%20classifier%20for%20image%20classification [Accessed 6 Feb. 2024].
-
-Sultanov, J. (2019). _Magic behind Activation Function!_ [online] AI3 - Theory, Practice, Business. Available at: https://medium.com/ai%C2%B3-theory-practice-business/magic-behind-activation-function-c6fbc5e36a92 [Accessed 8 Feb. 2024].
-
-Team, K. (2023). _Keras documentation: CIFAR10 small images classification dataset_. [online] keras.io. Available at: https://keras.io/api/datasets/cifar10/ [Accessed 6 Feb. 2024].
-
-V Kůrková, Yannis Manolopoulos, Hammer, B., Iliadis, L.S. and Maglogiannis, I.G. (2018). _Artificial neural networks and machine learning -- ICANN 2018 : 27th International Conference on Artificial Neural Networks, Rhodes, Greece, October 4-7, 2018, Proceedings. Part I._ Cham, Switzerland: Springer.
-
-Zlateva, T. and Rossitza Goleva (2022). _Computer Science and Education in Computer Science_. Springer Nature, p.129.
-
