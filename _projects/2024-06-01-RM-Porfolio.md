@@ -137,7 +137,7 @@ The primary objective of this e-portfolio is to collate all the significant work
 
 **Artifact**: xxx
 
-**Artifact Description**:  This piece reflects on the ethical and societal challenges of generative AI. It emphasizes the need for global consensus on AI ethics and the importance of integrating ethical considerations into AI development. The discussion includes the impact on job markets, transparency in AI systems, and the necessity for continuous professional development in AI ethics. The reflection concludes with a call to balance innovation with responsibility, aiming for a future where AI benefits society while mitigating its risks.
+**Artifact Description**: _xxx._
 
 ## Unit 12: Project Management and Managing Risk
 
