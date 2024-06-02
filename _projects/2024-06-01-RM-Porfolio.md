@@ -148,7 +148,50 @@ The primary objective of this e-portfolio is to collate all the significant work
 
 ## Final Reflection
 
+**Introduction**
+
+This reflective piece provides a detailed account of my experiences and learnings from the Research Methods and Professional Practice module at the University of Essex Online. It emphasizes the development of essential skills and the understanding of critical concepts in statistical analysis and research methods within the field of Computing Science. The reflection is structured around three key points: description, interpretation, and future application.
+
+**What?**
+
+Throughout this module, I engaged in various activities designed to enhance my understanding of research methods, ethical considerations, and professional practices in computing. These activities included conducting statistical analyses, participating in discussions on ethical dilemmas, developing literature reviews, and crafting research proposals. Each task presented unique challenges and learning opportunities that contributed to my overall development.
+One of the most significant experiences was the case study on the Cambridge Analytica scandal. This exercise involved critically analysing the misuse of data from Facebook users for political purposes, highlighting the ethical, social, and legal implications of such actions. Additionally, the discussion on dark UX patterns focused on how certain design practices deceive users for financial gain, prompting a deep reflection on the ethical responsibilities of computing professionals.
+Another focal experience was developing a literature review and a research proposal on the effectiveness of K-means clustering in segmenting B2B ecommerce customers. This task required meticulous research, critical analysis, and coherent presentation of findings, which refined my academic writing and research skills.
+
+**So What?**
+
+The implications of these experiences are insightful and comprehensive. The ethical case studies, such as the Cambridge Analytica scandal and dark UX patterns, underscored the critical importance of ethical considerations in all aspects of computing. These cases reinforced the principles outlined in the ACM and BCS Codes of Conduct, which emphasize honesty, transparency, and prioritizing the public interest. These experiences demonstrated that ethical lapses could have far-reaching consequences, including loss of public trust, legal repercussions, and harm to individuals and society.
+
+The discussions and analyses of ethical dilemmas highlighted the complexities of maintaining ethical standards in a rapidly evolving field. For example, the debate around dark UX patterns illustrated how subtle design choices could significantly impact user behavior and trust. It emphasized the necessity for computing professionals to be vigilant and proactive in identifying and mitigating unethical practices.
+The process of developing a literature review and research proposal emphasized the importance of thorough research and critical analysis in producing high-quality academic work. This task required me to sift through numerous scholarly articles, identify relevant studies, and synthesize information coherently. It reinforced the value of a systematic approach to research, where each step builds on the previous one to create a robust and comprehensive study.
+
+These activities also enhanced my understanding of the practical applications of research methods. The statistical analyses conducted in Units 6, 7, 8, and 9 provided hands-on experience with descriptive and inferential statistics, hypothesis testing, and data visualization. These exercises demonstrated how statistical techniques could be used to derive meaningful insights from data, which is crucial for making informed decisions in both academic and professional settings.
+Reflecting on my prior learning, these experiences have reinforced and expanded my existing knowledge. For instance, my understanding of the importance of ethical considerations in research and professional practice was deepened by the case studies and discussions. Similarly, my skills in critical analysis and academic writing were honed through the literature review and research proposal tasks.
+
+**What Next?**
+
+Looking ahead, I plan to apply the lessons learned from this module in several ways. First and primarily, I will maintain a high ethical standard in all my professional activities. This includes ensuring transparency in data reporting and considering the broader social and legal implications of my work. I intend to stay updated with the latest ethical guidelines and industry standards to navigate the complexities of the tech industry responsibly.
+
+Continuous learning and development are essential for professional growth. To this end, I have outlined several goals in my professional development action plan. One of my primary goals is to enhance my communication, persuasion, and resilience skills. I plan to enroll in professional development courses focused on these areas and seek feedback from peers and mentors to gauge my progress. Improved communication and resilience will enable me to articulate my ideas better, navigate challenges, and collaborate effectively with diverse teams.
+Another key area for improvement is my technical skills. While I have a strong foundation in tools like SQL, Python, and statistical analysis, I aim to deepen my knowledge in emerging technologies and tools. This includes gaining proficiency in Java and noSQL, areas where I currently have only a basic understanding. I plan to complete online courses in these subjects and apply my learning to real-world projects to solidify my skills.
+
+Additionally, I plan to increase my participation in community activities and professional organizations. Engaging in community-driven projects and supporting corporate social responsibility (CSR) initiatives will enhance my cultural awareness and provide opportunities to apply my skills meaningfully. This aligns with the principles of social responsibility and community engagement emphasized in the module.
+In future projects, I will apply the knowledge and skills gained from this module to ensure rigorous and ethical research practices. This includes conducting thorough literature reviews, designing robust research methodologies, and critically evaluating findings to contribute valuable insights to the field of computing. I will continue to refine my data analysis and visualization skills to communicate research findings effectively and support informed decision-making.
+
+Finally, I plan to document my progress and reflect on my learning journey regularly. Maintaining a detailed record of completed courses, new skills acquired, and their application in projects will help me track my development and identify areas for further improvement. Seeking feedback from peers and mentors will provide additional perspectives and help me adjust my plans as necessary.
+
+**Conclusion**
+
+The Research Methods and Professional Practice module has been a transformative experience, providing me with a solid foundation in research methods, ethical considerations, and professional practices. By applying the lessons learned and continuously seeking to improve, I am confident that I will be well-equipped to navigate the challenges and opportunities in the field of computing. This reflective piece documents my achievements and serves as a roadmap for my ongoing professional and personal development.
 
 ## References
 
-Aretz, K., Bartram, S.M. and Pope, P.F. (2011). _Asymmetric Loss Functions and the Rationality of Expected Stock Returns_. [online] mpra.ub.uni-muenchen.de. Available at: https://mpra.ub.uni-muenchen.de/47343/ [Accessed 8 Feb. 2024].
+Chapman, R. (2019) _Exploring the Value of Risk Management for Projects: Improving Capability Through the Deployment of a Maturity Model_. IEEE Engineering Management Review 47(1): 126-143.
+
+Correa, N. et al. (2023) _Worldwide AI ethics: A review of 200 guidelines and recommendations for AI governance._
+
+Project Management Institute. (2020) _A Guide to the Project Management Body of Knowledge PMBOK Guide, 7th Edition_. Newtown Square, PA: Project Management Institute.
+
+Ring, G., Waugaman, C. & Brackett, B. (2017) The Value of Career ePortfolios on Job Applicant Performance: Using Data to Determine Effectiveness. _International Journal of ePortfolio_ 7(2): 225-236.
+
+Weber, K. (2018) Employer perceptions of an engineering student’s electronic portfolio._ International Journal of ePortoflio_ 8(1): 57–71.
