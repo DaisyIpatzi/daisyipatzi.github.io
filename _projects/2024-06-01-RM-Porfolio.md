@@ -14,6 +14,7 @@ Welcome to my e-portfolio, a comprehensive showcase of my work and learning jour
 
 ## Objective
 
+
 The primary objective of this e-portfolio is to collate all the significant work and reflective activities completed during the module. This includes showcasing artefacts from each unit, presenting statistical exercises, evaluating my literature review and research proposal submissions, and reflecting on my learning journey. Through this e-portfolio, I aim to demonstrate my ability to apply knowledge independently, critically analyse my learning process, and evaluate the impact of this module on my professional and personal development.
 
 
