@@ -87,7 +87,7 @@ The primary objective of this e-portfolio is to collate all the significant work
 
 **Learning Outcomes**: We gained the ability to apply descriptive statistics, identify different levels of measurement, and produce measures of location and spread. This knowledge equips us to extract meaningful insights from data.
 
-**Artifact**: The artifacts developed during this unit will be presented in Unit 9.
+**Artifact**: _The artifacts developed during this unit will be presented in Unit 9._
 
 ## Unit 7: Inferential Statistics and Hypothesis Testing
 
@@ -105,7 +105,7 @@ The primary objective of this e-portfolio is to collate all the significant work
 
 **Learning Outcomes**: We understood different types of data analysis and their applications. We learned about various charts and graphs for presenting data and identified key elements of dashboards, enabling us to communicate our findings clearly.
 
-**Artifact**: The artifacts developed during this unit will be presented in Unit 9.
+**Artifact**: _The artifacts developed during this unit will be presented in Unit 9._
 
 ## Unit 9: Validity and Generalisability in Research
 
@@ -127,7 +127,7 @@ The primary objective of this e-portfolio is to collate all the significant work
 - [Research Proposal Presentation](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/9edac0d7529d9f378f78ebcb591847254edc03f2/assets/RM_Artifacts/DaisyIpatzi_ResearchProposalPresentation.pptx)
 - [Research Proposal Presentation Transcript](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/9edac0d7529d9f378f78ebcb591847254edc03f2/assets/RM_Artifacts/DaisyIpatzi_Transcript.pdf)
 
-**Artifact Description**:  This piece reflects on the ethical and societal challenges of generative AI. It emphasizes the need for global consensus on AI ethics and the importance of integrating ethical considerations into AI development. The discussion includes the impact on job markets, transparency in AI systems, and the necessity for continuous professional development in AI ethics. The reflection concludes with a call to balance innovation with responsibility, aiming for a future where AI benefits society while mitigating its risks.
+**Artifacts Description**: _The artifacts include a video presentation and a transcript that outline the research proposal for evaluating K-means clustering in segmenting B2B ecommerce customers. The presentation highlights the project's significance, methodology, ethical considerations, and the artefacts to be created, providing a detailed overview of the proposed research._
 
 ## Unit 11: Going Forward: Professional Development and Your e-Portfolio
 
