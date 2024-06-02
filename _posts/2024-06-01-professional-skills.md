@@ -105,4 +105,4 @@ The Professional Skills Matrix and SWOT Analysis are integral components of my p
 
 Dreyfus, S.E. and Dreyfus, H.L., 1980. A five-stage model of the mental activities involved in directed skill acquisition.
 
-Reference listUniversity of Lethbridge (2024). _EPortfolio Samples | University of Lethbridge._ [online] www.ulethbridge.ca. Available at: https://www.ulethbridge.ca/education/resources/eportfolios/sample-portfolios [Accessed 1 Jun. 2024].
+Reference listUniversity of Lethbridge (2024). _EPortfolio Samples - University of Lethbridge._ [online] www.ulethbridge.ca. Available at: https://www.ulethbridge.ca/education/resources/eportfolios/sample-portfolios [Accessed 1 Jun. 2024].
