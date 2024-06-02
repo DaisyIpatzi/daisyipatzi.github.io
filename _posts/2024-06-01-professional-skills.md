@@ -67,39 +67,39 @@ The Professional Skills Matrix and SWOT Analysis are integral components of my p
 
 **Goal 1: Improve Communication, Persuasion, and Resilience Skills**
 
-    Action: Enroll in a professional development course focused on communication and resilience.
-    Timeline: Within the next 3 months.
-    Resources Needed: Online courses, workshops, peer feedback.
-    Measurable Outcome: Enhanced communication and resilience as reflected in peer reviews and feedback.
+**Action:** Enroll in a professional development course focused on communication and resilience.
+**Timeline:** Within the next 3 months.
+**Resources Needed:** Online courses, workshops, peer feedback.
+**Measurable Outcome:** Enhanced communication and resilience as reflected in peer reviews and feedback.
 
 **Goal 2: Increase Participation in Community Activities**
 
-    Action: Volunteer for community projects and join local professional groups.
-    Timeline: Ongoing.
-    Resources Needed: Time allocation, community organization contacts.
-    Measurable Outcome: Active participation in at least two community projects over the next year.
+**Action:** Volunteer for community projects and join local professional groups.
+**Timeline:** Ongoing.
+**Resources Needed:** Time allocation, community organization contacts.
+**Measurable Outcome:** Active participation in at least two community projects over the next year.
 
 **Goal 3: Enhance Knowledge in Java and noSQL**
 
-    Action: Complete online courses in Java and noSQL.
-    Timeline: Within the next 6 months.
-    Resources Needed: Access to online learning platforms (e.g., Coursera, Udemy).
-    Measurable Outcome: Improved proficiency in Java and noSQL, assessed through course completion certificates and practical application in projects.
+**Action:** Complete online courses in Java and noSQL.
+**Timeline:** Within the next 6 months.
+**Resources Needed:** Access to online learning platforms (e.g., Coursera, Udemy).
+**Measurable Outcome:** Improved proficiency in Java and noSQL, assessed through course completion certificates and practical application in projects.
 
 **Goal 4: Improve Proficiency in Conferencing Technologies and Moodle (VLE)**
 
-    Action: Participate in training sessions and use these tools more frequently in daily tasks.
-    Timeline: Within the next 3 months.
-    Resources Needed: Access to training resources, opportunities to use these tools in professional settings.
-    Measurable Outcome: Higher proficiency in using conferencing technologies and Moodle (VLE) as demonstrated in practical tasks.
+**Action:** Participate in training sessions and use these tools more frequently in daily tasks.
+**Timeline:** Within the next 3 months.
+**Resources Needed:** Access to training resources, opportunities to use these tools in professional settings.
+**Measurable Outcome:** Higher proficiency in using conferencing technologies and Moodle (VLE) as demonstrated in practical tasks.
 
 **Learning Loop**
 
-    Review and Reflect: Regularly review the Skills Matrix and Action Plan to track progress and identify areas for improvement.
-    Apply Learning: Apply new skills and knowledge to work projects and organizational tasks.
-    Seek Feedback: Collect feedback from peers and mentors to gauge improvement and adjust plans as necessary.
-    Document Progress: Maintain a record of completed courses, new skills acquired, and their application in projects.
-    Final Review: At the end of the programme, review the overall progress, document the achievements, and identify further development needs. Share the final review with the Head of Computing as part of the course feedback.
+**Review and Reflect:** Regularly review the Skills Matrix and Action Plan to track progress and identify areas for improvement.
+**Apply Learning:** Apply new skills and knowledge to work projects and organizational tasks.
+**Seek Feedback:** Collect feedback from peers and mentors to gauge improvement and adjust plans as necessary.
+**Document Progress:** Maintain a record of completed courses, new skills acquired, and their application in projects.
+**Final Review:** At the end of the programme, review the overall progress, document the achievements, and identify further development needs. Share the final review with the Head of Computing as part of the course feedback.
 
 **References:**
 
