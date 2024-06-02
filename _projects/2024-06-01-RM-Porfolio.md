@@ -42,7 +42,9 @@ The primary objective of this e-portfolio is to collate all the significant work
 
 **Learning Outcomes**: We differentiated between inductive and deductive reasoning, understood the importance of ethics in research, and recognized how these ethical principles apply to our areas of study and professional practice. This foundational knowledge prepares us for more advanced research methods and ethical decision-making throughout our academic and professional careers.
 
-**Artifacts**: [Reflective Activity 1 – Ethics in Computing in the age of Generative AI](https://daisyipatzi.github.io/blog/ethics-in-computing)
+**Artifact**: [Reflective Activity 1 – Ethics in Computing in the age of Generative AI](https://daisyipatzi.github.io/blog/ethics-in-computing)
+
+**Artifact Description**:  This piece reflects on the ethical and societal challenges of generative AI. It emphasizes the need for global consensus on AI ethics and the importance of integrating ethical considerations into AI development. The discussion includes the impact on job markets, transparency in AI systems, and the necessity for continuous professional development in AI ethics. The reflection concludes with a call to balance innovation with responsibility, aiming for a future where AI benefits society while mitigating its risks.
 
 ## Unit 2: Research Questions, the Literature Review and the Research Proposal
 
@@ -50,7 +52,10 @@ The primary objective of this e-portfolio is to collate all the significant work
 
 **Learning Outcomes**: We examined the characteristics of suitable research topics, explored rational and creative methods for formulating research ideas, and transformed these ideas into well-crafted research questions and proposals. Additionally, we conducted literature searches, critiqued the literature, and presented comprehensive literature reviews, preparing us for more in-depth research activities.
 
-**Artifacts**: [Literature Review and Research Proposal Outlines](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/c3529ca46a6425dba8fb50acf131a5a05b71366c/assets/RM_Artifacts/Literature%20Review%20Outline.docx)
+**Artifact**: [Literature Review and Research Proposal Outlines](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/c3529ca46a6425dba8fb50acf131a5a05b71366c/assets/RM_Artifacts/Literature%20Review%20Outline.docx)
+
+**Artifact Description**:  This piece reflects on the ethical and societal challenges of generative AI. It emphasizes the need for global consensus on AI ethics and the importance of integrating ethical considerations into AI development. The discussion includes the impact on job markets, transparency in AI systems, and the necessity for continuous professional development in AI ethics. The reflection concludes with a call to balance innovation with responsibility, aiming for a future where AI benefits society while mitigating its risks.
+
 
 ## Unit 3: Methodology and Research Methods
 
