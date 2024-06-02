@@ -123,7 +123,9 @@ The primary objective of this e-portfolio is to collate all the significant work
 
 **Learning Outcomes**: We gained skills to structure a dissertation and prepare for the writing process, involving identifying a research area, conducting a literature review, and selecting appropriate research methods. This culminated in creating a project proposal for our final dissertation.
 
-**Artifacts**:  [Research Proposal Presentation]()
+**Artifacts**:
+- [Research Proposal Presentation](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/9edac0d7529d9f378f78ebcb591847254edc03f2/assets/RM_Artifacts/DaisyIpatzi_ResearchProposalPresentation.pptx)
+- [Research Proposal Presentation Transcript](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/9edac0d7529d9f378f78ebcb591847254edc03f2/assets/RM_Artifacts/DaisyIpatzi_Transcript.pdf)
 
 **Artifact Description**:  This piece reflects on the ethical and societal challenges of generative AI. It emphasizes the need for global consensus on AI ethics and the importance of integrating ethical considerations into AI development. The discussion includes the impact on job markets, transparency in AI systems, and the necessity for continuous professional development in AI ethics. The reflection concludes with a call to balance innovation with responsibility, aiming for a future where AI benefits society while mitigating its risks.
 
