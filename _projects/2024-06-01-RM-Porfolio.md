@@ -38,17 +38,17 @@ The primary objective of this e-portfolio is to collate all the significant work
 
 ## Unit 1: Introduction to Research Methods, The Scientific Investigation, and Ethics in Computing
 
-**Summary**: In Unit 1, we examined the essentials of research methods, emphasizing the scientific method and its application in computing. We discussed the purposes of research, the differences between deductive and inductive reasoning, and the significance of ethical considerations. Understanding these elements was fundamental to conducting rigorous and responsible research, ensuring both the validity of findings and the ethical treatment of participants.
+**Summary**: This unit covered the essentials of research methods, focusing on the scientific method and its application in computing. We discussed the purposes of research, the differences between deductive and inductive reasoning, and the importance of ethical considerations. Understanding these elements is fundamental to conducting rigorous and responsible research, ensuring the validity of findings and the ethical treatment of participants.
 
-**Learning Outcomes**: By completing this unit, we differentiated between inductive and deductive reasoning, understood the importance of ethics in research, and recognized how these ethical principles applied to our specific areas of study and professional practice. This foundational knowledge prepared us for more advanced research methods and ethical decision-making throughout our academic and professional careers.
+**Learning Outcomes**: We differentiated between inductive and deductive reasoning, understood the importance of ethics in research, and recognized how these ethical principles apply to our areas of study and professional practice. This foundational knowledge prepares us for more advanced research methods and ethical decision-making throughout our academic and professional careers.
 
 **Artifacts**: [Reflective Activity 1 – Ethics in Computing in the age of Generative AI](https://daisyipatzi.github.io/blog/ethics-in-computing)
 
 ## Unit 2: Research Questions, the Literature Review and the Research Proposal
 
-**Summary**: In Unit 2, we focused on the key aspects of developing a research proposal, starting with defining a research question. We explored how to formulate and revise research questions, the components of a research proposal, and the importance of a literature review. The unit provided us with the necessary skills to survey scholarly sources, identify relevant theories and methods, and recognize gaps in existing research. We learned to present our thoughts coherently and critically evaluate literature to support our proposals.
+**Summary**: This unit focused on developing a research proposal, starting with defining a research question. We explored how to formulate and revise research questions, the components of a research proposal, and the importance of a literature review. These skills enable us to survey scholarly sources, identify relevant theories and methods, and recognize gaps in existing research. We learned to present our thoughts coherently and critically evaluate literature to support our proposals.
 
-**Learning Outcomes**: By completing this unit, we examined the characteristics of suitable research topics, explored rational and creative methods for formulating research ideas, and transformed these ideas into well-crafted research questions and proposals. Additionally, we conducted literature searches, critiqued the literature, and presented comprehensive literature reviews, preparing us for more in-depth research activities in subsequent units.
+**Learning Outcomes**: We examined the characteristics of suitable research topics, explored rational and creative methods for formulating research ideas, and transformed these ideas into well-crafted research questions and proposals. Additionally, we conducted literature searches, critiqued the literature, and presented comprehensive literature reviews, preparing us for more in-depth research activities.
 
 **Artifacts**: [Literature Review and Research Proposal Outlines](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/c3529ca46a6425dba8fb50acf131a5a05b71366c/assets/RM_Artifacts/Literature%20Review%20Outline.docx)
 
@@ -56,83 +56,81 @@ The primary objective of this e-portfolio is to collate all the significant work
 
 **Summary**: In Unit 3, we explored the general concept of methodology and an overview of research methods. We examined the underlying assumptions that shape research, including ontological, epistemological, and axiological perspectives. We also learned about research design, distinguishing between exploratory and conclusive research, and delved into the three main types of research methods: qualitative, quantitative, and mixed methods. Additionally, we covered primary and secondary data collection methods, providing a comprehensive understanding of how to choose and apply the appropriate research methods for our projects.
 
-**Learning Outcomes**: We gained a clear understanding of different research methods and their associated data collection techniques. We learned how to identify which methods are best suited to specific research areas and objectives. This foundational knowledge prepared us to conduct thorough and effective research, utilizing the appropriate tools and methodologies to gather, analyze, and interpret data.
+**Learning Outcomes**: We explored the concept of methodology and research methods, examining the underlying assumptions shaping research, including ontological, epistemological, and axiological perspectives. We learned about research design, distinguishing between exploratory and conclusive research, and delved into qualitative, quantitative, and mixed methods. Additionally, we covered primary and secondary data collection methods.
 
 **Artifacts**: [Collaborative Learning Discussion 1](https://daisyipatzi.github.io/blog/summary-post1)
 
 ## Unit 4: Case Studies, Focus Groups, and Observation
 
-**Summary**: In Unit 4, we explored various data collection methods, including case studies, focus groups, and observations. These methods are predominantly used in qualitative research but can also be applied in quantitative research. We learned that case studies involve in-depth research on individuals or groups, focus groups gather insights from a selected group of people, and observations can be either qualitative or quantitative, depending on the nature of the data collected. Each method has its advantages and drawbacks, and understanding these is crucial for selecting the appropriate method for a given research project.
+**Summary**: This unit covered various data collection methods, including case studies, focus groups, and observations. These methods are predominantly used in qualitative research but can also be applied in quantitative research. We learned about the advantages and drawbacks of each method, which is crucial for selecting the appropriate method for a given research project.
 
-**Learning Outcomes**: We gained the skills to carry out case studies, focus groups, and observations effectively. We learned to identify the suitable method for our specific investigations and considered the types of data we would obtain from each method. This knowledge enables us to choose the most appropriate data collection techniques to answer our research questions accurately.
+**Learning Outcomes**: We gained the skills to carry out case studies, focus groups, and observations effectively. We learned to identify the suitable method for specific investigations and considered the types of data obtained from each method.
 
 **Artifacts**: [Literature Review](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/438ea31fd233a40f815f635da93f3af7df8d42f1/assets/RM_Artifacts/DaisyIpatzi_LiteratureReview.docx)
 
 ## Unit 5: Interviews, Survey Methods, and Questionnaire Design
 
-**Summary**: In Unit 5, we delved into interviews, survey methods, and questionnaire design. We explored the intricacies of conducting in-depth interviews as a qualitative research method and the importance of surveys as a quantitative data collection tool. We distinguished between surveys and questionnaires, understanding that a questionnaire is a tool used within a survey to gather data. Additionally, we discussed pre-testing and post-testing methods to provide a comprehensive “before-and-after” analysis. This unit emphasized the effective design and implementation of these methods to ensure accurate data collection and analysis.
+**Summary**: We delved into interviews, survey methods, and questionnaire design. We explored conducting in-depth interviews as a qualitative method and the importance of surveys as a quantitative data collection tool. We distinguished between surveys and questionnaires and discussed pre-testing and post-testing methods for comprehensive analysis.
 
-**Learning Outcomes**: Upon finishing this unit, we understood how to integrate interviews and surveys into research and determine their suitability for our investigations. We learned to design effective questionnaires to obtain the necessary responses and gained insight into analyzing the collected data. Furthermore, we explored the concepts of pre- and post-testing, enhancing our ability to evaluate the impact of new processes or systems within our research.
+**Learning Outcomes**: We learned to integrate interviews and surveys into research, design effective questionnaires, and analyze collected data. We also explored pre- and post-testing, enhancing our ability to evaluate the impact of new processes or systems.
 
 **Artifacts**: [Reflective Activity 2: Case Study: Inappropriate Use of Surveys](https://daisyipatzi.github.io/blog/analytica-facebook)
 
 ## Unit 6: Quantitative Methods - Descriptive and Inferential Statistics
 
-**Summary**: In Unit 6, we explored quantitative methods, focusing on descriptive statistics and inferential statistics. We examined how quantitative methods analyze relationships between numerically measured variables using various statistical and graphical techniques. The unit emphasized the importance of organizing data into datasets and summarizing data meaningfully through graphical summaries and numerical measures. We specifically focused on measures of location and dispersion, which help in understanding the central tendency and variability of data.
+**Summary**: This unit focused on quantitative methods, emphasizing descriptive and inferential statistics. We examined how quantitative methods analyze relationships between numerically measured variables using various statistical and graphical techniques. We specifically focused on measures of location and dispersion to understand the central tendency and variability of data.
 
-**Learning Outcomes**: After completing this unit, we gained the ability to understand and apply descriptive statistics, identify different levels of measurement, and produce measures of location and spread. This knowledge equipped us to extract meaningful insights from data, ensuring that the methodologies employed were valid for the variables of interest.
+**Learning Outcomes**: We gained the ability to apply descriptive statistics, identify different levels of measurement, and produce measures of location and spread. This knowledge equips us to extract meaningful insights from data.
 
 **Artifacts**: The artifacts developed during this unit will be presented in Unit 9.
 
-## Unit 7: Introduction to Artificial Neural Networks (ANNs)
+## Unit 7: Inferential Statistics and Hypothesis Testing
 
-**Summary**: We continued our exploration of quantitative methods with a focus on inferential statistics and hypothesis testing. We learned that inferential statistics aims to discover general patterns about a larger population by studying a smaller sample group. This unit emphasized the process of statistical inference, which involves making valid inferences about a population based on sample data and quantifying the uncertainty using probability. We also introduced hypothesis testing, a method used to provide evidence about the likelihood of assumptions regarding population values.
+**Summary**: We continued our exploration of quantitative methods, focusing on inferential statistics and hypothesis testing. We learned that inferential statistics aims to discover general patterns about a larger population by studying a smaller sample group. This unit emphasized the process of statistical inference and hypothesis testing.
 
-**Learning Outcomes**: Through this unit, we applied inferential statistics to data analysis, identified the correct probability distributions, and performed appropriate hypothesis tests. These skills enabled us to extract meaningful patterns and insights from our data, contributing to more informed decision-making. 
+**Learning Outcomes**: We applied inferential statistics to data analysis, identified the correct probability distributions, and performed appropriate hypothesis tests. These skills enable us to extract meaningful patterns and insights from our data.
 
 **Artifacts**:  [Collaborative Discussion 2: Case Study on Accuracy of Information](https://daisyipatzi.github.io/blog/summary-post2)
   
 ## Unit 8: Data Analysis and Visualisation
 
-**Summary**: Training neural networks was the focal point of this unit, requiring a deep dive into backpropagation and gradient descent algorithms. Despite its technical complexity, the material was presented in a digestible manner.
+**Summary**: We shifted our focus to data analysis and visualization, exploring techniques for handling and interpreting both qualitative and quantitative data. The unit highlighted the challenges of analyzing qualitative data and the process of coding to categorize such data. We also discussed the importance of data visualization and the use of dashboards in business intelligence.
 
-**Learning Outcomes**: Through this unit, I gained proficiency in training neural networks, enabling me to fine-tune model parameters and optimize performance effectively.
+**Learning Outcomes**: We understood different types of data analysis and their applications. We learned about various charts and graphs for presenting data and identified key elements of dashboards, enabling us to communicate our findings clearly.
 
-**Artifacts**:  
-- [Collaborative Discussion 2 (Summary Post)](https://daisyipatzi.github.io/blog/summary-post2-moduleml)
-- [Gradient Descendent Cost Function Activity](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/ML_Artifacts/Gradient_Descent_Cost/Gradient_Descent_Cost_Function.ipynb)
+**Artifacts**: The artifacts developed during this unit will be presented in Unit 9.
 
 ## Unit 9: Validity and Generalisability in Research
 
-**Summary**: This unit introduced Convolutional Neural Networks (CNNs) and their applications in image recognition tasks. We explored the architecture of CNNs and their role in various real-world scenarios.
+**Summary**: This unit explored the critical concepts of validity, generalisability, and reliability in research. We discussed the importance of these concepts before collecting data and examined the differences between qualitative and quantitative data, including data cleansing and validation processes.
 
-**Learning Outcomes**: By the conclusion of this unit, I developed understanding of CNNs and their potential applications, particularly in image processing and computer vision.
+**Learning Outcomes**: This unit explored the critical concepts of validity, generalisability, and reliability in research. We discussed the importance of these concepts before collecting data and examined the differences between qualitative and quantitative data, including data cleansing and validation processes.
 
-**Artifacts**: [Convolutional Neural Networks (CNN) - Object Recognition Activity](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/ML_Artifacts/CNN/Convolutional_Neural_Networks_(CNN)_Object_Recognition.ipynb)
+**Artifacts**: [Statistical Worksheet Submissions](https://daisyipatzi.github.io/blog/statistical-worksheet-submissions)
 
 ## Unit 10: Research Writing
 
-**Summary**: Hands-on experimentation with CNNs was the highlight of this unit, where we explored different configurations and observed their impact on model performance.
+**Summary**: This unit focused on the essential skill of research writing, crucial for communicating technical knowledge effectively in tech-related businesses. We emphasized the importance of structuring and writing a dissertation, preparing research proposals, and publishing research papers in peer-reviewed journals.
 
-**Learning Outcomes**: This unit boosted my practical skills in working with CNNs, equipping me with the ability to iteratively refine model architectures for optimal performance.
+**Learning Outcomes**: We gained skills to structure a dissertation and prepare for the writing process, involving identifying a research area, conducting a literature review, and selecting appropriate research methods. This culminated in creating a project proposal for our final dissertation.
 
-**Artifacts**:  [CNN Explainer Insights](https://daisyipatzi.github.io/blog/cnn-explainer)
+**Artifacts**:  [Research Proposal Presentation](https://www.my-course.co.uk/mod/assign/view.php?id=960781)
 
 ## Unit 11: Going Forward: Professional Development and Your e-Portfolio
 
-**Summary**:  Model selection and evaluation methodologies were the focus of this unit, emphasizing the importance of rigorously assessing model performance and selecting the most suitable models for specific tasks.
+**Summary**: This unit emphasized model selection and evaluation methodologies, highlighting the importance of rigorously assessing model performance and selecting suitable models for specific tasks.
 
-**Learning Outcomes**: Through this unit, I gained proficiency in evaluating model performance and selecting appropriate models based on established criteria, facilitating informed decision-making in machine learning projects.
+**Learning Outcomes**: We gained proficiency in evaluating model performance and selecting appropriate models based on established criteria, facilitating informed decision-making in machine learning projects.
 
-**Artifacts**: [Model Performance Measurement Activity](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/ML_Artifacts/Model_Performance_Evaluation/Model_Performance_Measurement.ipynb)
+**Artifacts**: xxx
 
 ## Unit 12: Project Management and Managing Risk
 
-**Summary**: The module concluded with an exploration of the intersection between machine learning and Industry 4.0, highlighting the transformative potential of AI technologies in various industries.
+**Summary**: This unit covered project management and the crucial aspect of managing risk within a project. We explored project life cycles and methodologies, emphasizing the importance of selecting the right metrics to measure project performance and assessing potential risks. Additionally, we discussed managing inevitable changes during a project and the need for a robust change control process to minimize impacts on cost, time frames, and quality.
 
-**Learning Outcomes**: This unit broadened my perspective on the applications of machine learning in industry, fostering an appreciation for its role in driving innovation and shaping the future of work.
+**Learning Outcomes**: We gained a comprehensive understanding of project management concepts and methodologies, appreciated project life cycles, and recognized the technologies needed for remote collaboration. We learned how projects are impacted by risk and uncertainty and developed effective risk and change management plans.
 
-**Artifacts**: [Future of Machine Learning](https://daisyipatzi.github.io/blog/data-fusion)
+**Artifacts**: xxx
 
 ## Skill assessment
 
