@@ -19,20 +19,21 @@ The primary objective of this e-portfolio is to collate all the significant work
 
 ## Table of Contents
 
-- [Unit 1: Introduction to Machine Learning (ML)](#unit-1-introduction-to-machine-learning-ml)
-- [Unit 2: Exploratory Data Analysis](#unit-2-exploratory-data-analysis)
-- [Unit 3: Correlation and Regression](#unit-3-correlation-and-regression)
-- [Unit 4: Linear Regression with Scikit-Learn](#unit-4-linear-regression-with-scikit-learn)
-- [Unit 5: Clustering](#unit-5-clustering)
-- [Unit 6: Clustering with Python](#unit-6-clustering-with-python)
+- [Unit 1: Introduction to Research Methods, The Scientific Investigation, and Ethics in Computing](#unit-1-introduction-to-research-methods-the-scientific-investigation-and-ethics-in-computing)
+- [Unit 2: Research Questions, the Literature Review and the Research Proposal](#unit-2-research-questions-the-literature-review-and-the-research-proposal)
+- [Unit 3: Methodology and Research Methods](#unit-3-methodology-and-research-methods)
+- [Unit 4: Case Studies, Focus Groups, and Observation](#unit-4-case-studies-focus-groups-and-observation)
+- [Unit 5: Interviews, Survey Methods, and Questionnaire Design](#unit-5-interviews-survey-methods-and-questionnaire-design)
+- [Unit 6: Quantitative Methods - Descriptive and Inferential Statistics](#unit-6-quantitative-methods---descriptive-and-inferential-statistics)
 - [Unit 7: Introduction to Artificial Neural Networks (ANNs)](#unit-7-introduction-to-artificial-neural-networks-anns)
-- [Unit 8: Training an Artificial Neural Network](#unit-8-training-an-artificial-neural-network)
-- [Unit 9: Introduction to Convolutional Neural Networks (CNNs)](#unit-9-introduction-to-convolutional-neural-networks-cnns)
-- [Unit 10: CNN Interactive Learning](#unit-10-cnn-interactive-learning)
-- [Unit 11: Model Selection and Evaluation](#unit-11-model-selection-and-evaluation)
-- [Development Team Project: Project Report](#development-team-project-project-report)
-- [Development Individual Project: Presentation](#development-individual-project-presentation)
+- [Unit 8: Data Analysis and Visualisation](#unit-8-data-analysis-and-visualisation)
+- [Unit 9: Validity and Generalisability in Research](#unit-9-validity-and-generalisability-in-research)
+- [Unit 10: Research Writing](#unit-10-research-writing)
+- [Unit 11: Going Forward: Professional Development and Your e-Portfolio](#unit-11-going-forward-professional-development-and-your-e-portfolio)
+- [Unit 12: Project Management and Managing Risk](#unit-12-project-management-and-managing-risk)
+- [Skill Assessment](#skill-assessment)
 - [Final Reflection](#final-reflection)
+
 
 ## Unit 1: Introduction to Research Methods, The Scientific Investigation, and Ethics in Computing
 
@@ -66,7 +67,7 @@ The primary objective of this e-portfolio is to collate all the significant work
 
 **Artifacts**: [Literature Review](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/438ea31fd233a40f815f635da93f3af7df8d42f1/assets/RM_Artifacts/DaisyIpatzi_LiteratureReview.docx)
 
-## Unit 5: CInterviews, Survey Methods, and Questionnaire Design
+## Unit 5: Interviews, Survey Methods, and Questionnaire Design
 
 **Summary**: In Unit 5, we delved into interviews, survey methods, and questionnaire design. We explored the intricacies of conducting in-depth interviews as a qualitative research method and the importance of surveys as a quantitative data collection tool. We distinguished between surveys and questionnaires, understanding that a questionnaire is a tool used within a survey to gather data. Additionally, we discussed pre-testing and post-testing methods to provide a comprehensive “before-and-after” analysis. This unit emphasized the effective design and implementation of these methods to ensure accurate data collection and analysis.
 
@@ -74,25 +75,23 @@ The primary objective of this e-portfolio is to collate all the significant work
 
 **Artifacts**: [Reflective Activity 2: Case Study: Inappropriate Use of Surveys](https://daisyipatzi.github.io/blog/analytica-facebook)
 
-## Unit 6: Interviews, Survey Methods, and Questionnaire Design
+## Unit 6: Quantitative Methods - Descriptive and Inferential Statistics
 
-**Summary**: Leveraging Python, we applied clustering algorithms to real-world datasets in this unit. Hands-on experience facilitated a deeper comprehension of the concepts covered.
+**Summary**: In Unit 6, we explored quantitative methods, focusing on descriptive statistics and inferential statistics. We examined how quantitative methods analyze relationships between numerically measured variables using various statistical and graphical techniques. The unit emphasized the importance of organizing data into datasets and summarizing data meaningfully through graphical summaries and numerical measures. We specifically focused on measures of location and dispersion, which help in understanding the central tendency and variability of data.
 
-**Learning Outcomes**: By the conclusion of this unit, I felt proficient in implementing clustering algorithms using Python, empowering me to analyze and interpret complex datasets effectively.
+**Learning Outcomes**: After completing this unit, we gained the ability to understand and apply descriptive statistics, identify different levels of measurement, and produce measures of location and spread. This knowledge equipped us to extract meaningful insights from data, ensuring that the methodologies employed were valid for the variables of interest.
 
-**Artifacts**: [K-Means Clustering Tutorial](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/ML_Artifacts/K-Means_Clustering_Tutorial/K_Means_Clustering_Tutorial.ipynb)
+**Artifacts**: The artifacts developed during this unit will be presented in Unit 9.
 
 ## Unit 7: Introduction to Artificial Neural Networks (ANNs)
 
-**Summary**: Neural networks were demystified in this unit, where we explored their fundamental principles and architectures. The discussions shed light on the inner workings of ANNs and their applications.
+**Summary**: We continued our exploration of quantitative methods with a focus on inferential statistics and hypothesis testing. We learned that inferential statistics aims to discover general patterns about a larger population by studying a smaller sample group. This unit emphasized the process of statistical inference, which involves making valid inferences about a population based on sample data and quantifying the uncertainty using probability. We also introduced hypothesis testing, a method used to provide evidence about the likelihood of assumptions regarding population values.
 
-**Learning Outcomes**: This unit provided me with a solid foundation in understanding neural networks, covering the way for further exploration into advanced machine learning techniques.
+**Learning Outcomes**: Through this unit, we applied inferential statistics to data analysis, identified the correct probability distributions, and performed appropriate hypothesis tests. These skills enabled us to extract meaningful patterns and insights from our data, contributing to more informed decision-making. 
 
-**Artifacts**:  
-- ["Simple Perceptron" and "Percepton and Operator" Examples](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/ML_Artifacts/Perceptron/ANN_(Excercise_1_and_2).ipynb)
-- ["Multi Layer Perceptron" Example](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/ML_Artifacts/Perceptron/ANN_(Excercise_3).ipynb)
- 
-## Unit 8: Training an Artificial Neural Network
+**Artifacts**:  [Collaborative Discussion 2: Case Study on Accuracy of Information](https://daisyipatzi.github.io/blog/summary-post2)
+  
+## Unit 8: Data Analysis and Visualisation
 
 **Summary**: Training neural networks was the focal point of this unit, requiring a deep dive into backpropagation and gradient descent algorithms. Despite its technical complexity, the material was presented in a digestible manner.
 
@@ -102,7 +101,7 @@ The primary objective of this e-portfolio is to collate all the significant work
 - [Collaborative Discussion 2 (Summary Post)](https://daisyipatzi.github.io/blog/summary-post2-moduleml)
 - [Gradient Descendent Cost Function Activity](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/ML_Artifacts/Gradient_Descent_Cost/Gradient_Descent_Cost_Function.ipynb)
 
-## Unit 9: Introduction to Convolutional Neural Networks (CNNs)
+## Unit 9: Validity and Generalisability in Research
 
 **Summary**: This unit introduced Convolutional Neural Networks (CNNs) and their applications in image recognition tasks. We explored the architecture of CNNs and their role in various real-world scenarios.
 
@@ -110,7 +109,7 @@ The primary objective of this e-portfolio is to collate all the significant work
 
 **Artifacts**: [Convolutional Neural Networks (CNN) - Object Recognition Activity](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/ML_Artifacts/CNN/Convolutional_Neural_Networks_(CNN)_Object_Recognition.ipynb)
 
-## Unit 10: CNN Interactive Learning
+## Unit 10: Research Writing
 
 **Summary**: Hands-on experimentation with CNNs was the highlight of this unit, where we explored different configurations and observed their impact on model performance.
 
@@ -118,7 +117,7 @@ The primary objective of this e-portfolio is to collate all the significant work
 
 **Artifacts**:  [CNN Explainer Insights](https://daisyipatzi.github.io/blog/cnn-explainer)
 
-## Unit 11: Model Selection and Evaluation
+## Unit 11: Going Forward: Professional Development and Your e-Portfolio
 
 **Summary**:  Model selection and evaluation methodologies were the focus of this unit, emphasizing the importance of rigorously assessing model performance and selecting the most suitable models for specific tasks.
 
@@ -126,7 +125,7 @@ The primary objective of this e-portfolio is to collate all the significant work
 
 **Artifacts**: [Model Performance Measurement Activity](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/ML_Artifacts/Model_Performance_Evaluation/Model_Performance_Measurement.ipynb)
 
-## Unit 12: Industry 4.0 and Machine Learning
+## Unit 12: Project Management and Managing Risk
 
 **Summary**: The module concluded with an exploration of the intersection between machine learning and Industry 4.0, highlighting the transformative potential of AI technologies in various industries.
 
@@ -134,32 +133,9 @@ The primary objective of this e-portfolio is to collate all the significant work
 
 **Artifacts**: [Future of Machine Learning](https://daisyipatzi.github.io/blog/data-fusion)
 
-## Development Team Project: Project Report
-
-**Summary**: This assignment entailed a comprehensive analysis of the Airbnb dataset using various data science techniques, ultimately culminating in the preparation of an analytical report aimed at addressing a substantive business question. The dataset provided a rich source of information pertaining to Airbnb listings, including factors such as location, property type, amenities, pricing, and reviews.
-
-The initial phase of the assignment involved formulating relevant questions to guide the analysis process. These questions aimed to uncover insights that could inform strategic decision-making for a hypothetical business or organization operating within the Airbnb ecosystem. Questions could span a wide range of topics, including but not limited to, factors influencing pricing, preferences of guests, optimal property features, and market trends.
-
-Following the formulation of questions, the next phase involved performing data analysis to extract meaningful insights from the dataset. This encompassed various data science techniques, including exploratory data analysis, statistical analysis, machine learning algorithms, and data visualization. Through rigorous analysis, patterns, trends, correlations, and outliers within the data were identified, providing valuable insights into the dynamics of the Airbnb market.
-
-Overall, this assignment provided a valuable opportunity to apply data science techniques in a real-world context, demonstrating the practical relevance and impact of data-driven decision-making. By taking on the role of team leader and actively contributing to the analysis and reporting process, I gained invaluable experience in project management, collaboration, and effective communication, further enhancing my skills as a data scientist.
-
-**Learning Outcomes**: Through this assignment, I developed an understanding of the challenges and applicability of machine learning algorithms in real-world datasets. Additionally, collaborating within a virtual team environment provided practical insights into teamwork dynamics and communication skills, mirroring professional scenarios. As the team leader, I systematically developed and implemented the skills required to effectively collaborate in a virtual professional environment, gaining insights into team roles and organizational dynamics. Furthermore, I refined my ability to express ideas succinctly and concisely, meeting the requirement for clear and concise reporting in analytical projects.
-
-**Artifacts**: 
-
-- [Python Notebook](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/ML_Artifacts/Airbnb_Project/Essex_group_project_01_airbnb.ipynb)
-- [Download Analytical Report](https://github.com/DaisyIpatzi/daisyipatzi.github.io/raw/main/assets/ML_Artifacts/Airbnb_Project/Airbnb%20Report%20(Group%201).docx)
-
-## Development Individual Project: Presentation
+## Skill assessment
 
 **Summary**:  In this individual assignment, I developed a 20-minute presentation to demonstrate the activities involved in designing and evaluating a Neural Network model for object recognition using the CIFAR-10 image dataset. The presentation covered crucial aspects such as partitioning the validation set, explaining the neural network architecture, activation functions, loss functions, epochs utilized, and strategy insights. The focus was on ensuring clarity, conciseness, and engagement in both the oral and visual components of the presentation.
-
-**Learning Outcomes**: Through this assignment, I applied and critically evaluated machine learning techniques in real-world scenarios, particularly in addressing technical risks and uncertainties inherent in object recognition tasks. Additionally, the presentation exercise enhanced my communication and presentation skills, ensuring effective articulation of complex concepts and findings to an audience.
-
-**Artifacts**:
-- [Python Notebook](https://github.com/DaisyIpatzi/daisyipatzi.github.io/blob/main/assets/ML_Artifacts/Individual_Project_Presentation/NNM_For_Object_Recognition.ipynb)
-- [Report](https://daisyipatzi.github.io/project/object-recognition-cifar-10)
 
 ## Final Reflection
 
