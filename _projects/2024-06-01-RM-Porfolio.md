@@ -22,7 +22,7 @@ The primary objective of this e-portfolio is to collate all the significant work
 - [Unit 4: Case Studies, Focus Groups, and Observation](#unit-4-case-studies-focus-groups-and-observation)
 - [Unit 5: Interviews, Survey Methods, and Questionnaire Design](#unit-5-interviews-survey-methods-and-questionnaire-design)
 - [Unit 6: Quantitative Methods - Descriptive and Inferential Statistics](#unit-6-quantitative-methods---descriptive-and-inferential-statistics)
-- [Unit 7: Introduction to Artificial Neural Networks (ANNs)](#unit-7-introduction-to-artificial-neural-networks-anns)
+- [Unit 7: Inferential Statistics and Hypothesis Testing](#unit-7-inferential-statistics-and-hypothesis-testing)
 - [Unit 8: Data Analysis and Visualisation](#unit-8-data-analysis-and-visualisation)
 - [Unit 9: Validity and Generalisability in Research](#unit-9-validity-and-generalisability-in-research)
 - [Unit 10: Research Writing](#unit-10-research-writing)
