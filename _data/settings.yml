@@ -18,7 +18,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: Data Enthusiast and MSc Data Science Graduate!
+  footer_tagline: MSc Data Science | Machine Learning, Analytics & Insight
 
 hero_settings:
   overlay_opacity: 0.8
