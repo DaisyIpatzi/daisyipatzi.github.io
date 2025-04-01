@@ -1,7 +1,7 @@
 ---
 title: 'Resources for Understanding and Exploring K-Means Clustering Algorithms'
 date: 2023-12-27 12:00:00
-description: 'Wiki Activity | Machine Learning Module'
+description: 'Resources for Understanding and Exploring K-Means '
 featured_image: '/images/demo/bottom.gif'
 ---
 
