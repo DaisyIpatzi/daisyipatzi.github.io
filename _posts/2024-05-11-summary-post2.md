@@ -3,6 +3,8 @@ title: 'The Ethical Dimensions of Data Analysis: A Case Study on the Cereal "Whi
 date: 2024-05-11 00:00:00
 description: 'Exploring the ethical challenges faced by a statistical programmer analyzing the nutritional data of a new cereal, "Whizzz".'
 featured_image: '/images/demo/nutrition.jpeg'
+published: false
+
 ---
 
 ## Discussion Topic - Case Study: Accuracy of information
@@ -18,7 +20,7 @@ Abi also realises that some other correlations could be performed that would cas
 * Is Abi responsible for the use to which others put his program results?
 *	If Abi does put forward both sets of results to the manufacturer, he suspects that they will publicise only the positive ones. What other courses of action has he?
 
-## Summary: Collaborative Discussion
+## Discussion
 
 Abi's dilemma, while evaluating the nutritional claims of a new cereal named Whizzz, presents a complex scenario teeming with ethical, legal, social, and professional dimensions.
 Analysing data to support multiple conclusions isn't inherently unethical if the analyses are valid and not manipulatively selective. The American Statistical Association's Ethical Guidelines stress the importance of ensuring all scientific conclusions are thoroughly vetted and transparently reported, a practice Abi must adhere to (American Statistical Association, 2022). Ethically, Abi is obligated to present both the positive and negative aspects of his findings. This balanced approach aligns with the principles of good scientific practice and adheres to guidelines that emphasize accuracy and completeness to support informed decision-making (Resnik, 2011).
