@@ -18,7 +18,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: MSc Data Science | Machine Learning, Analytics & Insight
+  footer_tagline: MSc Data Science | Machine Learning, Analytics & Insights
 
 hero_settings:
   overlay_opacity: 0.8
