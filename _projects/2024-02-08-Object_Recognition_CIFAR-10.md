@@ -9,11 +9,11 @@ featured_image: "images/demo/neuron.jpg"
 
 ## 1. Introduction
 
-In this project, we investigate into the field of machine learning and image recognition by developing a neural network model using the CIFAR-10 dataset (Krizhevsky, 2009). Our objective is to create a Convolutional Neural Network (CNN) using Keras, an open-source neural network library in Python, constructed to facilitate quick experimentation with deep neural networks.
+In this project, we delve into the field of machine learning and image recognition by developing a neural network model using the CIFAR-10 dataset (Krizhevsky, 2009). Our aim is to build a Convolutional Neural Network (CNN) using Keras – an open-source neural network library in Python designed to support rapid experimentation with deep learning models.
 
-As noted by Chollet (2015), Keras stands out for its high-level interface, providing a simpler entry point into deep learning, and its ability to operate on top of TensorFlow, a comprehensive platform for machine learning. To facilitate our development process, we will utilise Google Colab, a cloud-based Python programming environment.
+As highlighted by Chollet (2015), Keras is notable for its high-level interface, which makes deep learning more accessible, and its integration with TensorFlow, a comprehensive machine learning framework. For this project, we will be using Google Colab, a cloud-based Python environment that simplifies development and allows access to GPU acceleration.
 
-This project covers critical aspects of machine learning, from data preprocessing and division of the dataset into training, validation, and testing sets, to defining the CNN architecture and fine-tuning hyperparameters. Our focus will be on preventing overfitting, ensuring model generalisation, and optimising the network's performance.
+The project covers key aspects of machine learning – from data preprocessing and splitting the dataset into training, validation, and test sets, to defining the CNN architecture and tuning hyperparameters. Particular attention is given to preventing overfitting, ensuring the model generalises well, and optimising overall performance.
 
 ## 2. Overview of the CIFAR-10 Dataset
 
