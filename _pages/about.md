@@ -7,8 +7,10 @@ featured_image: /images/demo/about.jpg
 
 ## Hello!
 
-This is Daisy! I am a Data enthusiast with over 15 years of experience spanning diverse industries such as banking, airlines, startups, and technology.
+This is Daisy! I hold an MSc in Data Science from the [University of Essex](https://essex.ac.uk/) and currently work at [Sourceability](https://sourceability.com/?utm_source=github&utm_medium=daisy&utm_id=daisy_personal).
 
-I thrive on the challenges of leading, gathering, interpreting, and leveraging data to generate insightful recommendations that help improve organizational effectiveness and address business needs.
+With over 15 years of experience across banking, airlines, startups, and technology sectors, I bring a strong foundation in data analytics, business insight, and strategic thinking.
 
-I currently serve as a Senior Data Analyst at [Sourceability](https://sourceability.com/?utm_source=github&utm_medium=daisy&utm_id=daisy_personal). I recently completed my MSc in Data Science at the at  [University of Essex](https://online.essex.ac.uk/) 
+I’m passionate about turning data into actionable knowledge — from designing data pipelines and exploring trends to building predictive models and uncovering patterns with machine learning techniques. Whether it’s improving operational efficiency, enhancing customer experiences, or guiding strategic decisions, I thrive on using data science to drive meaningful impact.
+
+Thank you!
