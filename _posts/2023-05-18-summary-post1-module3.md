@@ -1,14 +1,13 @@
 ---
 title: 'Opportunities, Limitations, Risks and Challenges in IoT Systems'
 date: 2023-05-18 00:00:00
-description: 'Essay: Summary Post 1 | Module 3: Deciphering Big Data'
+description: 'Essay: Opportunities, Limitations, Risks and Challenges in IoT Systems'
 featured_image: '/images/demo/lot.jpg'
 ---
 
 ## Opportunities, Limitations, Risks and Challenges in IoT Systems
 
-During the first collaborative discussion of the ‘Deciphering Big Data’ module at Essex, I learned that the Internet of Things (IoT) is a network of interconnected physical devices that are embedded with sensors, software, and connectivity, enabling them to collect and exchange data. 
-Evaluating the rationale behind IoT involves considering the opportunities, limitations, risks, and challenges associated with the process of data collection.
+The Internet of Things (IoT) refers to a network of interconnected physical devices equipped with sensors, software, and connectivity that enable them to collect, transmit, and exchange data. Understanding the rationale behind IoT requires a balanced evaluation of its potential benefits, such as operational efficiency and real-time monitoring, alongside its limitations, including data privacy concerns, security vulnerabilities, and the complexities of managing large-scale data collection and integration.
 
 •	**Opportunities**: Real time massive volume of data, providing information for analysis, allowing fast decision making and facilitating the development of automated models.
 
