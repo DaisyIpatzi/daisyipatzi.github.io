@@ -2,7 +2,7 @@
 title: 'Data Analytics Report: “National Survey for Wales: Transport”'
 subtitle: 'Data Handling Process & Evaluation'
 date: 2022-11-21 00:00:00
-description: 'Essay: First Stepts For a Data Analytics Report Implementation | Module 1: The Data Professional'
+description: 'Essay: National Survey for Wales: Transport'
 featured_image: '/images/demo/analytics.png'
 ---
 
