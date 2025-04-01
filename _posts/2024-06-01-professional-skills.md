@@ -3,6 +3,7 @@ title: 'Professional Development'
 date: 2024-06-01 00:00:00
 description: 'Overview of skills matrix, SWOT analysis, and action plan for career growth.'
 featured_image: '/images/demo/profdev.jpg'
+published: false
 ---
 
 # Professional Development
