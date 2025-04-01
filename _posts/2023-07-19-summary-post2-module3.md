@@ -1,7 +1,7 @@
 ---
 title: 'Importance of comparing the rules of the GDPR with similar compliance laws from other countries'
 date: 2023-07-19 00:00:00
-description: 'Essay: Summary Post 2 | Module 3: Deciphering Big Data'
+description: 'Essay: Importance of comparing the rules of the GDPR with similar compliance laws from other countries'
 featured_image: '/images/demo/gdpr_world.jpg'
 ---
 
