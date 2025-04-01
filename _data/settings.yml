@@ -18,7 +18,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: MSc Data Science | Passionate about making data meaningful
+  footer_tagline: MSc Data Science | Passionate About Making Data Meaningful
 
 hero_settings:
   overlay_opacity: 0.8
