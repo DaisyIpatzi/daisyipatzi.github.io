@@ -18,4 +18,7 @@ With over 15 years of experience across banking, airlines, startups, and technol
 I’m passionate about turning data into actionable knowledge — from designing data pipelines and exploring trends to building predictive models and uncovering patterns with machine learning techniques. Whether it’s improving operational efficiency, enhancing customer experiences, or guiding strategic decisions, I thrive on using data science to drive meaningful impact.
 
 
+Hi @Afghana609 , I am a lady !!!!
+
+
 Thank you!
