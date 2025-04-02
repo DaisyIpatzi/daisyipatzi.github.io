@@ -7,7 +7,7 @@ featured_image: /images/demo/about.jpg
 ## Hello!
 
 <p align="center">
-  <img src="/images/daisy.png" alt="Daisy Ipatzi" style="width: auto; height: 250px; border-radius: 5px; object-fit: contain; border: 3px solid #465561; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);">
+  <img src="/images/daisy.jpg" alt="Daisy Ipatzi" style="width: auto; height: 250px; border-radius: 5px; object-fit: contain; border: 3px solid #465561; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);">
 </p>
 
 
