@@ -13,20 +13,32 @@ In today’s globalised world, the rapid pace of technological change brings new
 
 **Few benefits:**
 
-* The European Union considers that privacy is a fundamental right of citizens that must be protected
-* With the GDPR, the rights and freedoms of citizens are extended, paying special attention to minors
-* The principle of proactive responsibility establishes that companies must apply technical and organisational measures to assure citizens that we respect those rights and freedoms
-* The risk approach allows us to adjust these measures to our circumstances
-Complying with the GDPR means that companies act ethically in an aspect that is especially sensitive for the population, so our reputation will be reinforced
+•	The European Union considers that privacy is a fundamental right of citizens that must be protected
+
+•	With the GDPR, the rights and freedoms of citizens are extended, paying special attention to minors
+
+•	The principle of proactive responsibility establishes that companies must apply technical and organisational measures to assure citizens that we respect those rights and freedoms
+
+•	The risk approach allows us to adjust these measures to our circumstances
+
+•	Complying with the GDPR means that companies act ethically in an aspect that is especially sensitive for the population, so our reputation will be reinforced
+
 
 **How to be Prepared?**
 
-* Understand the GDPR legal framework
-* Create a data registry: Each country has a Data Protection Association (DPA), which will be responsible for enforcing the GDPR
-* Classify data: Find personally identifiable information (PII)
-* Start with the top priority: With any data or application, the first priority should be to protect the privacy of the user
-* Assess and document additional risks and processes
-* Review and repeat
+•	Understand the GDPR legal framework
+
+•	Create a data registry: Each country has a Data Protection Association (DPA), which will be responsible for enforcing the GDPR
+
+•	Classify data: Find personally identifiable information (PII)
+
+•	Start with the top priority: With any data or application, the first priority should be to protect the privacy of the user
+
+•	Assess and document additional risks and processes
+
+•	Review and repeat
+
+Summing up, the GDPR has emerged not only as a legal mandate but as a trust-enabler in the data economy. Its emphasis on transparency, accountability, and user empowerment positions it as a gold standard in global data protection. However, compliance should not be viewed merely as a checklist of obligations but as a continuous commitment to ethical data stewardship. In the face of rising digital scepticism, privacy scandals, and algorithmic misuse, organisations that fully embrace GDPR principles can distinguish themselves through accountability, transparency, and user-centric design. Moreover, embedding GDPR principles into the organisational culture contributes to long-term resilience, builds stronger customer relationships, and fosters sustainable innovation. As data continues to shape economic, social, and political dynamics, trust in how that data is governed will be a defining factor for success in the digital age.
 
 **References:**
 
