@@ -1,6 +1,5 @@
 ---
 title: "Understanding CNNs with CNN Explainer"
-subtitle: "A High Level Description of Convolutional Neural Networks Architecture"
 date: 2024-01-31 00:00:00
 description: "Understanding CNNs with CNN Explainer: A High Level Description of Convolutional Neural Networks Architecture"
 featured_image: "images/demo/cnn-explainer-image.jpg"
