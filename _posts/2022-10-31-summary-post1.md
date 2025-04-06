@@ -1,5 +1,5 @@
 ---
-title: 'Views on Future of a Data Scientist: Roles and Responsibilities'
+title: 'Evaluating Predictions on the Future Demand for Data Scientists: A Response to Saxena (2021)'
 date: 2022-10-31 00:00:00
 description: 'Essay: Views on Future of a Data Scientist: Roles and Responsibilities'
 featured_image: '/images/demo/future_data_science.jpg'
@@ -7,26 +7,38 @@ featured_image: '/images/demo/future_data_science.jpg'
 
 ![](/images/demo/future_data_science.jpg)
 
-## Views on Future of a Data Scientist: Roles and Responsibilities
+## Evaluating Predictions on the Future Demand for Data Scientists: A Response to Saxena (2021)
 
-Several contributors, including myself, observed that Saxena (2021) begins his writing in a somewhat superficial and pessimistic tone. I would even argue that his introduction may discourage readers from engaging further with the fascinating field of data science.
+Several contributors, including myself, noted that Saxena (2021) begins his discussion of data science in a somewhat superficial and pessimistic manner. In fact, I would suggest that his introduction could potentially discourage readers from further exploring the exciting and dynamic field of data science.
 
-In practice, data science requires an interdisciplinary team that may include subject matter experts, engineers, developers, designers, analysts, project managers, and of course, data scientists, all collaborating on a shared objective. While there are now powerful libraries and pre-trained models available, key aspects such as subject sensitivity, ethical considerations, algorithm selection, the evolving nature of data (as seen with new Covid-19 variants), model maintenance, and the political or social implications of outcomes, still require human oversight. No server, regardless of its power, can replace human reasoning or ethical judgement.
+In reality, data science is inherently collaborative, typically involving interdisciplinary teams comprising subject matter experts, engineers, developers, designers, analysts, project managers, and, naturally, data scientists themselves. Together, these teams pursue shared goals. Despite the availability of powerful libraries and pre-trained models, crucial aspects—such as domain-specific sensitivity, ethical considerations, the choice of appropriate algorithms, responsiveness to evolving datasets (for example, emerging Covid-19 variants), ongoing model maintenance, and managing social or political impacts—require nuanced human oversight. No matter how powerful a server is, it cannot replace human judgement or ethical decision-making.
 
-Firstly, what is a data scientist? According to Bowne-Anderson (2018), Data science is an emerging field that uses combined algorithms and scientific methods to draw out knowledge and gain insights from structured and unstructured data. Considering that Data Science is a relatively new and constantly evolving area of study, the role of the data scientist could also be changing. But in essence, some roles and responsibilities are:
+But what exactly is a data scientist? According to Bowne-Anderson (2018), data science is an emerging discipline that blends algorithms and scientific methods to extract meaningful insights from structured and unstructured data. Given the relatively recent emergence and constant evolution of data science, the role of the data scientist itself continues to evolve. Nonetheless, core roles and responsibilities typically include:
 
-Interdisciplinary collaboration with people from other backgrounds, depending on the industry in which we work.
-Know and apply the principles of data protection laws and, behave ethically and socially responsible.
-Transform information and gather (query) large volumes of data, analysing and be conscious of its behaviour. With the understanding that a Data Scientist can swim easily in programming languages such as Python or manipulate databases such as SQL.
-Implement, maintain, and evaluate models and strategies, based on data and analysis.
-Below are not necessarily responsibilities that a data scientist must develop actively but, it is a must to have knowledge and full understanding:
-Data architecture: establishment of models, policies, and rules to manage data.
-Data modelling & design: database design, implementation, and technical support management.
-Data governance: planning, supervision, and control in the management and use of data.
-Data storage: definition of the storage location, and the amount and type of data to be stored.
-Data security: protection of privacy and confidentiality.
-Among many other things!
-That is why data science is important, because from the treatment of this data it can generate information that can be used to make better decisions and create more innovative products or services, in addition to allowing autonomous learning models to 'educate' themselves Big Data instead of relying, as was previously done. Data science is challenging due to the advanced nature that analytics involves in these times. Sounds exciting!
+•	Collaborating effectively with experts from diverse professional backgrounds, depending on industry requirements.
+
+•	Understanding and applying data protection principles, while consistently behaving ethically and socially responsibly.
+
+•	Extracting and transforming large volumes of data, conducting thorough analyses, and interpreting data behaviours. This includes proficiency in programming languages such as Python and database manipulation using SQL.
+
+•	Implementing, maintaining, and evaluating analytical models and data-driven strategies.
+
+There are also critical areas where a data scientist may not actively engage day-to-day but must possess thorough knowledge and understanding:
+
+•	**Data architecture**: Establishing models, policies, and guidelines for managing data.
+
+•	**Data modelling and design**: Designing databases and overseeing their implementation and management.
+
+•	**Data governance**: Supervising and controlling data management practices.
+
+•	**Data storage**: Deciding storage solutions and managing data volumes effectively.
+
+•	**Data security**: Ensuring privacy and confidentiality are protected.
+
+These diverse responsibilities highlight why data science is so significant. Effective data handling enables better decision-making and fosters innovation, creating smarter products and services. Moreover, data science facilitates autonomous learning, allowing models to gain insights from Big Data independently, representing a significant shift from traditional methods. The complexity and analytical sophistication required in modern data science make it both challenging and profoundly exciting.
+
+In conclusion, while Saxena (2021) raises valid concerns about potential future challenges in the field of data science, the evolving and collaborative nature of the discipline suggests that demand for skilled data scientists will remain strong. Continuous adaptation, interdisciplinary collaboration, and a commitment to ethical principles will ensure the continued relevance and value of data science across various industries.
+
 
 **References:**
 
