@@ -2,7 +2,7 @@
 title: 'Data Analytics Report: “National Survey for Wales: Transport”'
 subtitle: 'Data Handling Process & Evaluation'
 date: 2022-11-21 00:00:00
-description: 'Essay: National Survey for Wales: Transport'
+description: 'National Survey for Wales: Transport'
 featured_image: '/images/demo/analytics.png'
 ---
 
@@ -149,8 +149,7 @@ By taking this high-level approach, we will be able to determine which data is m
 
 ### 3.4	Present/share the data
 
-Implementation will be shared in another post, very soon!
-
+The final analysis has been communicated to the relevant stakeholders. Key findings and insights have been structured to support informed decision-making, and a follow-up communication will further highlight the data story, with visual representations tailored for broader engagement.
 
 ## References
 
