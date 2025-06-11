@@ -6,7 +6,7 @@ featured_image: /images/demo/about.jpg
 ---
 ## Hello!
 
-This is Daisy! I hold an MSc in Data Science from the [University of Essex](https://essex.ac.uk/) and currently work at [Sourceability](https://sourceability.com/?utm_source=github&utm_medium=daisy&utm_id=daisy_personal).
+This is Daisy! I hold an MSc in Data Science from the [University of Essex](https://essex.ac.uk/) and currently work at [Sourceability](https://sourceability.com/?utm_source=github&utm_medium=daisy&utm_id=daisy_personal). I am also a PhD student at the [University of West London](https://www.uwl.ac.uk/), where my research focuses on data-driven approaches to ethical and impactful machine learning.
 
 With over 15 years of experience across banking, airlines, startups, and technology sectors, I bring a strong foundation in data analytics, business insight, and strategic thinking.
 
