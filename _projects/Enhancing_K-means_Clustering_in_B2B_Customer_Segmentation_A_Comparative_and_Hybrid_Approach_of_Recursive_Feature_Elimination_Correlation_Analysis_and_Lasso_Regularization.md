@@ -19,6 +19,6 @@ springer_link: "https://doi.org/10.1007/978-3-032-09945-7_30"
      target="_blank"
      rel="noopener noreferrer"
      style="display:inline-block; padding:0.6rem 1rem; border-radius:999px; border:1px solid #0077b5; text-decoration:none; font-weight:600;">
-    View full chapter on SpringerLink
+    View full chapter on Springer
   </a>
 </div>
