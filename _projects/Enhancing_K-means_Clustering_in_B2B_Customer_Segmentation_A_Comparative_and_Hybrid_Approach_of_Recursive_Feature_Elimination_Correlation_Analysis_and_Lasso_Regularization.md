@@ -1,3 +1,14 @@
+---
+title: "Enhancing K-means Clustering in B2B Customer Segmentation"
+subtitle: "SpringerLink Publication"
+date: 2025-11-25 00:00:00
+description: "Peer-reviewed chapter published on SpringerLink on enhancing K-means clustering in B2B customer segmentation using RFE, correlation analysis, and Lasso regularisation."
+featured_image: "assets/MISCN.jpg"
+published: true
+springer_link: "https://doi.org/10.1007/978-3-032-09945-7_30"
+---
+
+
 ## Springer Chapter Publication
 
 <div style="border:1px solid #ddd; padding:1rem; border-radius:8px; margin:1.5rem 0;">
