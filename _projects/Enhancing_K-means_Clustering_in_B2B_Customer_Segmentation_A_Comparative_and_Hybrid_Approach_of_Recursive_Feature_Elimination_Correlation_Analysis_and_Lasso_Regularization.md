@@ -1,0 +1,1 @@
+[Enhancing K-means Clustering in B2B Customer Segmentation – ResearchGate](https://www.researchgate.net/publication/397842728_Enhancing_K-means_Clustering_in_B2B_Customer_Segmentation_A_Comparative_and_Hybrid_Approach_of_Recursive_Feature_Elimination_Correlation_Analysis_and_Lasso_Regularization)
